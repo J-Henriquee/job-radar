@@ -2,6 +2,10 @@ import httpx
 import asyncio
 import json
 
+import os
+from datetime import datetime
+
+
 async def buscar_dados(nome_empresa: str, fonte: str) -> dict:
 
     async with httpx.AsyncClient() as client:
@@ -29,19 +33,26 @@ board_tokens = ['canonical',
                 'tiktok', 
                 'pinterest']
 
-empresas_lever = ['leverdemo', 'coursera', 'hopper', 'hopper', 'kpmg-new-zealand', 'atlassian']
+empresas_lever = ['leverdemo', 'coursera', 'hopper', 'kpmg-new-zealand', 'atlassian']
 
+os.makedirs(f"data/bronze", exist_ok=True)
 
 async def orquestrador():
+    
     tarefas_greenhouse = [buscar_dados(board_token, "greenhouse") for board_token in board_tokens]
     tarefas_lever = [buscar_dados(empresa, "lever") for empresa in empresas_lever]
+    data_hoje = datetime.now().strftime("%Y-%m-%d")
+
 
     resultados = await asyncio.gather(*tarefas_greenhouse, *tarefas_lever)
     for resultado in resultados:
         if "erro" in resultado:
             print(resultado["erro"])
         else:
-            print(f"Sucesso! Dados encontrados com as chaves: {list(resultado.keys())}")
+            caminho_arquivo = f"{resultado['empresa']}_{resultado['fonte']}_{data_hoje}"
+            with open(f"data/bronze/{caminho_arquivo}.json", "w") as f:
+                json.dump(resultado["dados"], f, indent=4, ensure_ascii=False)
+
     return resultados
 
 
