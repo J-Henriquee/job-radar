@@ -1,7 +1,7 @@
 import json
 import html
 from bs4 import BeautifulSoup
-
+import hashlib
 
 import os 
 
@@ -9,28 +9,42 @@ path = "data/bronze"
 os.makedirs(f"data/silver", exist_ok=True)
 
 def parse_lever(vaga_bruta, nome_empresa, data_extracao):
+    titulo = vaga_bruta.get("text")
+    descricao_texto = vaga_bruta.get("descriptionPlain", "")
+    texto_para_hash = f"{titulo}{nome_empresa}{descricao_texto}"   
+    hash_object= hashlib.sha256()
+    hash_object.update(texto_para_hash.encode("utf-8"))
+    id_vaga = hash_object.hexdigest()
+    
     return {
         "id_vaga": vaga_bruta.get("id"),
-        "titulo": vaga_bruta.get("text"),
+        "hash_vaga": id_vaga,
+        "titulo": titulo,
         "empresa": nome_empresa,
         "fonte": "lever",
         "local":vaga_bruta.get("categories", {}).get("location"), 
         "remoto": vaga_bruta.get("workplaceType", "").lower() == "remote",
         "url": vaga_bruta.get("hostedUrl"), 
-        "descricao_texto": vaga_bruta.get("descriptionPlain"),
+        "descricao_texto": descricao_texto,
         "data_extracao": data_extracao
     } 
 
 
 def parse_greenhouse(vaga_bruta, nome_empresa, data_extracao):
+    titulo = vaga_bruta.get("title", "")
 
     htmltext = vaga_bruta.get("content", "")
     html_desescapado = html.unescape(htmltext)
     texto_limpo = BeautifulSoup(html_desescapado, "html.parser").get_text(separator=" ", strip=True)
-    
+    texto_para_hash = f"{vaga_bruta.get('title')}{nome_empresa}{texto_limpo}"
+    hash_object= hashlib.sha256()
+    hash_object.update(texto_para_hash.encode("utf-8"))
+    id_vaga = hash_object.hexdigest()
+
     return {
         "id_vaga": vaga_bruta.get("id"),
-        "titulo": vaga_bruta.get("title"),
+        "hash_vaga":id_vaga,
+        "titulo": titulo,
         "empresa": nome_empresa,
         "fonte": "greenhouse",
         "local": vaga_bruta.get("location", {}).get("name"),
