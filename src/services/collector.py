@@ -11,7 +11,7 @@ async def buscar_dados(nome_empresa: str, fonte: str) -> dict:
     async with httpx.AsyncClient() as client:
         try:
             if fonte == "greenhouse":
-                r = await client.get(f"https://boards-api.greenhouse.io/v1/boards/{nome_empresa}/jobs")
+                r = await client.get(f"https://boards-api.greenhouse.io/v1/boards/{nome_empresa}/jobs?content=true")
             elif fonte == "lever":
                 r = await client.get(f"https://api.lever.co/v0/postings/{nome_empresa}?mode=json")
             r.raise_for_status()
