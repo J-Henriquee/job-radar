@@ -2,8 +2,8 @@ from fastapi import FastAPI, Depends
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
+from typing import Optional
 
-# Importando os nossos modelos do banco (SQLAlchemy) e da API (Pydantic)
 from src.models.models import Vaga
 from src.api.schemas import VagaResponse
 
@@ -36,9 +36,21 @@ def health_check():
     return {"status": "healthy"}
 
 @app.get("/vagas", response_model=list[VagaResponse])
-def listar_vagas(db: Session = Depends(get_db)):
-    
-    vagas = db.query(Vaga).limit(10).all()
-    
+def listar_vagas(
+    skip: int = 0,
+    limit: int = 100,
+    empresa: Optional[str] = None,
+    remoto: Optional[bool] = None,
+    db: Session = Depends(get_db)
+):
+    query = db.query(Vaga)
 
+    if empresa:
+        query = query.filter(Vaga.empresa.ilike(f"%{empresa}%"))
+
+    if remoto is not None:
+        query = query.filter(Vaga.remoto == remoto)
+
+    vagas = query.order_by(Vaga.data_extracao.desc()).offset(skip).limit(limit).all()
+    
     return vagas
