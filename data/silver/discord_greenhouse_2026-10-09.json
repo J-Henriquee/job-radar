@@ -1,6 +1,7 @@
 [
     {
         "id_vaga": 8806482002,
+        "hash_vaga": "9e41994d40495bbd01d0f4191cb2c956e1df343b4e006d733007d4d27fc1cadf",
         "titulo": "Commercial Policy Lead",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -12,6 +13,7 @@
     },
     {
         "id_vaga": 8840756002,
+        "hash_vaga": "1a2a83b529e5df31fa5140151cfbe238cd8e33c129245569f305de9c2574ee2c",
         "titulo": "Data Scientist - Client Platform",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -23,6 +25,7 @@
     },
     {
         "id_vaga": 8722538002,
+        "hash_vaga": "4fd14bef40ff48e03bf9ae80b0f1476aa9f794460a8f22d21f8caa64aeb7f4b9",
         "titulo": "Engineering Manager, Machine Learning (Safety)",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -34,6 +37,7 @@
     },
     {
         "id_vaga": 8649856002,
+        "hash_vaga": "3a8a5c324ed8d8db8bc4deb8690298a9306a2becd61e62e00e64a948e4f23c29",
         "titulo": "Engineering Manager, Platform Security",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -45,6 +49,7 @@
     },
     {
         "id_vaga": 8637688002,
+        "hash_vaga": "cd889bb7090de8748eaa8b90d7d480eccfceeafba0636c4ee6cf2054cba84617",
         "titulo": "Engineering Manager, Safety",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -56,6 +61,7 @@
     },
     {
         "id_vaga": 8827890002,
+        "hash_vaga": "e6a636e792d9662fa4e0c66cf377fc6ab716ee08355a0ea72c6d3310c342c7b8",
         "titulo": "Graphic Designer & Illustrator",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -67,6 +73,7 @@
     },
     {
         "id_vaga": 8796132002,
+        "hash_vaga": "5fa0588801b91d41d561452a58966592ba69aa06b900da4d36a43dc09f34c24d",
         "titulo": "IT Ops Engineer - Lisbon",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -78,6 +85,7 @@
     },
     {
         "id_vaga": 8801465002,
+        "hash_vaga": "5df345bf7c318168203b9d8dda14813bba5fe6a392bd770672875fc6db0e8649",
         "titulo": "Marketing Program Manager",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -89,6 +97,7 @@
     },
     {
         "id_vaga": 8771059002,
+        "hash_vaga": "1dc2c7db040227f386160bd076a40c7af42440820598159befffd6e7963debd4",
         "titulo": "Payments & Fraud Analyst",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -100,6 +109,7 @@
     },
     {
         "id_vaga": 8674411002,
+        "hash_vaga": "072c591d85c1ab18171531865585b06b352c5664273f3f90eed804afdeefd09a",
         "titulo": "Product Designer, Growth",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -111,6 +121,7 @@
     },
     {
         "id_vaga": 8879502002,
+        "hash_vaga": "a265350cc5f1934343aeefe732940a8afbcd517add0e4a7e0039ffabb423a4ad",
         "titulo": "Product Designer, Player Experiences",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -122,6 +133,7 @@
     },
     {
         "id_vaga": 8703614002,
+        "hash_vaga": "981b026a343f63aab735ff6a5d56f90dea814dcd5a2203a64a81f40617e95a86",
         "titulo": "QA/DevOps Engineer",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -133,6 +145,7 @@
     },
     {
         "id_vaga": 8811982002,
+        "hash_vaga": "d754b311befc4ff318e0c814ed4eceb0d157f2514af3adb38b063a826079f426",
         "titulo": "Sales Operations Manager",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -144,6 +157,7 @@
     },
     {
         "id_vaga": 8485884002,
+        "hash_vaga": "253af58de04a352907fe8a85b9cfa60082a6a37238dc717f78c7b4c68ce85143",
         "titulo": "Senior Data Engineer",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -155,6 +169,7 @@
     },
     {
         "id_vaga": 8299493002,
+        "hash_vaga": "662c0180b4c6f7ad5616ac7ef5d42b00ce6d7608b7a495fce23db1d2e512a41b",
         "titulo": "Senior Data Engineer, Ads",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -166,6 +181,7 @@
     },
     {
         "id_vaga": 8821508002,
+        "hash_vaga": "719c9edfa20e734d20a3a1146a770fa91aceae0b9f5c3c2c802db0ffbb0f6368",
         "titulo": "Senior Data Science Manager, Developer Platform",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -177,6 +193,7 @@
     },
     {
         "id_vaga": 8730666002,
+        "hash_vaga": "cfcb842c3e7e9820fb44c51ec7b5b7103a7f3425c1ce9fe7a89e328202fd103f",
         "titulo": "Senior Data Scientist, Causal Inference + Experimentation",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -188,6 +205,7 @@
     },
     {
         "id_vaga": 8659978002,
+        "hash_vaga": "842c1d9d8161757f607622b7a8a80fff9c43fe04c8b527d9386b3a971590c841",
         "titulo": "Senior Full-Stack Software Engineer, Ads",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -199,6 +217,7 @@
     },
     {
         "id_vaga": 8811574002,
+        "hash_vaga": "cc1c2eae2a1d37d6c9bb2887057d5ba08edeceeb326fd61b4482f3447a8adb80",
         "titulo": "Senior Full-Stack Software Engineer, Developer Success",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -210,6 +229,7 @@
     },
     {
         "id_vaga": 8856467002,
+        "hash_vaga": "cf61e51c87f386584ea81901d4c4015f7393d05ca609214889330826f77024c6",
         "titulo": "Senior Full-Stack Software Engineer, Engagement",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -221,6 +241,7 @@
     },
     {
         "id_vaga": 8642085002,
+        "hash_vaga": "806e1bd1e3f9e1dcf209b7624753c161a041178baeff4cb947c92bcfc5ee7d77",
         "titulo": "Senior Full-Stack Software Engineer, Growth ",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -232,6 +253,7 @@
     },
     {
         "id_vaga": 8769799002,
+        "hash_vaga": "a10ab2a5d80561d412a396db7eedc8e8f925c539bf6e065362ee2d1e3c32988f",
         "titulo": "Senior Platform Security Engineer ",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -243,6 +265,7 @@
     },
     {
         "id_vaga": 8731898002,
+        "hash_vaga": "0231308dcedc5b2697693202053791f1ea58444ccd80739ff1f18953d0db4bc9",
         "titulo": "Senior Product Designer, Consumer Revenue",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -254,6 +277,7 @@
     },
     {
         "id_vaga": 8846330002,
+        "hash_vaga": "b726c8799ce868ddc69bb6a54a94e515304a21d135f3148d0730072b029a0b0d",
         "titulo": "Senior Product Designer, Design Systems",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -265,6 +289,7 @@
     },
     {
         "id_vaga": 8595014002,
+        "hash_vaga": "9007e6343ecff14323cfa385f68eb263080395d07c953c94ed2db5d38276d4c1",
         "titulo": "Senior Product Designer, Developer Success",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -276,6 +301,7 @@
     },
     {
         "id_vaga": 8780263002,
+        "hash_vaga": "84826ce6657d160ccd6f0a9df7923b1918164538bee6fe49732b6d57f55df7f7",
         "titulo": "Senior Product Design Manager, Growth",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -287,6 +313,7 @@
     },
     {
         "id_vaga": 8697883002,
+        "hash_vaga": "e719bdb5de0c57cc169ad1a30f2094a1d2fd353fbdd710829f4495759eba3e2f",
         "titulo": "Senior Software Engineer, Ads",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -298,6 +325,7 @@
     },
     {
         "id_vaga": 8656854002,
+        "hash_vaga": "09ca9a6e32ec5490dd7ba62d1bf240ccfa0a302e1545271fad455301c4d113d4",
         "titulo": "Senior Software Engineer, Application Security",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -309,6 +337,7 @@
     },
     {
         "id_vaga": 8460791002,
+        "hash_vaga": "98dd32e8c21a74267f77d0127a433a901e76852e98f4d8cfe9edc76044af3892",
         "titulo": "Senior Software Engineer, Consumer Revenue",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -320,6 +349,7 @@
     },
     {
         "id_vaga": 8642087002,
+        "hash_vaga": "ff3415c2d87fa527302af0a66b02f82ee470750534d407df97debb21b91a9ba4",
         "titulo": "Senior Software Engineer, Growth ",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -331,6 +361,7 @@
     },
     {
         "id_vaga": 8369347002,
+        "hash_vaga": "cf64f49a45c1fa52886eb0b0761dab7d74b191c1c6aa0fb01ffaa548b8ef2461",
         "titulo": "Senior Software Engineer, Machine Learning (Safety)",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -342,6 +373,7 @@
     },
     {
         "id_vaga": 8817776002,
+        "hash_vaga": "727d75d4ec8f5e274aa9839b33d8221d53387ea54f1120a11b318fd00beab3e4",
         "titulo": "Senior Software Engineer - Safety Experience",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -353,6 +385,7 @@
     },
     {
         "id_vaga": 8545675002,
+        "hash_vaga": "18384833b713d100cc25842ada575b1e1ff99049e01e5b75702431b77909647f",
         "titulo": "Senior Software Engineer, Safety Processing",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -364,6 +397,7 @@
     },
     {
         "id_vaga": 8815116002,
+        "hash_vaga": "94a286d1ab744cf247622a1a1b2c1f52dd519406e7b97227bced0155bfb4f62a",
         "titulo": "Senior Staff Program Manager, Creator Partnerships",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -375,6 +409,7 @@
     },
     {
         "id_vaga": 8757366002,
+        "hash_vaga": "8d5a7bb33074166925f5d37c49d4dc8392f3d61586c752f7f1624595d5001e26",
         "titulo": "Senior Stock Administrator",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -386,6 +421,7 @@
     },
     {
         "id_vaga": 8846732002,
+        "hash_vaga": "c23a6adc4d6888ef0eec8644711be0f39f27fdf1385e35285c23f054a0ec0091",
         "titulo": "Software Engineer, Consumer Revenue",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -397,6 +433,7 @@
     },
     {
         "id_vaga": 8806163002,
+        "hash_vaga": "bac1ae388bb38c87b77058143e28350090b309cd1b7c451999349676b5210b13",
         "titulo": "Software Engineer, Distributed Systems",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -408,6 +445,7 @@
     },
     {
         "id_vaga": 8642213002,
+        "hash_vaga": "0039edced6b3178cfae5386cf6ef6cd2e7d9c720ff20abd7a147019a19ab505a",
         "titulo": "Software Engineer, Notifications",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -419,6 +457,7 @@
     },
     {
         "id_vaga": 8823881002,
+        "hash_vaga": "0dfeff2250a9be6bf329da113c4656520b17f86b507f64e0de1fa913e65b1132",
         "titulo": "Software Engineer, Safety Processing",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -430,6 +469,7 @@
     },
     {
         "id_vaga": 8691572002,
+        "hash_vaga": "8b32033bc02a029f8bd6184d0e2ae7f7ac6e104dfdb65f5483345089987208fe",
         "titulo": "Staff Data Engineer - Data Infrastructure",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -441,6 +481,7 @@
     },
     {
         "id_vaga": 8652853002,
+        "hash_vaga": "e3fe2fa238872008463efc472e3766d686f2f78f1069efd7135da40d3ed22517",
         "titulo": "Staff Data Scientist, Causal Inference & Experimentation",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -452,6 +493,7 @@
     },
     {
         "id_vaga": 8464570002,
+        "hash_vaga": "710e7d636bbb13871315ab90e1d914d77a3f19e29eff130f2f5113bf4767ea9b",
         "titulo": "Staff Software Engineer - Consumer Revenue",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -463,6 +505,7 @@
     },
     {
         "id_vaga": 8675185002,
+        "hash_vaga": "1622ee2dace383e5e6d9dc30ede1879127c65234a758fded1e4c7fd510360d79",
         "titulo": "Staff Software Engineer, Enterprise Platform",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -474,6 +517,7 @@
     },
     {
         "id_vaga": 8700605002,
+        "hash_vaga": "01c46eb66bd100a222d155e5d597d5afc918ecba5e9977baccd080b4602844c2",
         "titulo": "Staff Software Engineer, Experimentation Platform",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -485,6 +529,7 @@
     },
     {
         "id_vaga": 8802354002,
+        "hash_vaga": "0c7fb6d62bf4b93d6b880a25bc6d7e13a9d129fc6fb0bcdc4dfa62430ade606a",
         "titulo": "Staff Software Engineer, Machine Learning (Consumer Revenue)",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -496,6 +541,7 @@
     },
     {
         "id_vaga": 8727410002,
+        "hash_vaga": "a3916649e6457cfb6a93ae8dc92d046f4cd808f94c2558d41f3fcb77c5da2134",
         "titulo": "Staff Software Engineer, Safety Experience",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -507,6 +553,7 @@
     },
     {
         "id_vaga": 8214127002,
+        "hash_vaga": "fc0f232150273453ef08d64f470ccfa8305c23e6cc93e493937e2f23638940a9",
         "titulo": "Staff Software Engineer, Safety Processing",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -518,6 +565,7 @@
     },
     {
         "id_vaga": 8771034002,
+        "hash_vaga": "ae5ca9f23a4e0773b6da26f5446ca98d66f9ff89d2e759c775f16f6d429b1825",
         "titulo": "Staff Technical Program Manager, Security + IT",
         "empresa": "discord",
         "fonte": "greenhouse",
@@ -529,6 +577,7 @@
     },
     {
         "id_vaga": 8575166002,
+        "hash_vaga": "af60facb519394c02649a5539f917b844fdda6450416b2c8a9411729102367ab",
         "titulo": "Strategic Finance Analyst",
         "empresa": "discord",
         "fonte": "greenhouse",

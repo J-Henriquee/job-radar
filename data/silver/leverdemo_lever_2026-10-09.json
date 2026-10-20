@@ -1,6 +1,7 @@
 [
     {
         "id_vaga": "ad208490-4052-4f91-a57e-433f2d1e484b",
+        "hash_vaga": "6d02339a393d63d99d3e3816fdff9dbea059e5cc492dc87fdd5313e8947aa93e",
         "titulo": "Customer Success Manager",
         "empresa": "leverdemo",
         "fonte": "lever",
@@ -12,6 +13,7 @@
     },
     {
         "id_vaga": "120b5976-ee4e-4dc5-b31b-2b1ca124460c",
+        "hash_vaga": "1953e859e601be656d99916963c964fc10be864c3a56d3888eef5556ff94adc1",
         "titulo": "Dentist",
         "empresa": "leverdemo",
         "fonte": "lever",
@@ -23,6 +25,7 @@
     },
     {
         "id_vaga": "1dbf02a6-d434-4e47-8d66-3aba2c17bed1",
+        "hash_vaga": "51e588a07d338c953f80c2524f5c11e84babb4edfcdc67c48f5886438a4b05c1",
         "titulo": "Director of Diversity, Equity, and Inclusion",
         "empresa": "leverdemo",
         "fonte": "lever",
@@ -34,6 +37,7 @@
     },
     {
         "id_vaga": "7e10ea46-98be-4bd1-a3ca-57d153b25c61",
+        "hash_vaga": "c7c84ec6fb615c008b94ee818f8c444d5934fdcffb66a445be4f4da7494e1bb1",
         "titulo": "Sales Engineer",
         "empresa": "leverdemo",
         "fonte": "lever",
@@ -45,6 +49,7 @@
     },
     {
         "id_vaga": "58db3f8e-b108-47d1-9e6e-87a1712497cd",
+        "hash_vaga": "5c5ef61d92f6a9dfc926b493b3c3ce1a4e890fbdfc4a22858e6940ccd761db6e",
         "titulo": "Sales Engineer AH",
         "empresa": "leverdemo",
         "fonte": "lever",
@@ -56,6 +61,7 @@
     },
     {
         "id_vaga": "d3afdff4-3005-4d29-a548-3b106436eabe",
+        "hash_vaga": "d8ca1945f13c7d3edff7d3db7f3e4cc36b48d13cfb71847d666c4cf4b6370f00",
         "titulo": "Senior Sales Engineer",
         "empresa": "leverdemo",
         "fonte": "lever",
@@ -67,6 +73,7 @@
     },
     {
         "id_vaga": "82fbbecc-5535-466b-a84b-7957cf49e443",
+        "hash_vaga": "8f9c27c387bf245c4291ff1a1b673f6cae439af95fcb40a796c2674a787e364e",
         "titulo": "Senior Software Developer, Platform",
         "empresa": "leverdemo",
         "fonte": "lever",
@@ -78,6 +85,7 @@
     },
     {
         "id_vaga": "72c48fc7-e770-495d-98ca-996ea89650c1",
+        "hash_vaga": "ff7081afed04ffcea7e06bc1a1e18f53f4d05a5e3bac662ff75cfd7a31129371",
         "titulo": "Sr. Customer Success Manager ST",
         "empresa": "leverdemo",
         "fonte": "lever",
@@ -89,6 +97,7 @@
     },
     {
         "id_vaga": "5243ea1b-f2c0-4f43-8f02-a5dbb97e24cb",
+        "hash_vaga": "c8c98c3540709d97bedc4b4167d8f477783326b98b534ba557ede2677ca5c477",
         "titulo": "Staff Accountant",
         "empresa": "leverdemo",
         "fonte": "lever",
@@ -100,6 +109,7 @@
     },
     {
         "id_vaga": "93db84be-2f79-4264-b521-510409fd0225",
+        "hash_vaga": "04bfb04d303ca7177b0235dce838d2f58c017161837669c16e7eb77760a8cda8",
         "titulo": "Stephanie Test Posting A",
         "empresa": "leverdemo",
         "fonte": "lever",

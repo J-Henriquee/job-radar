@@ -1,6 +1,7 @@
 [
     {
         "id_vaga": 8103612,
+        "hash_vaga": "22d0e89c2b95c5b13593a92f3a2706b98d838976aacd1eba2218765e3c3bb645",
         "titulo": "Administrative Business Partner I - Engineering, Product and Design",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -12,6 +13,7 @@
     },
     {
         "id_vaga": 8135500,
+        "hash_vaga": "c8d68a4dbfbf1464731b340e25d2963f7d8c562e36f35ef5a6dac24d6747c1e6",
         "titulo": "Client Account Manager, Enterprise Sales - Italian Market",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -23,6 +25,7 @@
     },
     {
         "id_vaga": 8242487,
+        "hash_vaga": "3f68e8f3977c3fd67fc3b9130658a4b159ac5670e9a818faec3f4bb0f62c6057",
         "titulo": "Client Account Manager I (Fixed Term Contract)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -34,6 +37,7 @@
     },
     {
         "id_vaga": 8202207,
+        "hash_vaga": "c0fb1f105ca45cb3eae854e64924a5181fff5d6ab3e46ab51e6a0ccd74523990",
         "titulo": "Client Account Manager II",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -45,6 +49,7 @@
     },
     {
         "id_vaga": 8130612,
+        "hash_vaga": "c2299cf8535da9ec3acedeb2c6474ea83744e3167925d81f7142d420ccabe2ad",
         "titulo": "Client Account Manager II, Affiliate (tvScientific)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -56,6 +61,7 @@
     },
     {
         "id_vaga": 8223489,
+        "hash_vaga": "8f2a47bb0afb19df395413a1c8166e7aaf66be62e4dc429c31add05a0e1d465a",
         "titulo": "Client Account Manager II, Beauty CPG",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -67,6 +73,7 @@
     },
     {
         "id_vaga": 8114760,
+        "hash_vaga": "8a1bc0b84de5c06fed10aa49302454580f8ac57ba7d6a68e43eb65541ab64f59",
         "titulo": "Client Account Manager II, CPG (Food)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -78,6 +85,7 @@
     },
     {
         "id_vaga": 8205230,
+        "hash_vaga": "944910a1d387db6f21c0db87d920572c26ec816bf54198e8c602999af38925bd",
         "titulo": "Client Account Manager, UK Enterprise Sales [12-Month Fixed Term]",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -89,6 +97,7 @@
     },
     {
         "id_vaga": 7908767,
+        "hash_vaga": "22d86b9a38747ce82d7a29b32efda821645877e16596adb720ca96fe6aa36349",
         "titulo": "Content Designer II, Personalization",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -100,6 +109,7 @@
     },
     {
         "id_vaga": 8211440,
+        "hash_vaga": "9d3a4aa2b3b1f8bb23f9ec5ae9eecf9e063a041c7c13debdeeeaf3008449273b",
         "titulo": "Content Growth Specialist, APAC Growth [6-Month Fixed Term]",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -111,6 +121,7 @@
     },
     {
         "id_vaga": 7816424,
+        "hash_vaga": "faad69335f1820ef7c035bfa54b7873b5b71dd79b7cefcad211a02c6d9a360ea",
         "titulo": "Data Scientist II, Infrastructure",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -122,6 +133,7 @@
     },
     {
         "id_vaga": 8233536,
+        "hash_vaga": "4df9bf02321216baac36c4dbb7e2960136810835d5d8cd301d9c11fb4943af23",
         "titulo": "Director & Assistant General Counsel, Commercial ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -133,6 +145,7 @@
     },
     {
         "id_vaga": 8016652,
+        "hash_vaga": "524cd8a67646f1b6a9f146e5944cc17db6cba3879c19e089ee4ee61c18ddb294",
         "titulo": "Director, Enterprise Sales - Greater China Region",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -144,6 +157,7 @@
     },
     {
         "id_vaga": 8234555,
+        "hash_vaga": "7dd83476f10af6c81372d58ffecb220fc1e166f648cc55bedb37792c38e1debe",
         "titulo": "Director, Machine Learning Engineering, Ads Measurement",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -155,6 +169,7 @@
     },
     {
         "id_vaga": 8258175,
+        "hash_vaga": "2fe92751de1ae71c9b835310bd88f435cd88b112862f4fd248e23bccdf5b88c7",
         "titulo": "Director, Machine Learning Engineering, Ads Quality",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -166,6 +181,7 @@
     },
     {
         "id_vaga": 8035163,
+        "hash_vaga": "8598ea346f2a7912f30fbf284e695734ca95a55c1deafb8020ec0b307bb19b53",
         "titulo": "Director of Engineering, Core & Ads Serving Platform",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -177,6 +193,7 @@
     },
     {
         "id_vaga": 8132504,
+        "hash_vaga": "c7130bde9a1fd0c2bc0ca18bc5be89f5b7b22de49e09c705c75628ff1aaf0dd3",
         "titulo": "Director of Product Management, Advertiser Growth",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -188,6 +205,7 @@
     },
     {
         "id_vaga": 8016669,
+        "hash_vaga": "cb6e8e62e3c52c8e0e47224c07874a5d8b1c97f96999c5402b51f083192a578d",
         "titulo": "Director, Sales Partners & Agency - Greater China Region",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -199,6 +217,7 @@
     },
     {
         "id_vaga": 8094012,
+        "hash_vaga": "ad611c13ab74c1bbf07f2e0ba89e25bd37256f445546d2a00a2898f67a775b52",
         "titulo": "Director, UK Enterprise Sales (Multi-Vertical)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -210,6 +229,7 @@
     },
     {
         "id_vaga": 7479359,
+        "hash_vaga": "c2fc44f65936e28517827e875eef71002de9aa9aee3de0db58a58aaa0f8f95e4",
         "titulo": "Director, UK Enterprise Sales (Retail)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -221,6 +241,7 @@
     },
     {
         "id_vaga": 8015531,
+        "hash_vaga": "0fac97e4d123e5c4ac61a6870b0042962412e7a483d9a0722d9161bb91b7db73",
         "titulo": "Engineering Manager II, Android Modernization",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -232,6 +253,7 @@
     },
     {
         "id_vaga": 8015517,
+        "hash_vaga": "94431803913837aa5edfdedb69d92d5961bbad156af804d2e6ff46cae694c9f2",
         "titulo": "Engineering Manager II, iOS Modernization",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -243,6 +265,7 @@
     },
     {
         "id_vaga": 8051472,
+        "hash_vaga": "a6b6eb53a116c15d222da59efda0202f91ed2a724438ac659223e353f6b1a91f",
         "titulo": "Engineering Manager II, Media Rendering",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -254,6 +277,7 @@
     },
     {
         "id_vaga": 8015529,
+        "hash_vaga": "95df7228c742c189023fd21c9d3d12145583214682d277f8274689e21b530307",
         "titulo": "Engineering Manager II, Web Product Enablement",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -265,6 +289,7 @@
     },
     {
         "id_vaga": 7807888,
+        "hash_vaga": "e1cca4389b97f85cc431d41cf09548884fd487912a67d7bddc782236291e8157",
         "titulo": "Head of Verticals",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -276,6 +301,7 @@
     },
     {
         "id_vaga": 7678372,
+        "hash_vaga": "505576c84e2925cd17c24995e7b3b34473e6f32f8e0fb9cee5011f88bf09c303",
         "titulo": "Insights Solutions Partner II",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -287,6 +313,7 @@
     },
     {
         "id_vaga": 8247248,
+        "hash_vaga": "804113c1fdb25bec907469c28b7fbcad4544b1b8f248356557af1e0f55b38e40",
         "titulo": "Integrated Marketing Manager",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -298,6 +325,7 @@
     },
     {
         "id_vaga": 8016717,
+        "hash_vaga": "bb0bd31eef33ed9c7c4a22c54f4e66bd657e541db8b41b9e413bb46cf4545ffe",
         "titulo": "Lead Client Account Manager  (eCommerce) - Greater China Region",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -309,6 +337,7 @@
     },
     {
         "id_vaga": 8245152,
+        "hash_vaga": "cffefa192fc3e5478385941e650ffdac62677f8fdac101af2d672c8845d7e79a",
         "titulo": "Lead Client Partner ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -320,6 +349,7 @@
     },
     {
         "id_vaga": 8026862,
+        "hash_vaga": "6eb0cfe4fb558305b8774a209aec8deff34f63e07d6808b723ee566d7d432262",
         "titulo": "Lead Client Partner, Brand Sales (tvScientific) ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -331,6 +361,7 @@
     },
     {
         "id_vaga": 8026869,
+        "hash_vaga": "ff3aea19a7385c442d12035fcb3fdc2e9ab020ad6c13a38c47f144931abbccbb",
         "titulo": "Lead Client Partner, Consumer Apps (tvScientific)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -342,6 +373,7 @@
     },
     {
         "id_vaga": 8207249,
+        "hash_vaga": "93182aaf8a82cf8f247d6435e9036f093a6897ef2c937b0999ea872539d8931b",
         "titulo": "Lead Client Partner, CPG",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -353,6 +385,7 @@
     },
     {
         "id_vaga": 8249643,
+        "hash_vaga": "cd58fa0dbb4cd6c64e1a27f28c5c9dc8bde2718693bf503aa07efa4662b0e675",
         "titulo": "Lead Client Partner, Global Accounts",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -364,6 +397,7 @@
     },
     {
         "id_vaga": 8210875,
+        "hash_vaga": "d0b1cb3d7fa8c3dadb6f20245b6d82fcba9b3122f1fb470b4fd1c0b0f9daa7b2",
         "titulo": "Lead Client Partner, Pharma",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -375,6 +409,7 @@
     },
     {
         "id_vaga": 8209905,
+        "hash_vaga": "6e8501e70fd8e2938d369da262bfa6d864b253b4e1b81462add4fc9554c5f120",
         "titulo": "Lead SMB & Channel Sales Program Manager",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -386,6 +421,7 @@
     },
     {
         "id_vaga": 6121450,
+        "hash_vaga": "127637915b1e465558c6bf730a5aa968924cb2aeb10e9587771ce673d6401ab1",
         "titulo": "Machine Learning Engineer, Core Engineering",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -397,6 +433,7 @@
     },
     {
         "id_vaga": 6121543,
+        "hash_vaga": "db167697be00c4776a525ebc44f6662dd60aade91f812eee3b988568cfb1afe3",
         "titulo": "Machine Learning Engineer, EPD Ads",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -408,6 +445,7 @@
     },
     {
         "id_vaga": 7473497,
+        "hash_vaga": "f6529ad9577adb63632e83c6049e235d3737ee2550da4733e7cf5bc8c87dc52e",
         "titulo": "Machine Learning Engineer II, Core Engineering ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -419,6 +457,7 @@
     },
     {
         "id_vaga": 8162046,
+        "hash_vaga": "b119162cd9a1f1555d881dbd84193852ad068029bb626825df4f957ae05ad3e9",
         "titulo": "Machine Learning Engineer II, Responsible AI",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -430,6 +469,7 @@
     },
     {
         "id_vaga": 7697137,
+        "hash_vaga": "ac4395bdc12a62954b95a4672ac79b15f8c750089f7c3df5f7c6fd4d576de41f",
         "titulo": "Machine Learning Engineer II, Visual AI",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -441,6 +481,7 @@
     },
     {
         "id_vaga": 8244922,
+        "hash_vaga": "2ba39ccaadd57da4c6343ec7b64e94517011f5b51b5eebc49ebeb8bdc50cf0c6",
         "titulo": "Machine Learning Intern 2027 (Dublin)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -452,6 +493,7 @@
     },
     {
         "id_vaga": 8138080,
+        "hash_vaga": "429c0291960284e4c8501952fdef3779f3b5d22f18a32535f81c6b20b64a3c31",
         "titulo": "Machine Learning Intern 2027 (Toronto)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -463,6 +505,7 @@
     },
     {
         "id_vaga": 8214757,
+        "hash_vaga": "1c287d205bb92669423983c92e386bb17c880251b545c58887310f8db0ed4159",
         "titulo": "Machine Learning Intern 2027 (Zurich)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -474,6 +517,7 @@
     },
     {
         "id_vaga": 8104117,
+        "hash_vaga": "46ba4a916ac75a14516f8f0fdb4bd29eba0581747bf65b7ffeb690d9d9f6694b",
         "titulo": "Manager II, Config Deployments",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -485,6 +529,7 @@
     },
     {
         "id_vaga": 7957635,
+        "hash_vaga": "bd7ad128a4a9b3043040645f83e541d3a2fa00c4f3e740aed0cbae19646fa386",
         "titulo": "Manager II, Engineering, Ads Serving Infrastructure",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -496,6 +541,7 @@
     },
     {
         "id_vaga": 8015360,
+        "hash_vaga": "a5516d3ef3a56d185e65fabf4e12e01b6c55d5ccbb07543fe82871924ee85d10",
         "titulo": "Manager II, Engineering- Analytics Engineering, Core Data Science",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -507,6 +553,7 @@
     },
     {
         "id_vaga": 8010903,
+        "hash_vaga": "839a5179927ed83a7c0467e0834e2079ca1b38885214c30c4178e0e4b5ebcf0f",
         "titulo": "Manager II, Machine Learning – Conversion Visibility",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -518,6 +565,7 @@
     },
     {
         "id_vaga": 8152750,
+        "hash_vaga": "345cf71e5e2069274aac2db239a6d0ff423bd7f111ca559ca0c077ee7ef0c1c0",
         "titulo": "Manager II, Machine Learning Engineering-Content Foundation",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -529,6 +577,7 @@
     },
     {
         "id_vaga": 8132078,
+        "hash_vaga": "367d9a283941fd397b2427d011fb5e0b59352fc9329c33c8f68641ef933ce57b",
         "titulo": "Manager II, Recruiting",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -540,6 +589,7 @@
     },
     {
         "id_vaga": 8138097,
+        "hash_vaga": "1ada35c3888f52f8cf257455cb27822f411e1c76d6a5374def4a15ef8435dd93",
         "titulo": "Master's Data Science Internship 2027 (USA)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -551,6 +601,7 @@
     },
     {
         "id_vaga": 8138090,
+        "hash_vaga": "bd47477203be7d88818ef1badd55a6be445409fc3c0cbf6a46bf0ce32b64d292",
         "titulo": "Master's Machine Learning Internship 2027 (USA)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -562,6 +613,7 @@
     },
     {
         "id_vaga": 8140389,
+        "hash_vaga": "d2eaa5530c66276eb9182a028ca246a8c44b7f76a33c2f71ae489c3fe987c99b",
         "titulo": "Master's University Grad Data Scientist (USA)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -573,6 +625,7 @@
     },
     {
         "id_vaga": 8140219,
+        "hash_vaga": "244bdd74561ef869745c5e6476b6af306657bc5ac062a2bd86a8659b041c92b2",
         "titulo": "Master's University Grad Machine Learning Engineer 2027 (USA)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -584,6 +637,7 @@
     },
     {
         "id_vaga": 8016723,
+        "hash_vaga": "07c8e30213109b613b22442fd6eb0afaa9977a1cb78d166c2552754e8a3c7082",
         "titulo": "Performance Solutions Lead",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -595,6 +649,7 @@
     },
     {
         "id_vaga": 8248297,
+        "hash_vaga": "91247fe196c728f9f8351f12aa147776b3495f037bc4a6a7e2d4153c7afa498a",
         "titulo": "Performance Solutions Partner II",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -606,6 +661,7 @@
     },
     {
         "id_vaga": 8140169,
+        "hash_vaga": "f7c52fac4c5597c0186075b37d8bbaf18fe31511bdf8f4afe7d83d2c278133da",
         "titulo": "PhD Data Science Internship 2027 (USA)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -617,6 +673,7 @@
     },
     {
         "id_vaga": 8140140,
+        "hash_vaga": "e3b62a4db51c4b80bbbbce9d49a65f024da7f8308dbfe1b0770a16bcca711a37",
         "titulo": "PhD Machine Learning Internship 2027 (USA)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -628,6 +685,7 @@
     },
     {
         "id_vaga": 8140363,
+        "hash_vaga": "771c64261d811641247ce7a89eaa2a6c9550ea2c14e8abff7d952c09583310d5",
         "titulo": "PhD University Grad Machine Learning Engineer (USA) ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -639,6 +697,7 @@
     },
     {
         "id_vaga": 7683977,
+        "hash_vaga": "9bdaa81f48a3b9c4953e18d49418646db6d4734e52964e762ac52a110ba1813e",
         "titulo": "Principal Engineer, AI Platform",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -650,6 +709,7 @@
     },
     {
         "id_vaga": 7683981,
+        "hash_vaga": "3db6b27d8974a451e28f70378b8a0695e294f9bb0d75d78533844b230e299227",
         "titulo": "Principal Engineer, Big Data Platform",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -661,6 +721,7 @@
     },
     {
         "id_vaga": 8011719,
+        "hash_vaga": "25c533ed41034a1441d4a5b1f2bd290caa48a18a5a70d733e288387e5eff02f5",
         "titulo": "Principal Engineer, Indexing & Retrieval Infrastructure",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -672,6 +733,7 @@
     },
     {
         "id_vaga": 7494740,
+        "hash_vaga": "605460979077913fd231e4c4ac9b41292cede40a2dd9b5572398982d71ea6194",
         "titulo": "Principal Engineer, Shopping & Delivery Infra",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -683,6 +745,7 @@
     },
     {
         "id_vaga": 6963868,
+        "hash_vaga": "9dc3e9f0d8f188f6c675b5033b9e22de3fa28b928a230d49e7b6be861a0def36",
         "titulo": "Principal Machine Learning Engineer, Ads Delivery",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -694,6 +757,7 @@
     },
     {
         "id_vaga": 7638599,
+        "hash_vaga": "22c667a0e0c081d526c6ab46a4f7e7c6fde9b66f95fdccc9f4c49f978ad09c7a",
         "titulo": "Principal Product Designer, AI Native, Core",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -705,6 +769,7 @@
     },
     {
         "id_vaga": 7901910,
+        "hash_vaga": "9a6562baa853f29ce775eba621f114933d099245d96c96b5deb6badc9dfab27e",
         "titulo": "Product Manager II, Content Compliance",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -716,6 +781,7 @@
     },
     {
         "id_vaga": 8129654,
+        "hash_vaga": "cf5531186262c05f99e57e249a5514b3917634e0686259dd2b9d48ea2f19755b",
         "titulo": "Programmatic Ads Sales Lead",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -727,6 +793,7 @@
     },
     {
         "id_vaga": 8120416,
+        "hash_vaga": "2055083ff59430a9126fcdf836477ecb2c6e8a768f39d6e3ecfce635712de719",
         "titulo": "Sales Strategy & Operations Lead",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -738,6 +805,7 @@
     },
     {
         "id_vaga": 8015547,
+        "hash_vaga": "962cb6f928bf107abbc358fe4b1249b3f0c1514897a591ea442bba566628fb49",
         "titulo": "Security Software Engineer II, Detection and Response",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -749,6 +817,7 @@
     },
     {
         "id_vaga": 8139631,
+        "hash_vaga": "fabb7638dc98f0c6d62e83d682747c5bbd517bc382e580b0d475490ac29e5027",
         "titulo": "Senior Privacy Counsel",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -760,6 +829,7 @@
     },
     {
         "id_vaga": 7494636,
+        "hash_vaga": "38601f5a2ff75f34b7ff86534c82295a6fc2590950b06d8d247c4ad234dba369",
         "titulo": "Senior Staff Technical Program Manager, Search Signals",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -771,6 +841,7 @@
     },
     {
         "id_vaga": 7782538,
+        "hash_vaga": "96d131d8665fad977afc9e9eb34a0cf8a3ecbf21fa91c88c11b417f35b5a0fa8",
         "titulo": "Site Reliability Engineer II, tvScientific",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -782,6 +853,7 @@
     },
     {
         "id_vaga": 8213988,
+        "hash_vaga": "911e344191b364a1e8119d522309b39b74235725852464429d3a9ffc0e09dc8a",
         "titulo": "Software Engineer II, Data Analytics & Engineering",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -793,6 +865,7 @@
     },
     {
         "id_vaga": 8227344,
+        "hash_vaga": "14c8cd613dabe94bd2e6b15cae6db728a426c45a8ad7de7ebd325b4fae11b516",
         "titulo": "Software Engineer II, EPD Ads",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -804,6 +877,7 @@
     },
     {
         "id_vaga": 5459622,
+        "hash_vaga": "f133ec7302c8129ccc96b35466cb5bd91c4a01dcc4dbad972a2e1ab8b623ac17",
         "titulo": "Software Engineer II, Full Stack",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -815,6 +889,7 @@
     },
     {
         "id_vaga": 8024883,
+        "hash_vaga": "2fddc49b4f77968522fbc5f2c14b6ed6c61e05e43f2d2c83b903ef22beaafc27",
         "titulo": "Software Engineer II, Web",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -826,6 +901,7 @@
     },
     {
         "id_vaga": 8138034,
+        "hash_vaga": "84c8d16546d841ac7733864c52e8a89275f938fba03551916e428a9aa27e3f1c",
         "titulo": "Software Engineering Intern 2027 (Dublin)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -837,6 +913,7 @@
     },
     {
         "id_vaga": 8138039,
+        "hash_vaga": "2eb0ac46f3d726a0e35e026f0c57cc6e95a52b7a4bc495eba1fb2ba0cf725e55",
         "titulo": "Software Engineering Intern 2027 (Toronto)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -848,6 +925,7 @@
     },
     {
         "id_vaga": 8214745,
+        "hash_vaga": "7bca97747e54971c1fd14e89cebc30eede7e4debdba670181ea7c09d420f1f90",
         "titulo": "Software Engineering Intern 2027 (Zurich)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -859,6 +937,7 @@
     },
     {
         "id_vaga": 7838577,
+        "hash_vaga": "5fd084529ce5770ad4ceb5ba1e4799370b8705030473a03518b37fd472e042ed",
         "titulo": "Software Engineer Intern 2027 (USA)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -870,6 +949,7 @@
     },
     {
         "id_vaga": 6922682,
+        "hash_vaga": "6fb030babb3b6043402fb86863d05d9c790220965a0e5205e0b098fac54cbf27",
         "titulo": "Software Engineer, iOS",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -881,6 +961,7 @@
     },
     {
         "id_vaga": 8214788,
+        "hash_vaga": "9527ac6a722e2bf31508f6a35d641e7797bf4327eb2fc987063aaf74429b6a68",
         "titulo": "Solutions Engineer Intern 2027 (USA)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -892,6 +973,7 @@
     },
     {
         "id_vaga": 8082503,
+        "hash_vaga": "c4910d45633da001ac51d7c4fd4b5e21ca07a24b1fa890445c0e759ac4c48e84",
         "titulo": "Sr. Ads Product Marketing Manager- Ads Delivery",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -903,6 +985,7 @@
     },
     {
         "id_vaga": 7746407,
+        "hash_vaga": "f5df1f145c649855b9164bfb99703cf56981884215b71292458aa856a11ca0e6",
         "titulo": "Sr. Agency Lead, Dentsu/Havas",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -914,6 +997,7 @@
     },
     {
         "id_vaga": 8222432,
+        "hash_vaga": "460b4b7fa17d4bf72c3123dcdf4b312ab26ffd9789bef100958f273bd6ca1f03",
         "titulo": "Sr. Agency Partner ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -925,6 +1009,7 @@
     },
     {
         "id_vaga": 8016626,
+        "hash_vaga": "73b64b40f0a99558c34447505275bb235c8149c0d283fe467226c373e8680082",
         "titulo": "Sr. Client Account Manager (Entertainment App) - Greater China Region",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -936,6 +1021,7 @@
     },
     {
         "id_vaga": 8171331,
+        "hash_vaga": "45bf378b57a77d7e01669c2d99658a458e693f1a3cd3af50a5f12ee411f0ede6",
         "titulo": "Sr. Client Account Manager, Financial Services",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -947,6 +1033,7 @@
     },
     {
         "id_vaga": 7656243,
+        "hash_vaga": "45bf378b57a77d7e01669c2d99658a458e693f1a3cd3af50a5f12ee411f0ede6",
         "titulo": "Sr. Client Account Manager, Financial Services",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -958,6 +1045,7 @@
     },
     {
         "id_vaga": 8016665,
+        "hash_vaga": "7344ace5f6dfce9d34085d851ae17d0568423d65d67cbbb227e52fd06378ca9d",
         "titulo": "Sr. Client Account Manager (Growth) - Greater China Region",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -969,6 +1057,7 @@
     },
     {
         "id_vaga": 8081452,
+        "hash_vaga": "1f6c2f1ed9ca37309d90a82e29f465cd87ea89b762fe8d89f2cc2c4d97fbc2cd",
         "titulo": "Sr. Client Account Manager, Home Retail",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -980,6 +1069,7 @@
     },
     {
         "id_vaga": 8081505,
+        "hash_vaga": "1f6c2f1ed9ca37309d90a82e29f465cd87ea89b762fe8d89f2cc2c4d97fbc2cd",
         "titulo": "Sr. Client Account Manager, Home Retail",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -991,6 +1081,7 @@
     },
     {
         "id_vaga": 8203802,
+        "hash_vaga": "5dafcdf5faf6cc5619ee3d1d90e4e2f3295585b742b496913a568063cfccdb79",
         "titulo": "Sr. Client Account Manager - SEA",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1002,6 +1093,7 @@
     },
     {
         "id_vaga": 8112049,
+        "hash_vaga": "fc084b03c25958d9f1f206a5c0c7e5f1e34687564fc90212da301bc2a0f45a55",
         "titulo": "Sr. Client Account Manager, Walmart",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1013,6 +1105,7 @@
     },
     {
         "id_vaga": 7771049,
+        "hash_vaga": "a082d67a1fdf92d7118f3f0e1be93764250c855cf2309e50a9cfc465d95963c1",
         "titulo": "Sr. Client Partner",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1024,6 +1117,7 @@
     },
     {
         "id_vaga": 8074880,
+        "hash_vaga": "15e413f3da386c63ec7bfbe77067d297a5abfb0963f4cb4e960984efb71a0200",
         "titulo": "Sr. Client Partner [12-Month Fixed Term] ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1035,6 +1129,7 @@
     },
     {
         "id_vaga": 8248469,
+        "hash_vaga": "c55c461ebdea3f8976ff005b2b9b98d34de1528b516abfe643efb4fee00b2a2c",
         "titulo": "Sr. Client Partner - Auto and QSR ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1046,6 +1141,7 @@
     },
     {
         "id_vaga": 8247774,
+        "hash_vaga": "60b8d5a31649267d45951a38203d50e67b9c14eca0b19ff5028ed620ed0cbabe",
         "titulo": "Sr. Client Partner (Fixed Term Contract)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1057,6 +1153,7 @@
     },
     {
         "id_vaga": 8242245,
+        "hash_vaga": "f2ef3f80751227558c255ae943700ee5ec13b228b79cbc93fb3fb89f67b8ca62",
         "titulo": "Sr. Client Partner (Gaming/App)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1068,6 +1165,7 @@
     },
     {
         "id_vaga": 7671759,
+        "hash_vaga": "53dba8ba4ece8982a79971f98f96fb58e73a82b934d1eeb38829dcdcb782f3a8",
         "titulo": "Sr. Client Partner, Grocery",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1079,6 +1177,7 @@
     },
     {
         "id_vaga": 8206769,
+        "hash_vaga": "0cdf267963ebdc24461c3fac54a611b94d83b3f7b6537933a21dc555c1dc6175",
         "titulo": "Sr. Client Partner, Pinterest Spark",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1090,6 +1189,7 @@
     },
     {
         "id_vaga": 8130616,
+        "hash_vaga": "d7684e21beb177f49b86630b24053d1fdee53c8b1b2c3bcb29907eba3a06bdc7",
         "titulo": "Sr. Client Partner (tvScientific)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1101,6 +1201,7 @@
     },
     {
         "id_vaga": 7494590,
+        "hash_vaga": "7029d6edfe016bda973dd5396afc17286695eb6d7eb09b3dab3ee02b69dc5f99",
         "titulo": "Sr. Counsel",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1112,6 +1213,7 @@
     },
     {
         "id_vaga": 6659114,
+        "hash_vaga": "cc8dee2ef1443aca2f437e0cf9ee198794a94c957c37468e59e99011b8950fc7",
         "titulo": "Sr. Data Scientist",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1123,6 +1225,7 @@
     },
     {
         "id_vaga": 6087213,
+        "hash_vaga": "aaea66a8c6ca0f6a23b2f2cf9555e52b36fcd8ddf3db71ebc380982f9d6e58cc",
         "titulo": "Sr. Data Scientist, Core",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1134,6 +1237,7 @@
     },
     {
         "id_vaga": 8011376,
+        "hash_vaga": "42ab15727c2f256837be3296986028b7d03ab4c500b13b469f8507d125b116d5",
         "titulo": "Sr. Data Scientist, Marketing",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1145,6 +1249,7 @@
     },
     {
         "id_vaga": 5740948,
+        "hash_vaga": "d614b63701a4b0af114a5bbbf4d6ccdf1c421e8a05427a08fcae34b1aaada090",
         "titulo": "Sr. Data Scientist, Monetization",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1156,6 +1261,7 @@
     },
     {
         "id_vaga": 8084337,
+        "hash_vaga": "ef4d658995fd4f27dca2edcb28b58a8eac0f7a4f4b2765761a30059f4a46d133",
         "titulo": "Sr. Industry Manager",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1167,6 +1273,7 @@
     },
     {
         "id_vaga": 8226882,
+        "hash_vaga": "a44502b019088cbe1ba98fbc3190d2760eb24f5fda5c704a968159836a102ef3",
         "titulo": "Sr. Industry Manager, Fashion",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1178,6 +1285,7 @@
     },
     {
         "id_vaga": 8209845,
+        "hash_vaga": "2f738a8ffcf530589f5186e24dd42e1032066c241f3517d41b95f5af86c1528e",
         "titulo": "Sr. IT Project & Program Manager, Asset Management ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1189,6 +1297,7 @@
     },
     {
         "id_vaga": 8209016,
+        "hash_vaga": "acc6867501d4293fd80760b04723cfb6be8ab514a8b057c7832713c31a346d44",
         "titulo": "Sr. Lead HRBP - APAC Region",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1200,6 +1309,7 @@
     },
     {
         "id_vaga": 8146085,
+        "hash_vaga": "653acdec8826baac0e94a95e8de1debecdf31eb71739fc0ae33fca323ff0c7f5",
         "titulo": "Sr Lead Industry Manager",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1211,6 +1321,7 @@
     },
     {
         "id_vaga": 6894747,
+        "hash_vaga": "f7bc36c7abf636537822115aa94d6453249561c06b0df8c48fc45a9c58b04678",
         "titulo": "Sr. Machine Learning Engineer, Applied Science",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1222,6 +1333,7 @@
     },
     {
         "id_vaga": 6121464,
+        "hash_vaga": "f5b92051e97f825eee0700a0fabda9e69d14e20cfe9f9fdc78282afa60bcf489",
         "titulo": "Sr. Machine Learning Engineer, Core Engineering ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1233,6 +1345,7 @@
     },
     {
         "id_vaga": 6121551,
+        "hash_vaga": "a745c02d1d7327a257357268742a775eca5f2c9e805c2e736cb9274858b1994f",
         "titulo": "Sr. Machine Learning Engineer, EPD Ads",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1244,6 +1357,7 @@
     },
     {
         "id_vaga": 5691478,
+        "hash_vaga": "ea78ac28954c37fb1e34b947dafc814fa64c6be5f81136a0808213c8b3357ea9",
         "titulo": "Sr. Machine Learning Engineer, Growth Science ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1255,6 +1369,7 @@
     },
     {
         "id_vaga": 8239425,
+        "hash_vaga": "480ee3a2c076ed9b51cc424c5fb4425a4f0f105e2691499957319da0f6f9956c",
         "titulo": "Sr. Manager, Ads Product Marketing- Ads Automation",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1266,6 +1381,7 @@
     },
     {
         "id_vaga": 8222282,
+        "hash_vaga": "b27e10f0c1f7e6183dae36f93bd89bb07b5cd5b5e1a9af8c01670ae0f3477637",
         "titulo": "Sr. Manager, Ads Product Policy",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1277,6 +1393,7 @@
     },
     {
         "id_vaga": 8046842,
+        "hash_vaga": "bd1b3e2e3543d6f6e9885aa918444cc941cfdd63754fc99d582a5afe3c82221e",
         "titulo": "Sr. Manager, Capacity Engineering",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1288,6 +1405,7 @@
     },
     {
         "id_vaga": 8241516,
+        "hash_vaga": "a9d737acbb54c2acd1ebd4477e21d8d0051ac91e1ea0bcbbb95471bc37a8a62a",
         "titulo": "Sr. Manager, Engineering –  Delivery Serving Infrastructure",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1299,6 +1417,7 @@
     },
     {
         "id_vaga": 8234002,
+        "hash_vaga": "4f2290b7ce65aa13b7f4dd48a944b4ac9c5efca3b87bb4eef97fb7678c7197e5",
         "titulo": "Sr. Manager, Machine Learning Engineering, Ads Measurement Products ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1310,6 +1429,7 @@
     },
     {
         "id_vaga": 8015504,
+        "hash_vaga": "d1a55fcc53cbf399446f1774931bebbc0361b40cffe6146a909e3e1401849d71",
         "titulo": "Sr. Manager, Machine Learning Engineering-Applied Research",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1321,6 +1441,7 @@
     },
     {
         "id_vaga": 7763557,
+        "hash_vaga": "99ee791595a003e3aca2c9b1c4c1f6daa5e00ef7585af56be5a2f5339cda198c",
         "titulo": "Sr. Manager, Programmatic Ads Sales",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1332,6 +1453,7 @@
     },
     {
         "id_vaga": 8205194,
+        "hash_vaga": "c7e95632d53a941bd59f5853f2087550d7bf28fb04c1bf65103477e5f86d6742",
         "titulo": "Sr. Manager, Strategic Sourcing",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1343,6 +1465,7 @@
     },
     {
         "id_vaga": 8016692,
+        "hash_vaga": "d0fccf03b05a50361247ace752173f3af8b8c44c4642dd1fab141d39a3e0ec47",
         "titulo": "Sr. Performance Solutions Partner",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1354,6 +1477,7 @@
     },
     {
         "id_vaga": 8238389,
+        "hash_vaga": "6dc8e688d359246e2582ce6049d59d5e20856d869808ace7ce039a60575979e3",
         "titulo": "Sr. Product Manager, Data and Signals Intelligence",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1365,6 +1489,7 @@
     },
     {
         "id_vaga": 8015494,
+        "hash_vaga": "dabb6bbe4be222c98e889220e0a02ebfb2bf4257d8a82d6b4c3b1c4d538f552d",
         "titulo": "Sr. Product Manager, Search Personalization",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1376,6 +1501,7 @@
     },
     {
         "id_vaga": 8015519,
+        "hash_vaga": "34d52a4f027a6836c323743412a92ea2c07d7c8fadd602f3a4e524a3185c175a",
         "titulo": "Sr. Product Manager, TwoTwenty",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1387,6 +1513,7 @@
     },
     {
         "id_vaga": 8230592,
+        "hash_vaga": "1eb54ce7ec9d054eea3ae3a537516e5df70d08445627078d67cf76cc11e43792",
         "titulo": "Sr. Programmatic Tech Operations Specialist ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1398,6 +1525,7 @@
     },
     {
         "id_vaga": 8129662,
+        "hash_vaga": "1eb54ce7ec9d054eea3ae3a537516e5df70d08445627078d67cf76cc11e43792",
         "titulo": "Sr. Programmatic Tech Operations Specialist ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1409,6 +1537,7 @@
     },
     {
         "id_vaga": 8230778,
+        "hash_vaga": "79028b583e5bf4a58f7c622c9146bd77d29684fe30ebde708ecc9db8f1689afe",
         "titulo": "Sr. Security Software Engineer, Security Operations   ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1420,6 +1549,7 @@
     },
     {
         "id_vaga": 7782550,
+        "hash_vaga": "9da88b5eefe5937983c99e4f7c39efba8a2f162c02ad2a79868dbff5a33cd37b",
         "titulo": "Sr. Site Reliability Engineer, tvScientific",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1431,6 +1561,7 @@
     },
     {
         "id_vaga": 8231071,
+        "hash_vaga": "82ede448877e0790a046df1abaa0bf62639db19c0eafd7e9849cc2518bb9b7a2",
         "titulo": "Sr Software Engineer, EPD Ads",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1442,6 +1573,7 @@
     },
     {
         "id_vaga": 6510646,
+        "hash_vaga": "4e16f83c667faba1e9ace9376b758a0183ce6b20098ad976f442dddf3f269e50",
         "titulo": "Sr. Software Engineer - Full Stack",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1453,6 +1585,7 @@
     },
     {
         "id_vaga": 5412514,
+        "hash_vaga": "1a57d48c09ab15bdfa98a8f325a40a106a9beac86412988cb42a9df77419ce43",
         "titulo": "Sr. Software Engineer, Web",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1464,6 +1597,7 @@
     },
     {
         "id_vaga": 7986197,
+        "hash_vaga": "20cacff61b7e430bfcf0e837108a00d78b9ffb021e5e5394290794a070bc4dcf",
         "titulo": "Sr. Staff Product Manager, Ads Quality Ranking",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1475,6 +1609,7 @@
     },
     {
         "id_vaga": 8234540,
+        "hash_vaga": "a69c34a0bc11b4880e481d9e933ad995f719d9791150908b8626fafc7b7ff985",
         "titulo": "Sr. Staff Product Manager, Data and Signals Connectivity",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1486,6 +1621,7 @@
     },
     {
         "id_vaga": 7770911,
+        "hash_vaga": "e4462330471e7781490bfbe4288695ca5356c2329ead29fbfe58f3861c7ef7f7",
         "titulo": "Sr. Staff Quantitative Product Researcher",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1497,6 +1633,7 @@
     },
     {
         "id_vaga": 7577227,
+        "hash_vaga": "759acc97768ef8a5ad85f0cde2b7da6610c13e9c658f7ead4ba74bb9f20eef58",
         "titulo": "Sr. Staff Software Engineer, AI Platform",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1508,6 +1645,7 @@
     },
     {
         "id_vaga": 7746946,
+        "hash_vaga": "2260e936328a4ba8d7b460ead2592cde09569d5ff9e662431b41c4f6f4a733b3",
         "titulo": "Sr. Staff Software Engineer, Data Product Platform",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1519,6 +1657,7 @@
     },
     {
         "id_vaga": 7770918,
+        "hash_vaga": "69f46432b84a53d23db8b5b739e068ffceffe3693939aebbdf663efda679c599",
         "titulo": "Sr. Staff Software Engineer, Merchants",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1530,6 +1669,7 @@
     },
     {
         "id_vaga": 7770946,
+        "hash_vaga": "83ab3488cc6ad5cf35b3651445eef5595540d08de69804136f9ade3a438b506a",
         "titulo": "Sr. Staff Software Engineer, Notifications & Growth Platform ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1541,6 +1681,7 @@
     },
     {
         "id_vaga": 8088867,
+        "hash_vaga": "9fcbf93afd7e15289b8fe8c23b3ba9451823eaa996dad1fe55d953db9360c454",
         "titulo": "Sr. Staff Software Engineer, Pinterest Assistant",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1552,6 +1693,7 @@
     },
     {
         "id_vaga": 8046860,
+        "hash_vaga": "4af69baefa30117e24176df402336f18efafc733de748b85d8023ed601f04dee",
         "titulo": "Sr. Staff Software Engineer, Product ML Infrastructure",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1563,6 +1705,7 @@
     },
     {
         "id_vaga": 8011573,
+        "hash_vaga": "f7fd75f602001274427715626add4f00e8c290e9440700f17193e4405dee04d2",
         "titulo": "Sr. Systems Engineer, Sales & Marketing",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1574,6 +1717,7 @@
     },
     {
         "id_vaga": 8208419,
+        "hash_vaga": "c997ce70bcecb9834f94e4d472e507734d91e3e90ca0f8fefa1f4d74d3502417",
         "titulo": "Sr. Technical Program Manager, Ads Delivery Infrastructure",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1585,6 +1729,7 @@
     },
     {
         "id_vaga": 8209014,
+        "hash_vaga": "611dd24bd345babb986c24a8feea44ca8c8cc2ca71233505105681e6c7250e2c",
         "titulo": "Sr. Technical Program Manager, Data Engineering",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1596,6 +1741,7 @@
     },
     {
         "id_vaga": 7963755,
+        "hash_vaga": "736ff41f46cafe305cea2db83cf214d9f29cc03bb56512eba1aec54569dbbf6b",
         "titulo": "Staff Data Scientist, Ads Product",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1607,6 +1753,7 @@
     },
     {
         "id_vaga": 8001932,
+        "hash_vaga": "759cf912bc3b3a33cdb522a9f2eb4e4f58e636aca299f6bdcd49e9ca27fe1a19",
         "titulo": "Staff Data Scientist, Forecasting",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1618,6 +1765,7 @@
     },
     {
         "id_vaga": 8095343,
+        "hash_vaga": "ea1162237b859e30ff8452742d641a5c35063be353971186bd370faa8b9a6836",
         "titulo": "Staff Data Scientist, Notifications",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1629,6 +1777,7 @@
     },
     {
         "id_vaga": 7987856,
+        "hash_vaga": "073a0d2ab070a75123e1eea58147b0d55aad83fc10f9f0845029fb8da654405e",
         "titulo": "Staff Data Scientist, Trust and Safety",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1640,6 +1789,7 @@
     },
     {
         "id_vaga": 8238679,
+        "hash_vaga": "985f199caa2fb09a1f80519db5b64e555debda1378c8a27271fff6d230096acf",
         "titulo": "Staff Machine Learning Engineer, Ads Bidding & Pacing",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1651,6 +1801,7 @@
     },
     {
         "id_vaga": 8011452,
+        "hash_vaga": "ebd33478c039bf540a0764fe66e742bd15a613d98442fe00e5db02dfd5761834",
         "titulo": "Staff Machine Learning Engineer, Ads Conversion Core Modeling",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1662,6 +1813,7 @@
     },
     {
         "id_vaga": 8247246,
+        "hash_vaga": "ace2eac3590a6c83a6a03751330ca3a186af8c73dbc34d1c9cee8559ac73a038",
         "titulo": "Staff Machine Learning Engineer, Content Visual AI",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1673,6 +1825,7 @@
     },
     {
         "id_vaga": 8049465,
+        "hash_vaga": "33c888b651b9d5f50f94ed3214675d4e3ca59c248778a85744aaadd146820058",
         "titulo": "Staff Machine Learning Engineer, Shopping Ads",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1684,6 +1837,7 @@
     },
     {
         "id_vaga": 7770898,
+        "hash_vaga": "ca17b3a890f6e579b999d944b7fe399726abbb8896c0d7b743e8b97c555c5232",
         "titulo": "Staff Motion Designer, Design Innovation",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1695,6 +1849,7 @@
     },
     {
         "id_vaga": 8234538,
+        "hash_vaga": "2f438621a342950e8e44bec52f3982cb1ed6460a182a278045092e93354a54b8",
         "titulo": "Staff Product Manager, Ads Measurement & Optimization ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1706,6 +1861,7 @@
     },
     {
         "id_vaga": 7985302,
+        "hash_vaga": "7465b68bdbb5a26655c710c7fc376d59c22cc4753249a323dea21aba383b0e2d",
         "titulo": "Staff Product Manager, Ads Quality Ranking",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1717,6 +1873,7 @@
     },
     {
         "id_vaga": 8082033,
+        "hash_vaga": "b290ee60fd4c5b66d1a4e3466ddfff92722ff62eadb46c0f022cd9a0be8f7fe1",
         "titulo": "Staff Product Manager, Applied Science - Representation Learning",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1728,6 +1885,7 @@
     },
     {
         "id_vaga": 8239171,
+        "hash_vaga": "defc816222555a84977bbc072184219a7454e2cece32a3e6410ac470d456a4b7",
         "titulo": "Staff Product Manager, Content-to-Discovery Infrastructure",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1739,6 +1897,7 @@
     },
     {
         "id_vaga": 8239954,
+        "hash_vaga": "db80e6552218e8c1bd25677fd5aa0016386605a3b3bb1ebc3cd7cf04a7f1204a",
         "titulo": "Staff Product Manager, Measurement Partner Optimization",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1750,6 +1909,7 @@
     },
     {
         "id_vaga": 7959458,
+        "hash_vaga": "238323ea457dba07922626804e2dd8ff6bfc60babf495be0ab9442d5041e29d0",
         "titulo": "Staff Product Manager, Programmatic Ads",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1761,6 +1921,7 @@
     },
     {
         "id_vaga": 8209814,
+        "hash_vaga": "c036ca4133fd639afa23d5bd624a5ef57dd9f7892df6f4f1efe57f4141b2c448",
         "titulo": "Staff Product Manager, Retail Media & Audiences",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1772,6 +1933,7 @@
     },
     {
         "id_vaga": 7684577,
+        "hash_vaga": "7b62cb17b38ea89452220af0e77cffb0dfd99ae10a029363f4078be8f57b42bf",
         "titulo": "Staff Qualitative UX Researcher, Monetization",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1783,6 +1945,7 @@
     },
     {
         "id_vaga": 8055266,
+        "hash_vaga": "c1edcbf807aae6a4412a9859956be476e80aa03cfffdf2bd326176764c16d65e",
         "titulo": "Staff Software Engineer, Ads & Core Serving Platform",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1794,6 +1957,7 @@
     },
     {
         "id_vaga": 7494904,
+        "hash_vaga": "c8cf015bdae24045c5a963b7bbe1ed87c07562fa15b5e5bd01463424384a33c2",
         "titulo": "Staff Software Engineer, Ads Measurement Signal ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1805,6 +1969,7 @@
     },
     {
         "id_vaga": 8131793,
+        "hash_vaga": "e8405c911d595fc73d714236b3da580287462e410c0f36520a8d6be824a63d67",
         "titulo": "Staff Software Engineer, App Promotion ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1816,6 +1981,7 @@
     },
     {
         "id_vaga": 7437356,
+        "hash_vaga": "8cc93429eaab41f06ae93f3e71f5e41fbf59fb1c4f242cac5b8c098155b011c3",
         "titulo": "Staff Software Engineer, Big Data Storage",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1827,6 +1993,7 @@
     },
     {
         "id_vaga": 7494668,
+        "hash_vaga": "3790681e3f2600eeb9746bb4883436c630512e0ccf1c39ac9642c9b1a4743df7",
         "titulo": "Staff Software Engineer, Capacity Engineering",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1838,6 +2005,7 @@
     },
     {
         "id_vaga": 7990090,
+        "hash_vaga": "f0bee3a59efdc048af0725fd802ba0d7db934989f05a30fd2acc189fc908e20a",
         "titulo": "Staff Software Engineer, Edge",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1849,6 +2017,7 @@
     },
     {
         "id_vaga": 8015346,
+        "hash_vaga": "992ab4c39c56d37c08c75ef25c5708f70407405a3cc3726cac63125942ea04e4",
         "titulo": " Staff Software, Engineering – Analytics Engineering, Core Data Science",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1860,6 +2029,7 @@
     },
     {
         "id_vaga": 7954753,
+        "hash_vaga": "9074aee75c3bdf276ed163f8bc0c434924507d816e076b1b59eded015d34b6ff",
         "titulo": "Staff Software Engineer, Observability",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1871,6 +2041,7 @@
     },
     {
         "id_vaga": 8075888,
+        "hash_vaga": "eeef475b3918b0f7ebbe59ccc73aac6aed32f353f674039ce82d2be338eb4b16",
         "titulo": "Staff Software Engineer, Web Product Enablement ",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1882,6 +2053,7 @@
     },
     {
         "id_vaga": 8067933,
+        "hash_vaga": "c910cf1a6a04ca3a277c7dddc5a4900a41337724630eba79470278ca594b9a69",
         "titulo": "Staff Technical Program Manager, Data Science",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1893,6 +2065,7 @@
     },
     {
         "id_vaga": 8049832,
+        "hash_vaga": "9adc8b5a97fc3aace56393a4662346786921ebb82a1cac711b17a407cef94620",
         "titulo": "Staff Technical Program Manager, Identity and Product Safety",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1904,6 +2077,7 @@
     },
     {
         "id_vaga": 7494650,
+        "hash_vaga": "a2b6c2e5686a802c07e6036a1b56baa87fe3ce4ed76e82844002edabfce53acd",
         "titulo": "Staff Technical Program Manager, Security",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1915,6 +2089,7 @@
     },
     {
         "id_vaga": 8209324,
+        "hash_vaga": "f8b9d4cb6dadb982fc439cc6751b692d92328950d1b04e4ed333b6c4451afcb6",
         "titulo": "Technical Program Manager II, Infrastructure (Capacity & Efficiency)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1926,6 +2101,7 @@
     },
     {
         "id_vaga": 8209020,
+        "hash_vaga": "3556e6393bb105e4284224620761939b3c042764e512d93568b298025f976a25",
         "titulo": "Technical Program Manager II, Shopping Platforms",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1937,6 +2113,7 @@
     },
     {
         "id_vaga": 7838591,
+        "hash_vaga": "d686675d2526b7239526ac9815943a1d0c108f6a675c19c5aa9cd11f3a99cb48",
         "titulo": "University Grad Software Engineer 2027 (USA)",
         "empresa": "pinterest",
         "fonte": "greenhouse",
@@ -1948,6 +2125,7 @@
     },
     {
         "id_vaga": 8140217,
+        "hash_vaga": "42ce662db0768e2e52dc785ae1350438f09078bbd28b9314ff2ff94a70942844",
         "titulo": "UX Quantitative Research Intern (USA)",
         "empresa": "pinterest",
         "fonte": "greenhouse",

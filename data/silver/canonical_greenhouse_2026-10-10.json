@@ -1,6 +1,7 @@
 [
     {
         "id_vaga": 5569916,
+        "hash_vaga": "1d643814db097b2513203c20d23065ee3db5104ec7a5768bea06b914672c3a4c",
         "titulo": "Accountant",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -12,6 +13,7 @@
     },
     {
         "id_vaga": 7971310,
+        "hash_vaga": "1e63c55ec070f1c4bb6964030b99f1c4f3b9b410b2ea4a29264be6370452ce29",
         "titulo": "Accounts Payable Clerk",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -23,6 +25,7 @@
     },
     {
         "id_vaga": 5243483,
+        "hash_vaga": "21eac7c1c250ca9359359d1aa102e6e0d0d208b3d7ef025f7af79bf03fd6f4cb",
         "titulo": "Accounts Receivable Clerk",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -34,6 +37,7 @@
     },
     {
         "id_vaga": 8002334,
+        "hash_vaga": "dae24429afc232c65442b024e803dce275e4583681ab1fc4c4bac93b735badf3",
         "titulo": "Alliances & Channels Leader",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -45,6 +49,7 @@
     },
     {
         "id_vaga": 3433732,
+        "hash_vaga": "500c24eeb4a27a4351a11d6917914fb9e2967ce0b3483bb319dfa136134c709b",
         "titulo": "Alliances Field Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -56,6 +61,7 @@
     },
     {
         "id_vaga": 6448444,
+        "hash_vaga": "b42b1722b9704e12774bdbe0ae8f4788123e2065884744024efe5faae268698b",
         "titulo": "Associate Linux Support Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -67,6 +73,7 @@
     },
     {
         "id_vaga": 7267406,
+        "hash_vaga": "63706dfafb041807442daf4fe86be9d0a02ba155d73150da5883906effe98808",
         "titulo": "Beijing Office Administrator",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -78,6 +85,7 @@
     },
     {
         "id_vaga": 6713184,
+        "hash_vaga": "46a30da590c7d118b516b60209d0c410ef70ba70f90355b11e8568b7931eab11",
         "titulo": "Business Development Representative",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -89,6 +97,7 @@
     },
     {
         "id_vaga": 5798264,
+        "hash_vaga": "8efa598108b68c2569d692be4daf638e402ff765d402d8866feee06575a9da9f",
         "titulo": "Business Services Team Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -100,6 +109,7 @@
     },
     {
         "id_vaga": 4124053,
+        "hash_vaga": "d947fd7437e8a32231b4f69e3087d37f1989dfd67d581154750f0c50295ad013",
         "titulo": "C, Golang Software Engineer working on dqlite, a Raft extension for SQLite",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -111,6 +121,7 @@
     },
     {
         "id_vaga": 7982278,
+        "hash_vaga": "483af244880fcf71001cfa2b9221771fc22a01fcee9e5a980aac1a235ff754a1",
         "titulo": "Channel Partner Sales Executive",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -122,6 +133,7 @@
     },
     {
         "id_vaga": 6861186,
+        "hash_vaga": "b7121ea1765f78d52e2620768f007cf28ed832da45139bbd000d87ba7ec8b87f",
         "titulo": "Channel Partner Sales Executive, Japan",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -133,6 +145,7 @@
     },
     {
         "id_vaga": 8001736,
+        "hash_vaga": "f7d37c29af5accaa96735fc76c776f628d9a07f16e50504733301700b72d01e2",
         "titulo": "Channel Partner Sales Executive, UKI",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -144,6 +157,7 @@
     },
     {
         "id_vaga": 4934551,
+        "hash_vaga": "4bed6e081d72903bdaf4b1db9e5669ad2662a56bc97bea0c1def8c97899165f8",
         "titulo": "Cloud Alliances Business Development Lead",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -155,6 +169,7 @@
     },
     {
         "id_vaga": 4676649,
+        "hash_vaga": "9fd977c917e48a672f604fc08bcc3b25851e2235496ba81f29a6b87e4f6f4286",
         "titulo": "Cloud Engineering Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -166,6 +181,7 @@
     },
     {
         "id_vaga": 6132532,
+        "hash_vaga": "834cb95ff4ce11392322243ddb911f6e9f8099942b56a77c1e9659230bf53698",
         "titulo": "Cloud Field Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -177,6 +193,7 @@
     },
     {
         "id_vaga": 7410479,
+        "hash_vaga": "129ba2760c5f88b25b6876cc3a1478d18f28c973ecd607c20af4738c1c62e001",
         "titulo": "Cloud Field Engineering Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -188,6 +205,7 @@
     },
     {
         "id_vaga": 6283017,
+        "hash_vaga": "d91a46132abb6032d0d9154b893ae08d56f08ffafe2804b78fe0178c36fd31b8",
         "titulo": "Cloud Professional Services Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -199,6 +217,7 @@
     },
     {
         "id_vaga": 5915936,
+        "hash_vaga": "b5180a6d0d8bd0e8bcfeff406da7a96d8841efd20109709f83d968cdc6e9addf",
         "titulo": "Cloud Solutions Architect - Alliances",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -210,6 +229,7 @@
     },
     {
         "id_vaga": 2456563,
+        "hash_vaga": "f2437b62134276194434203684ad48f8f8db6f777977d0af83b4a02f3e2a35e8",
         "titulo": "Cloud Support Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -221,6 +241,7 @@
     },
     {
         "id_vaga": 8023546,
+        "hash_vaga": "dd0c4249e82ae0bd514a111169193c9cad0a22769552cb3a1999061775f91af4",
         "titulo": "Cloud Support Engineer (London UK office)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -232,6 +253,7 @@
     },
     {
         "id_vaga": 3275433,
+        "hash_vaga": "1c132e06fcab1caa6b27b74d3baf1ec40866d78563863db68f03528ac8f1fbd2",
         "titulo": "Community Engineer (multiple roles and seniority levels)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -243,6 +265,7 @@
     },
     {
         "id_vaga": 5172247,
+        "hash_vaga": "eb5bd553a0447fee3d247e46a90fee8aa846c415a4588977cb6b8174211305a5",
         "titulo": "Containerization & Virtualisation Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -254,6 +277,7 @@
     },
     {
         "id_vaga": 6943565,
+        "hash_vaga": "6e369042620e64d601e78e0416143c66d2623e1126a7bd3f0f8a25c7391f314b",
         "titulo": "Content marketing lead",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -265,6 +289,7 @@
     },
     {
         "id_vaga": 8046372,
+        "hash_vaga": "ace9e3ffd08eac403806e646d1ed4b78a6a8dc8b08887978ddcd77de34eb17a6",
         "titulo": "Content Marketing Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -276,6 +301,7 @@
     },
     {
         "id_vaga": 7980589,
+        "hash_vaga": "d13cda3b6bfc2254011a049c4eccaec4b37723aec23bb06a502e1d6d391870ef",
         "titulo": "Cost Accounting Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -287,6 +313,7 @@
     },
     {
         "id_vaga": 4439935,
+        "hash_vaga": "387ade6a11e22c961cdc5c2c4a8247762f57ed569124599271ac90ebd79ab3f3",
         "titulo": "C++/Rust Graphics and Windowing System Software Engineer - Mir",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -298,6 +325,7 @@
     },
     {
         "id_vaga": 7548330,
+        "hash_vaga": "dc1e23fe9903bd8771f5281246c2d68e5dac803364ab9d5a98eb53cea5420e0d",
         "titulo": "Customer Success  - Team Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -309,6 +337,7 @@
     },
     {
         "id_vaga": 7569126,
+        "hash_vaga": "5affb1106b2b447ebf0a0e7adacdb39badcd37fd93e201753f47492156cfa3a6",
         "titulo": "Dedicated Linux Desktop & Devices Support Engineer, Singapore",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -320,6 +349,7 @@
     },
     {
         "id_vaga": 6366166,
+        "hash_vaga": "28bc1aee6e4335d642582cbbfcd6cc74d22cd4644416fe382840e28384cd0f3b",
         "titulo": "Dell Global Alliance Director",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -331,6 +361,7 @@
     },
     {
         "id_vaga": 7566317,
+        "hash_vaga": "e081a60d0befbbbca27537fb8d4d75063a2c783c470761bc5ad6aa870d22d6ea",
         "titulo": "Design Manager (Visual)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -342,6 +373,7 @@
     },
     {
         "id_vaga": 5143011,
+        "hash_vaga": "bfa446d010b7d42f057d78f23949498a546095568c5505982380a46d8445d6e5",
         "titulo": "Developer Relations Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -353,6 +385,7 @@
     },
     {
         "id_vaga": 3756791,
+        "hash_vaga": "3b179925166af1530c27b790d7399e513565e4a1936a3c845db644186e7abb72",
         "titulo": "Devices & IOT Field Engineering Manager (Americas)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -364,6 +397,7 @@
     },
     {
         "id_vaga": 6460571,
+        "hash_vaga": "a2b85da4dd01d00865c9904deaa5ea90c4cd01638bb5a35454d02b1d0ebfab1f",
         "titulo": "Director, Talent Analytics",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -375,6 +409,7 @@
     },
     {
         "id_vaga": 4581200,
+        "hash_vaga": "4611ad5d3053646837658fa4be479432bdab7b0da573578ba93375f0d5e7f7a6",
         "titulo": "Distributed Systems Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -386,6 +421,7 @@
     },
     {
         "id_vaga": 2969042,
+        "hash_vaga": "18e83d8244016be7f00ff560de2deafb36a57b50f1c2f86270b7a3a0c0f1b980",
         "titulo": "Distributed Systems Testing Software Engineer, Python / Go",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -397,6 +433,7 @@
     },
     {
         "id_vaga": 3821346,
+        "hash_vaga": "1bac46488198dfd7a15667d7b339d6f097436c0fd5b8da5a34e002847723e84e",
         "titulo": "Embedded & Desktop Linux Systems Engineer - Optimisation",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -408,6 +445,7 @@
     },
     {
         "id_vaga": 7911753,
+        "hash_vaga": "0eddbd9ca5b45bbeaf9fff85ac254d72a79313cedc15a3da6a108e5903f17b26",
         "titulo": "Embedded Devices Software Solution Sales Account Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -419,6 +457,7 @@
     },
     {
         "id_vaga": 5823852,
+        "hash_vaga": "b17eafd7edeca8bd37d225c994cc22b47e6ac776862e0a8103d474a4afbeb7ce",
         "titulo": "Embedded Devices Software Solution Sales - All Roles",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -430,6 +469,7 @@
     },
     {
         "id_vaga": 7911756,
+        "hash_vaga": "40dd6e7cee2683bad83cfeb17c9e51e4d7277ab4a8f40a2ba10a9a5da437e187",
         "titulo": "Embedded Devices Software Solution Sales Director (Japan)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -441,6 +481,7 @@
     },
     {
         "id_vaga": 7911758,
+        "hash_vaga": "f691b0e2aba8aa5544737a8a2cb11563c1fcda53b22e4ec520a13d4f168a3f50",
         "titulo": "Embedded Devices Software Solution Sales Manager (Americas)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -452,6 +493,7 @@
     },
     {
         "id_vaga": 7911757,
+        "hash_vaga": "082ff3c7ff9858ee6306b086eccab8a7f2f4fc60dea56967ed1056fc90a5625a",
         "titulo": "Embedded Devices Software Solution Sales Manager (APAC)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -463,6 +505,7 @@
     },
     {
         "id_vaga": 7911759,
+        "hash_vaga": "713baa21982f3f6f83bf87cd13c8b67069232b6204814631bd7cb5d5bc13a666",
         "titulo": "Embedded Devices Software Solution Sales Manager (Taipei)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -474,6 +517,7 @@
     },
     {
         "id_vaga": 6224403,
+        "hash_vaga": "1903cb38ea7d522d53d0104353aaa16847c9d428d9b3164afd5804971d82253a",
         "titulo": "Embedded Linux Consultant - Japan",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -485,6 +529,7 @@
     },
     {
         "id_vaga": 3362765,
+        "hash_vaga": "8b1efa1ad9bbd24d400e27dac629729c67ddd568ce51e9bc37198b894dc63c79",
         "titulo": "Embedded Linux Field Engineer for Devices/IoT",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -496,6 +541,7 @@
     },
     {
         "id_vaga": 6994398,
+        "hash_vaga": "56b66a75ae67fe163722cfec75c0c398bc75d17b65fe8f90415b9d0fd4b5d1fe",
         "titulo": "Embedded Linux Field Engineer (Mandarin speaking)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -507,6 +553,7 @@
     },
     {
         "id_vaga": 6189337,
+        "hash_vaga": "f0e877004d8925c187635a824a84eff8461523b1996d2773f1438ad01566c7af",
         "titulo": "Embedded Linux Senior Software Engineer - Optimisation",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -518,6 +565,7 @@
     },
     {
         "id_vaga": 7646448,
+        "hash_vaga": "c6d7ba84da94375795d5173ee6434b9c866668825e2d77070200b946c7642053",
         "titulo": "Engineering Director - Business Data",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -529,6 +577,7 @@
     },
     {
         "id_vaga": 7646454,
+        "hash_vaga": "571f622958e65a5d3b98b5bc70a62fa69c25c82247945895b95b5dac64b901b1",
         "titulo": "Engineering Director - Commercial Systems",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -540,6 +589,7 @@
     },
     {
         "id_vaga": 7074861,
+        "hash_vaga": "ed647b87ae750226d28eea74651e36693d3ae9b5bb3286b973f5e6d4f1f29e92",
         "titulo": "Engineering Director, Devices Software Engineering",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -551,6 +601,7 @@
     },
     {
         "id_vaga": 5188002,
+        "hash_vaga": "d37b9972658a4aa1c14ee9817f19f36e3c44941c191d61948868132ed53ac876",
         "titulo": "Engineering Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -562,6 +613,7 @@
     },
     {
         "id_vaga": 6215502,
+        "hash_vaga": "7ae1962986ec4da141fdccd95602caf73212f340b6531210366a4eab404a8fa9",
         "titulo": "Engineering Manager - AppArmor",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -573,6 +625,7 @@
     },
     {
         "id_vaga": 5127399,
+        "hash_vaga": "7d343b293389b01dc71607ccd017675582f0a63616417902233842bba4f8cbd8",
         "titulo": "Engineering Manager - App Stores",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -584,6 +637,7 @@
     },
     {
         "id_vaga": 4175808,
+        "hash_vaga": "ca2f02eeef73f07bdbc6e41b583bd7cb915aee047aee17879c3165238f216b05",
         "titulo": "Engineering Manager- Ceph & Distributed Storage",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -595,6 +649,7 @@
     },
     {
         "id_vaga": 3657756,
+        "hash_vaga": "62b09c121db227f13bfa9c09c236311f7cd5f3a6f34cbfc1f5a73f372ea8b26c",
         "titulo": "Engineering Manager, Commercial Systems",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -606,6 +661,7 @@
     },
     {
         "id_vaga": 5667860,
+        "hash_vaga": "47d8bebc148ed0e894bd3ae2a669c6bc12c0ec55f10a9da18850ca55651fb794",
         "titulo": "Engineering Manager - Data Platform",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -617,6 +673,7 @@
     },
     {
         "id_vaga": 8179506,
+        "hash_vaga": "e9893bf693923cff59d873dfdbfca2b3659f115a3c75a073f835f4b5ba143361",
         "titulo": "Engineering Manager - Distributed Systems, Python / Go",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -628,6 +685,7 @@
     },
     {
         "id_vaga": 5869156,
+        "hash_vaga": "cffaf60140998b00c2a87639457b703bb0e71bfd0121e1ef3b8f9a9a77a6694f",
         "titulo": "Engineering Manager for IAM (Identity and Access Management)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -639,6 +697,7 @@
     },
     {
         "id_vaga": 3666345,
+        "hash_vaga": "500937786b507bc295e215573be04800c00de70f42410f9926b10746fd585095",
         "titulo": "Engineering Manager - Linux Hardware Enablement",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -650,6 +709,7 @@
     },
     {
         "id_vaga": 4676823,
+        "hash_vaga": "576f46e5625b945a6b1b6b4fc2248b51de807298f8e4e37e4a8e90926ea35a2a",
         "titulo": "Engineering Manager, Managed Services",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -661,6 +721,7 @@
     },
     {
         "id_vaga": 4810491,
+        "hash_vaga": "d97bd65a8fad9800a390db4056606a9a4b6ba2f9b413ff2cf0512f51c2d2e036",
         "titulo": "Engineering Manager - MLOps & Analytics",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -672,6 +733,7 @@
     },
     {
         "id_vaga": 4144793,
+        "hash_vaga": "53e352fddab5054e61afcc4dc7b84537b9b4509d43a0d77104773ef6cc98f1e2",
         "titulo": "Engineering Manager - Public Cloud, Python, Golang",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -683,6 +745,7 @@
     },
     {
         "id_vaga": 3740499,
+        "hash_vaga": "c69be685b516e7c43bd9644cf8d7838f8c2ec6b0754ccd9f74bc038e50e549f4",
         "titulo": "Engineering Manager - Python and K8s",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -694,6 +757,7 @@
     },
     {
         "id_vaga": 6215514,
+        "hash_vaga": "545a9ad610a3aa183d41a3e761885e0fb7a7f6368915f60636be3662496b566b",
         "titulo": "Engineering Manager - Security Standards and Hardening",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -705,6 +769,7 @@
     },
     {
         "id_vaga": 3313558,
+        "hash_vaga": "68387e5c72e5462e6a3f0eee3841954765cd87b14cc71e45ae659a4dae3fba62",
         "titulo": "Engineering Manager - Solutions Engineering",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -716,6 +781,7 @@
     },
     {
         "id_vaga": 5612564,
+        "hash_vaga": "efbe872796a300d20cee8dd8b1dbc39131a011782335757c4681c76bd06816dc",
         "titulo": "Engineering Manager - Ubuntu Core",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -727,6 +793,7 @@
     },
     {
         "id_vaga": 5996326,
+        "hash_vaga": "a88f5b8102690ee0d05f08dc6418a1959a74b144e8d237764ce7d5e7af9e2ca9",
         "titulo": "Engineering Manager - Ubuntu Hardware Certification Quality and Test Engineering",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -738,6 +805,7 @@
     },
     {
         "id_vaga": 3542384,
+        "hash_vaga": "ee09cb8258dd1cefbdefc79736fc2bd0e6090bc33819c214a0a0ad3f532e8cb8",
         "titulo": "Engineering Manager - Ubuntu Linux Kernel",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -749,6 +817,7 @@
     },
     {
         "id_vaga": 4192903,
+        "hash_vaga": "0a9b826a4c720a924ae9e3412e64ad9b35d19e501eafd750fc210b80f876fe77",
         "titulo": "Engineering Manager - Ubuntu Security",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -760,6 +829,7 @@
     },
     {
         "id_vaga": 4754075,
+        "hash_vaga": "dce306c644d43ee663ae5b288e31603c58a86cd034661fafd27d480d9dc828ba",
         "titulo": "Engineering Manager - Web",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -771,6 +841,7 @@
     },
     {
         "id_vaga": 7124193,
+        "hash_vaga": "22bee6ffbc7a3e7593dc4c86720b277633b40012313d8739ac6c02a364579fee",
         "titulo": "Enterprise Account Executive",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -782,6 +853,7 @@
     },
     {
         "id_vaga": 6856788,
+        "hash_vaga": "5cb8f1360be20d7aa52849718a0ccda46ec0a3b46e403c521dc27687848d841e",
         "titulo": "Enterprise Customer Success Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -793,6 +865,7 @@
     },
     {
         "id_vaga": 7084000,
+        "hash_vaga": "9af09390d2dd9c699c80a841629d33ede77ccff528ef373f627144da689b9a1b",
         "titulo": "Enterprise Customer Success Manager (French speaker)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -804,6 +877,7 @@
     },
     {
         "id_vaga": 7549144,
+        "hash_vaga": "32a56bf1738bc8117106627830cc91f82a3760680799fc47e8555200fb35afcd",
         "titulo": "Enterprise Customer Success Manager (Japanese speaker)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -815,6 +889,7 @@
     },
     {
         "id_vaga": 3256589,
+        "hash_vaga": "aa925a5efe999ab0e2ecdfa92ca264a5bc947169a0fdd517fceeb67d45bd86cd",
         "titulo": "Enterprise Project Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -826,6 +901,7 @@
     },
     {
         "id_vaga": 5152303,
+        "hash_vaga": "8400a473f0c4a904d9dedfc1dfad29ad9760b548542810ba65d15dc355e2617c",
         "titulo": "Entry-level communications specialist ",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -837,6 +913,7 @@
     },
     {
         "id_vaga": 3227084,
+        "hash_vaga": "f586aadb8c77f0a34952255fc76a460a68b2f02a1159d6d959135869ca0ae71e",
         "titulo": "Executive Assistant / Corporate Administrator",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -848,6 +925,7 @@
     },
     {
         "id_vaga": 7064135,
+        "hash_vaga": "4e4752b13cb8f90930be225800d5e1befa669ebff20f58c902872942b76c1b1f",
         "titulo": "Executive Search Lead - Technology",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -859,6 +937,7 @@
     },
     {
         "id_vaga": 4181031,
+        "hash_vaga": "5ff2dccd56e210c0e680c21ddb32862cfedda4c1f541aa5a0c583418502de5ca",
         "titulo": "Financial Analyst",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -870,6 +949,7 @@
     },
     {
         "id_vaga": 8207840,
+        "hash_vaga": "9ee22463908ab208ad21a4e8252d381ca036f6d66e24a8d3bd65c48bb6d1838a",
         "titulo": "General Counsel (Office based)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -881,6 +961,7 @@
     },
     {
         "id_vaga": 8249298,
+        "hash_vaga": "1f244d12f1bd29ead5d860a083d22ce1b29f597f80d21fb3b91654b5d9181a5d",
         "titulo": "General Counsel (remote)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -892,6 +973,7 @@
     },
     {
         "id_vaga": 5894889,
+        "hash_vaga": "ce3e5079896b18620f2ca56ef96eef7fedece7376785e831710c11e5979aa1a9",
         "titulo": "GitOps Engineering Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -903,6 +985,7 @@
     },
     {
         "id_vaga": 2383894,
+        "hash_vaga": "b290015bfc6faf396eda94de9f6f1b01031793d0e4fba461c6d3293e9ac37378",
         "titulo": "Global Head of Cloud Alliances",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -914,6 +997,7 @@
     },
     {
         "id_vaga": 8081579,
+        "hash_vaga": "122f6fd6000b9907662c8574160cdb72b5cdb770f77aba8e99187beb0b9e5e0b",
         "titulo": "Global Payroll Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -925,6 +1009,7 @@
     },
     {
         "id_vaga": 5839217,
+        "hash_vaga": "f6d27d0a901093a5ee24ecc3c0c9447a563c1d582557932de326fdb9265323e8",
         "titulo": "Global Treasury Analyst",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -936,6 +1021,7 @@
     },
     {
         "id_vaga": 4857458,
+        "hash_vaga": "9789215e4ff477b8ec226163f39ab90d02acb7b13af709f1b239fa027f1f3982",
         "titulo": "Go (Golang) Software Engineer, Developer Tooling and Containers",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -947,6 +1033,7 @@
     },
     {
         "id_vaga": 5146709,
+        "hash_vaga": "39cf4136cce173590154554b564847b1ff5a4247736b4c0dea39145f7e5bc458",
         "titulo": "Golang Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -958,6 +1045,7 @@
     },
     {
         "id_vaga": 5692058,
+        "hash_vaga": "b791d68b666b056f4dcce041bc2d01cdad569d87a427da4aeaea66bce1cbd3ff",
         "titulo": "Golang Engineering Manager, Commercial Systems",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -969,6 +1057,7 @@
     },
     {
         "id_vaga": 4827747,
+        "hash_vaga": "ea5edcf62d397a4faef1f3735fcac9fe5eeb3d90e895d5e8a61b7f8818305a0c",
         "titulo": "Golang Software Engineer, Commercial Systems",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -980,6 +1069,7 @@
     },
     {
         "id_vaga": 4960407,
+        "hash_vaga": "536d9d4de0319596faa14048f6b0245252abba2ee17b97e8d68d0433c4c43250",
         "titulo": "Golang System Software Engineer - Containers / Virtualisation",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -991,6 +1081,7 @@
     },
     {
         "id_vaga": 6103331,
+        "hash_vaga": "018761bcb2a1731551cb065ddefa75b5f5e7a136a15f74b805fe8fa15c0419ef",
         "titulo": "Graduate Customer Success Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1002,6 +1093,7 @@
     },
     {
         "id_vaga": 7048263,
+        "hash_vaga": "66506a6d87088f4c56066f5f98d4eec2503436c97e7518e959fdd14b3453c7f2",
         "titulo": "Graduate HR Generalist - Americas",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1013,6 +1105,7 @@
     },
     {
         "id_vaga": 5253092,
+        "hash_vaga": "1c55e34c0661129ab8e03836e77ba5b2cc73e7c633ed2056118ff03fedac4d38",
         "titulo": "Graduate HR Generalist - APAC",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1024,6 +1117,7 @@
     },
     {
         "id_vaga": 4981249,
+        "hash_vaga": "cfcbdff913a0c07430224289cdeb8b79c545aff0f38ce3aacb33aa4dc44892dc",
         "titulo": "Graduate Partner Marketing Manager ",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1035,6 +1129,7 @@
     },
     {
         "id_vaga": 5915299,
+        "hash_vaga": "2c39c0f2afd5640a240f58a8f18c7b159308ea58e6e657952304929cd23d894e",
         "titulo": "Graduate Sales Development Representative",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1046,6 +1141,7 @@
     },
     {
         "id_vaga": 7981854,
+        "hash_vaga": "fb33c051386872cacce04a4be696a4b444e97c44fb8c12a3b674d428be5c9de1",
         "titulo": "Graduate Sales Development Representative - Canada (Remote)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1057,6 +1153,7 @@
     },
     {
         "id_vaga": 7661586,
+        "hash_vaga": "6933ea861406ef4631144367320d3de2ae3833cce8739b31e97a3e48ce560ae4",
         "titulo": "Graduate Sales Development Representative (UK)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1068,6 +1165,7 @@
     },
     {
         "id_vaga": 8249005,
+        "hash_vaga": "9b62108cccd1ece154ee6c6651e27b3af3e3ffc2b8e6f7311ec49b45f5156dc4",
         "titulo": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1079,6 +1177,7 @@
     },
     {
         "id_vaga": 6464146,
+        "hash_vaga": "37002a708c33a989709e26330955c60e67628cec0bcc36b2b7d15173515feb97",
         "titulo": "Graduate Talent Scientist",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1090,6 +1189,7 @@
     },
     {
         "id_vaga": 7962419,
+        "hash_vaga": "c7f5707a2ab249e124a00cebe6fea7ed6e4219001daa4b2102d8859e12628843",
         "titulo": "Group Financial Controller",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1101,6 +1201,7 @@
     },
     {
         "id_vaga": 8142970,
+        "hash_vaga": "fc281ba5e8a4476fee2d82f92c1aef18ac8473655a7a6c1d2addb3c554240b07",
         "titulo": "Head of Financial Planning & Analysis",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1112,6 +1213,7 @@
     },
     {
         "id_vaga": 4209375,
+        "hash_vaga": "800e042daa9e50b8604c10a9a125c0164a5716d54212b1ac59f7563cbb5ae8e5",
         "titulo": "Head of Security Operations",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1123,6 +1225,7 @@
     },
     {
         "id_vaga": 7055576,
+        "hash_vaga": "c792de5365b6980cded557cfca5771c10624f56fe7bfa47f9e1c36dda3c0a63b",
         "titulo": "HR Generalist ",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1134,6 +1237,7 @@
     },
     {
         "id_vaga": 6950222,
+        "hash_vaga": "3a37329765500ed56e35f6f534cee3f59c33c56ef507595c5d13cb967e4cbe95",
         "titulo": "IBM Global Alliance Director",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1145,6 +1249,7 @@
     },
     {
         "id_vaga": 4551832,
+        "hash_vaga": "25b31d371efbc03a9311f2cc8eddfbe4727b351bfe554fd2be5d534d44d27ee7",
         "titulo": "Information Systems - Open Source Technical Architect",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1156,6 +1261,7 @@
     },
     {
         "id_vaga": 8008666,
+        "hash_vaga": "148300a138ceb91b563f7bf116559d64204b83f0a00defa22a23d4c1121a2704",
         "titulo": "Internal Auditor",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1167,6 +1273,7 @@
     },
     {
         "id_vaga": 2169848,
+        "hash_vaga": "a210b0e9725649b88c2398b78f7e9750aa42877f05dce1e24e898a414d23e1e6",
         "titulo": "IoT Field Engineer - China & Region",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1178,6 +1285,7 @@
     },
     {
         "id_vaga": 6587365,
+        "hash_vaga": "03d34bb2ccc1869a920562f5cc1a3668e2282da0416ba4611b8fe087225aabaf",
         "titulo": "IoT Solutions Architecture Manager (Americas only)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1189,6 +1297,7 @@
     },
     {
         "id_vaga": 7607749,
+        "hash_vaga": "aaf2534a227ff8113441df8674fa1afc3db0a5ece51aa1fa5be7706aaf4f1476",
         "titulo": "ISV Technical Alliance Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1200,6 +1309,7 @@
     },
     {
         "id_vaga": 6426388,
+        "hash_vaga": "80bdba1a116921c6c33b221b9f7ca5fe35955031f43cd0bdee9f5e6a4d01e40e",
         "titulo": "Juju Software Engineer (Go)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1211,6 +1321,7 @@
     },
     {
         "id_vaga": 6642933,
+        "hash_vaga": "1f9f064d0684a9617579e01569988d4efb3753c39b7fc2f91eaf0e8599f97ef8",
         "titulo": "Junior Ads Specialist",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1222,6 +1333,7 @@
     },
     {
         "id_vaga": 6492597,
+        "hash_vaga": "c39cf8b558c9a9a259d4805181bf05f1658c1c1e9f434ed32adc64f3a30a3cd3",
         "titulo": "Junior Campaign Manager ",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1233,6 +1345,7 @@
     },
     {
         "id_vaga": 5370815,
+        "hash_vaga": "526f4a69dae6ea3f8b031146d32f2179642923b85c2786272cd9468b7a28fc83",
         "titulo": "Junior Linux Kernel Engineer - Ubuntu",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1244,6 +1357,7 @@
     },
     {
         "id_vaga": 6980706,
+        "hash_vaga": "d24d241b58fdde84382c8ddc011eeb5fd1c7afc9b1ea48234fa9ac6505e8b642",
         "titulo": "Junior Product Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1255,6 +1369,7 @@
     },
     {
         "id_vaga": 5861481,
+        "hash_vaga": "8850c8760d1f993076f8ecbdaa8b5bc0cbc8860639f54ba0bc25b62ce07ede60",
         "titulo": "Junior Project Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1266,6 +1381,7 @@
     },
     {
         "id_vaga": 6707669,
+        "hash_vaga": "b6c82136003e82d5a1ea21b70b6574c0604cae3b4ebd2e0ac7e55c1d8935c414",
         "titulo": "Junior Ubuntu Software Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1277,6 +1393,7 @@
     },
     {
         "id_vaga": 7334725,
+        "hash_vaga": "9936c61b2fb78a371af45eab52a2ae6270869e4b351b5daa83367235e7ff1946",
         "titulo": "Kernel Build Automation Engineer - Ubuntu Linux",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1288,6 +1405,7 @@
     },
     {
         "id_vaga": 7440256,
+        "hash_vaga": "f96c7f438e3e8fefaad0c3f7fd66af6efd6efdb74b715ab86a59786122bea480",
         "titulo": "LATAM Enterprise Account Executive - Spanish speaker",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1299,6 +1417,7 @@
     },
     {
         "id_vaga": 6394147,
+        "hash_vaga": "89d12ac66c3fd41c2ab90f15b21f55244503e6619091608b984e1d65332324ef",
         "titulo": "Lead Data Governance Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1310,6 +1429,7 @@
     },
     {
         "id_vaga": 6484410,
+        "hash_vaga": "190b2e63a85f2bd8d38c9c63ed9781e9744296b3707bf4d978e1201e1c05261e",
         "titulo": "Lead HR Generalist - Americas",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1321,6 +1441,7 @@
     },
     {
         "id_vaga": 6010955,
+        "hash_vaga": "365f18c53415ca3b9d0f963630e1b1b9c82d7fa735e29041f7ec6dee713aa5b1",
         "titulo": "Lead Linux Kernel Engineer - Ubuntu",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1332,6 +1453,7 @@
     },
     {
         "id_vaga": 7946932,
+        "hash_vaga": "475f58a48209bb40b63303a4e9d332fad62fa1ba13bf44216cf0e77f5115673f",
         "titulo": "Legal Counsel - Regulatory Compliance, Product and Privacy ",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1343,6 +1465,7 @@
     },
     {
         "id_vaga": 4717512,
+        "hash_vaga": "5720ebe0561aaf91c27e66b2eee84eb8c2cd09cebe4d57fa0e9e04bd9ac7b9af",
         "titulo": "Linux Cryptography and Security Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1354,6 +1477,7 @@
     },
     {
         "id_vaga": 8023521,
+        "hash_vaga": "7df62016760207d8a14a272b67c2d1738aa2028fa94c3eb8ba4b0d58af2f1464",
         "titulo": "Linux Desktop Support Associate (London UK office)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1365,6 +1489,7 @@
     },
     {
         "id_vaga": 7569101,
+        "hash_vaga": "001110a8c0bdcebf3d255edabfd39c10618ccaefdf4fcb85be2762e8c374575d",
         "titulo": "Linux Desktop Support Engineer (London UK office)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1376,6 +1501,7 @@
     },
     {
         "id_vaga": 5140562,
+        "hash_vaga": "50fde61a30cf56ab31e5129c05f1b78f9a35ed3e200db29f10eab74ea59f2cac",
         "titulo": "Linux Devices Software Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1387,6 +1513,7 @@
     },
     {
         "id_vaga": 4394058,
+        "hash_vaga": "70384732567961fec1d9d7de76b34e2829ece3d84a3862223488e14edce20979",
         "titulo": "Linux devices software engineer - snapd",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1398,6 +1525,7 @@
     },
     {
         "id_vaga": 3262042,
+        "hash_vaga": "4602d8b4e571ea9ed39f52587bd5de1675f7fc79b1fcf0082025299cfb501145",
         "titulo": "Linux Enablement - Software Engineering Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1409,6 +1537,7 @@
     },
     {
         "id_vaga": 5560182,
+        "hash_vaga": "e854518a2c13106f4e8124fe309cec3d356dcd788b103d0c7f4382bff7dad9c8",
         "titulo": "Linux Enablement - Software Engineering Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1420,6 +1549,7 @@
     },
     {
         "id_vaga": 5151903,
+        "hash_vaga": "831cc203098b97b851ebe4ea9351a6e261b58381af0aea7c26b9dab423b3e956",
         "titulo": "Linux Kernel Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1431,6 +1561,7 @@
     },
     {
         "id_vaga": 6062471,
+        "hash_vaga": "d6b3f3ca5c216c69df39d40d0027b20730cf5e4fa1749336696613b608ad1b17",
         "titulo": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1442,6 +1573,7 @@
     },
     {
         "id_vaga": 7432750,
+        "hash_vaga": "0f1df00ac76ef80d96bbc33831db2d22a06e129f3ef5a3d693a39b478f693008",
         "titulo": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1453,6 +1585,7 @@
     },
     {
         "id_vaga": 6177790,
+        "hash_vaga": "a775d54c590fc10faa0f2da993a38b7612814cffd580d40eff74992085f0c2c9",
         "titulo": "MAAS Data Center Infrastructure Engineer (Toronto area)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1464,6 +1597,7 @@
     },
     {
         "id_vaga": 6177794,
+        "hash_vaga": "4eef244ed78df19a7494e3ffa6f4fadbbb1ce58397ad5010dec5c17703fbdca9",
         "titulo": "MAAS Systems Engineer - Python (Toronto area)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1475,6 +1609,7 @@
     },
     {
         "id_vaga": 7267884,
+        "hash_vaga": "07097664bd49a439c33f48fd280d1b230c00202d793d8f8c4febe0e827ad73c3",
         "titulo": "Manager of Enterprise Open Source Sales Team",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1486,6 +1621,7 @@
     },
     {
         "id_vaga": 7836561,
+        "hash_vaga": "2388ec95f3cc0847f53e1631f5ac54af3c6987764cf7f7bd4bb880437729d1d2",
         "titulo": "Manager, People Analytics",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1497,6 +1633,7 @@
     },
     {
         "id_vaga": 6458166,
+        "hash_vaga": "c83f09ef31c82478e16f18213f5eac40b546f3bd7da4e6e9325de80cabb12e5d",
         "titulo": "Manager, Product Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1508,6 +1645,7 @@
     },
     {
         "id_vaga": 4981245,
+        "hash_vaga": "f2f122836cee196979b84f75b9df96c7c2343d202b3da5f7ae8a0dc23884f7b4",
         "titulo": "Marketing Associate ",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1519,6 +1657,7 @@
     },
     {
         "id_vaga": 6110691,
+        "hash_vaga": "886e19857c00dccf56a07da3417ae4c74d99be67a0fc2474429dc65924ec8b02",
         "titulo": "Marketing Manager ",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1530,6 +1669,7 @@
     },
     {
         "id_vaga": 7953864,
+        "hash_vaga": "942365b7c58c8d97b9eac5aa5bd61627d18209777300a859de98a4df7b1dec74",
         "titulo": "Marketing Team Lead",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1541,6 +1681,7 @@
     },
     {
         "id_vaga": 5191982,
+        "hash_vaga": "da0f151d928de033ec1a12f64ec465d5f8e9e73894815ccf592c3a7c828ca5fa",
         "titulo": "Microservices Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1552,6 +1693,7 @@
     },
     {
         "id_vaga": 6783943,
+        "hash_vaga": "376dc77e1aae45ea9068fcea8d2418ffbbf95a40c31afb6e09c863be76f3eac9",
         "titulo": "MLOps Field Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1563,6 +1705,7 @@
     },
     {
         "id_vaga": 6391434,
+        "hash_vaga": "b1e3baa9964c83c68a5d8f4e10d974cc55d71055e16b6b2b97b87ad1f5e4b6d4",
         "titulo": "NetSuite Administrator",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1574,6 +1717,7 @@
     },
     {
         "id_vaga": 5739500,
+        "hash_vaga": "969313781dadf6bb341a9a56a7549cb4390d8d0f5a3bf81f80bc12f0a19a04c1",
         "titulo": "Observability Engineering Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1585,6 +1729,7 @@
     },
     {
         "id_vaga": 6633605,
+        "hash_vaga": "8dad2baaee278a1659eb0d24761dcb37d4e0bc59841d02149b2b2ca95c7c69dd",
         "titulo": "Open Source Enterprise Sales / Alliances ",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1596,6 +1741,7 @@
     },
     {
         "id_vaga": 7746655,
+        "hash_vaga": "8e55e6f585986c2e59ba80cfbef84e466ab89c452345bea8fa0c98f73fc551fc",
         "titulo": "Open Source Enterprise Sales Manager - North America",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1607,6 +1753,7 @@
     },
     {
         "id_vaga": 5660661,
+        "hash_vaga": "62b2a70a1697805bbb3f1cddb1ccfae5a4110f3b63737245107fd06d652f2e5e",
         "titulo": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU ",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1618,6 +1765,7 @@
     },
     {
         "id_vaga": 4676858,
+        "hash_vaga": "5af04517b3b7f4a71698bb4e725416bfe56a64114e6bdcba9413638a85ad1957",
         "titulo": "OpenStack Engineering Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1629,6 +1777,7 @@
     },
     {
         "id_vaga": 8160237,
+        "hash_vaga": "f2efa01416b25d31784c1258af57484f797a49bcef5c10302a3191f5ea5b436c",
         "titulo": "Organisational Development Associate",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1640,6 +1789,7 @@
     },
     {
         "id_vaga": 6812436,
+        "hash_vaga": "ff0679144d2e7f8a46eb62c36325d9091d0ae3a2ca4adb219df3497bee7207bb",
         "titulo": "Partner Marketing Manager ",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1651,6 +1801,7 @@
     },
     {
         "id_vaga": 3572118,
+        "hash_vaga": "7e827a1f2acecea9c416201670233e33b91063c41eecad703fe982d7aa3f8389",
         "titulo": "Partner Sales Director - Global System Integrator (GSI)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1662,6 +1813,7 @@
     },
     {
         "id_vaga": 4126502,
+        "hash_vaga": "e1d36c0997cfc877d9f248d8731770874fa9bc9629f4c1cf9a1e6204f962bca8",
         "titulo": "Partner Sales Director - IHV Alliances",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1673,6 +1825,7 @@
     },
     {
         "id_vaga": 6861259,
+        "hash_vaga": "bfa252bcec917cc57e4dda42b5b35dab8e6f461ace45544e296bc0a6bb234110",
         "titulo": "Partner Sales Executive, ANZ Channel",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1684,6 +1837,7 @@
     },
     {
         "id_vaga": 6749072,
+        "hash_vaga": "9795820b07bd832b57319b7eb0ff933cc2a7ecc3287ef361a8f073388dd12625",
         "titulo": "Partner Sales Executive, North America Channel",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1695,6 +1849,7 @@
     },
     {
         "id_vaga": 6173361,
+        "hash_vaga": "b0104b9eb8254d28d3871acb7263c9d72e5e286e191322bd5125bee7c98a1a04",
         "titulo": "Partner Sales Manager - Dell",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1706,6 +1861,7 @@
     },
     {
         "id_vaga": 5572475,
+        "hash_vaga": "ee7629f35decd6dd33cc6a8fd4a92d46d9cfdd597f67fac48fc62e6c9edf80a3",
         "titulo": "Partner Sales Manager - Hewlett Packard Enterprise, India",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1717,6 +1873,7 @@
     },
     {
         "id_vaga": 6950219,
+        "hash_vaga": "3c0a1b2539fdcf29c9bde0ad781b62f35294a3a7a34ac26e2984c20be653049f",
         "titulo": "Partner Sales Manager - IHV Alliances",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1728,6 +1885,7 @@
     },
     {
         "id_vaga": 5396437,
+        "hash_vaga": "2deadcacb53b1fb12844aaabc729505245c6e6ab0793a8f9acdc78b3f4bab73b",
         "titulo": "PC Platforms Kernel Engineer - Ubuntu Linux",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1739,6 +1897,7 @@
     },
     {
         "id_vaga": 5792361,
+        "hash_vaga": "83c17066fb8f5d86c7ebf89b27a74c49efbbdcb061fb6eb6a25770624ffab147",
         "titulo": "Performance Engineer - Open Source",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1750,6 +1909,7 @@
     },
     {
         "id_vaga": 5029257,
+        "hash_vaga": "0cc070196a81e42fda528fde523b346d73f9199734903cfc14b5ff344dadae42",
         "titulo": "Product Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1761,6 +1921,7 @@
     },
     {
         "id_vaga": 6643476,
+        "hash_vaga": "67e6ae688953c5a9fc9fa81f48dd217de282502a130f80e4b530b4b9d2781e3e",
         "titulo": "Product Manager - AI",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1772,6 +1933,7 @@
     },
     {
         "id_vaga": 6643965,
+        "hash_vaga": "379b789e0bb7d50e0f5dae32f9543cfa04c486a132648884d45c6ffecf7a70aa",
         "titulo": "Product Manager - Cloud",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1783,6 +1945,7 @@
     },
     {
         "id_vaga": 6643484,
+        "hash_vaga": "c737dd576ea0be2aa685d9307e31a2bff56ea14210777d5bf9d2d5d07a1c3daa",
         "titulo": "Product Manager - Data",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1794,6 +1957,7 @@
     },
     {
         "id_vaga": 6643483,
+        "hash_vaga": "56b3ed3a83fb2d1a7b67e047d744f24b4b65a5c514acdbaeed76835a9def5b83",
         "titulo": "Product Manager - Security",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1805,6 +1969,7 @@
     },
     {
         "id_vaga": 6643481,
+        "hash_vaga": "924a021ac5efe33f9a584c749ece78b18c1371de4c2bb4c91444c8f1fbb3b772",
         "titulo": "Product Manager - Ubuntu",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1816,6 +1981,7 @@
     },
     {
         "id_vaga": 8200686,
+        "hash_vaga": "4535f54feadf91155d87c77fadc306cf5594fefa0651312a6d4ff07878e5df26",
         "titulo": "Product Marketing Lead",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1827,6 +1993,7 @@
     },
     {
         "id_vaga": 4953222,
+        "hash_vaga": "f7d679c9213b81d369000b3bbb773caefbf90ef7939f05b3dbf81f502ccb0dbf",
         "titulo": "Project Manager - Ubuntu Embedded Systems",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1838,6 +2005,7 @@
     },
     {
         "id_vaga": 2808065,
+        "hash_vaga": "9a57613f20bf1d1a0d37ccb9040e7c3a7330237d05d524f62b00c80dd4b9fa08",
         "titulo": "Project Manager - Ubuntu Embedded Systems",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1849,6 +2017,7 @@
     },
     {
         "id_vaga": 5422728,
+        "hash_vaga": "a3d0758f4132cc713c90c28cbdd70edc95f19064d4ca4eb9f64494cab7ae16eb",
         "titulo": "Project Manager - Ubuntu Embedded Systems",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1860,6 +2029,7 @@
     },
     {
         "id_vaga": 4732475,
+        "hash_vaga": "56d894b1bfc805ac1cb0349f27c9812e8ad98af128b1305d4314b326a653a5c1",
         "titulo": "Public Cloud Project Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1871,6 +2041,7 @@
     },
     {
         "id_vaga": 7490812,
+        "hash_vaga": "717ea9565a58de4660a6a77c7b4f755d8f929164938c217997f7258c4865cdda",
         "titulo": "Public Cloud Solution Architect",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1882,6 +2053,7 @@
     },
     {
         "id_vaga": 5703396,
+        "hash_vaga": "e55501d569796466ec1115a133849fc998fc0261a1969c1859f362b864683558",
         "titulo": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1893,6 +2065,7 @@
     },
     {
         "id_vaga": 5143074,
+        "hash_vaga": "872b45cffe824404ac501de124d0b6199e23fa61d96d65bf9e64aea8d5e6411e",
         "titulo": "Python Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1904,6 +2077,7 @@
     },
     {
         "id_vaga": 4536726,
+        "hash_vaga": "86fb807fa0113e1a7ee35384de06723ecb8bcd365afe29fecda370e91bd3addd",
         "titulo": "Python Engineer - Data Center Hardware Integration (Taipei)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1915,6 +2089,7 @@
     },
     {
         "id_vaga": 5692059,
+        "hash_vaga": "1d57d088e3584f40547fec3b26476eea0100cb9e27927246d36172672a5f820d",
         "titulo": "Python Engineering Manager, Commercial Systems",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1926,6 +2101,7 @@
     },
     {
         "id_vaga": 6401160,
+        "hash_vaga": "5302d38d5af2fb26f393559e86c8ac04d5c93bd9f6dfa92dc15cb6506f14b5e0",
         "titulo": "Python Software Engineer, Commercial Systems",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1937,6 +2113,7 @@
     },
     {
         "id_vaga": 3658005,
+        "hash_vaga": "7b041c6500efb188bd4aec5957a4da4a1d246787f5811831814ae78ba4461721",
         "titulo": "Python Software Engineer - Ubuntu Hardware Certification Team",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1948,6 +2125,7 @@
     },
     {
         "id_vaga": 4633682,
+        "hash_vaga": "02063aec598859602c3f6aa9175a55b43cb87c3b5dc0fb346bc80f282f8e475c",
         "titulo": "Regional BDR Team Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1959,6 +2137,7 @@
     },
     {
         "id_vaga": 3979744,
+        "hash_vaga": "a806d2c68c155aba32ddef4a9fa509b33be94db25ebc410177533d01bfbf034a",
         "titulo": "Regional HR Manager - AMER",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1970,6 +2149,7 @@
     },
     {
         "id_vaga": 6180909,
+        "hash_vaga": "13bc9b8815f68970ce471088e4b917bce50a259ee9ee7fd0e7ca18d660118f69",
         "titulo": "Regional HR Manager - EMEA",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1981,6 +2161,7 @@
     },
     {
         "id_vaga": 8094035,
+        "hash_vaga": "8f3f3aedc4f1a56aeea6414d58bd1458934c15410d47d0e8ee0be0a229dd5aab",
         "titulo": "Regional SDR Director",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -1992,6 +2173,7 @@
     },
     {
         "id_vaga": 7437155,
+        "hash_vaga": "3d9eeb6401b53a3608783e4e8a08eb4a68ca4a77bd47eb7e7f7408b2d1625f51",
         "titulo": "Renewals Sales Manager, Americas",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2003,6 +2185,7 @@
     },
     {
         "id_vaga": 5906505,
+        "hash_vaga": "9ee855204ad4c6fe07e7c6c11aee623a190328de15a6f1894baa0da2ee9cfbd8",
         "titulo": "Représentant du Développement des Ventes ",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2014,6 +2197,7 @@
     },
     {
         "id_vaga": 5906490,
+        "hash_vaga": "bc6ed7c96bba1c2dd6c5c47872519236aca0a9e801b099c3440faf729a40c355",
         "titulo": "Representante de Desarrollo de Ventas",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2025,6 +2209,7 @@
     },
     {
         "id_vaga": 3830645,
+        "hash_vaga": "1688e355dd7e5c483bfb6e03980652e1c8baef382dd146d6c2148a011e108e5e",
         "titulo": "Revenue Accountant",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2036,6 +2221,7 @@
     },
     {
         "id_vaga": 5833620,
+        "hash_vaga": "7353e5c5f47a0d20c2f75cca6bb05131bc1568bab4b29eac843dd7626a7f8613",
         "titulo": "Rust Engineering Lead - Linux and Open Source",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2047,6 +2233,7 @@
     },
     {
         "id_vaga": 2955155,
+        "hash_vaga": "adde0678fdafa9215315a70f9921808aa6ce17644488ad643e36742b516b07ba",
         "titulo": "Sales Development Representative",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2058,6 +2245,7 @@
     },
     {
         "id_vaga": 5912833,
+        "hash_vaga": "adde0678fdafa9215315a70f9921808aa6ce17644488ad643e36742b516b07ba",
         "titulo": "Sales Development Representative",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2069,6 +2257,7 @@
     },
     {
         "id_vaga": 7668160,
+        "hash_vaga": "d6f44243889e1a6f39fcff2e4f7a24805800d21880f033950391f901297f1922",
         "titulo": "Sales Development Representative (Arabic Speaker)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2080,6 +2269,7 @@
     },
     {
         "id_vaga": 5906452,
+        "hash_vaga": "eff1373b4c25999310a8323c8d046df7f41e2194c54ffcf40da4e29dc7fe7236",
         "titulo": "Sales Development Representative (Dutch Speaker)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2091,6 +2281,7 @@
     },
     {
         "id_vaga": 5906460,
+        "hash_vaga": "eb31adfb7b68e01c18e249c4f3620eaad7695ba45186342fe43b574d687bf71f",
         "titulo": "Sales Development Representative (German Speaker)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2102,6 +2293,7 @@
     },
     {
         "id_vaga": 5906498,
+        "hash_vaga": "b17d7c200f39da4915bee62581287efb0d7e778cc7c19b4c07b7db4eb833fb1d",
         "titulo": "Sales Development Representative (Italian Speaker)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2113,6 +2305,7 @@
     },
     {
         "id_vaga": 6924722,
+        "hash_vaga": "50aa6c54e3ff2596d8d577e3983c5b3e5dbb68918c961efc8f523c1e1a9fecae",
         "titulo": "Sales Development Representative (Portuguese Speaker)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2124,6 +2317,7 @@
     },
     {
         "id_vaga": 5906570,
+        "hash_vaga": "b95132a1a87c9ec63a7d991b7f3c21c760c4e3d01855a872b483ec2790478881",
         "titulo": "インサイドセールス (リモート)/ Sales Development Representative (Remote)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2135,6 +2329,7 @@
     },
     {
         "id_vaga": 5648135,
+        "hash_vaga": "1f9f22cf79b356323b5d3cc7395cc25538bd878de09db3cfa3f95c83ebee54b6",
         "titulo": "Sales Development Representative (Spanish & Portuguese Speaker)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2146,6 +2341,7 @@
     },
     {
         "id_vaga": 7963009,
+        "hash_vaga": "db73874b1ef13593d9f229b3112ea981273af89142224d3d3d881eec2b9a2304",
         "titulo": "Sales Enablement Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2157,6 +2353,7 @@
     },
     {
         "id_vaga": 6371231,
+        "hash_vaga": "46af625ed6b8f648cbf08625b7e29ba20c35f8c1274ffc73e5f74a0b188004b0",
         "titulo": "Salesforce Administrator",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2168,6 +2365,7 @@
     },
     {
         "id_vaga": 4582078,
+        "hash_vaga": "197ba1fd84f9c80a54a8f90594b95d0bda577d75f87c0b367294c3e0acd36fd6",
         "titulo": "Salesforce/NetSuite Engineering Manager, Commercial Systems",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2179,6 +2377,7 @@
     },
     {
         "id_vaga": 5924435,
+        "hash_vaga": "9059b50361ee2467025ffdf1605cb955c7c0087db164aa940e1a0aa16c747f63",
         "titulo": "Sales Operations Analyst",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2190,6 +2389,7 @@
     },
     {
         "id_vaga": 5422575,
+        "hash_vaga": "b34e83e7b1c7f5da0cd879158dfd575656d4666cae847b16b8f0cdb18cc306c4",
         "titulo": "Security Risk Management Specialist",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2201,6 +2401,7 @@
     },
     {
         "id_vaga": 5146620,
+        "hash_vaga": "51284fff8f26503df34dcfe61328d2d79e7bf9e66a4a66e86e2a555cf7ad9a84",
         "titulo": "Security Software Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2212,6 +2413,7 @@
     },
     {
         "id_vaga": 7303629,
+        "hash_vaga": "885393950e9e2ea1e6cb21ec5292d44e72d7080c7052a70780c12517374c9fe0",
         "titulo": "Senior Communications Manager - Analyst Relations",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2223,6 +2425,7 @@
     },
     {
         "id_vaga": 7771226,
+        "hash_vaga": "0965cfbd1e5b90169ef064eb68f4a11c9036724662bfd64ea6c13307f4604e2e",
         "titulo": "Senior communications specialist - social media",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2234,6 +2437,7 @@
     },
     {
         "id_vaga": 5995321,
+        "hash_vaga": "7e2cbf59d424a56c84bcca5b7fc32713d535e17fba06d5776efa1eda44c6a33f",
         "titulo": "Senior Design Manager (Infrastructure)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2245,6 +2449,7 @@
     },
     {
         "id_vaga": 7528950,
+        "hash_vaga": "738a32f254aa573a012849630ddc17c18d45802893fd079c35d47c704545a936",
         "titulo": "Senior Design Researcher - User Science",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2256,6 +2461,7 @@
     },
     {
         "id_vaga": 6762650,
+        "hash_vaga": "1a2e0a3e97eca676cdde67bfca0a24a5931e94d92d3ad2076f0577a0698955e1",
         "titulo": "Senior HR Generalist - EMEA",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2267,6 +2473,7 @@
     },
     {
         "id_vaga": 5920689,
+        "hash_vaga": "3ea491cad519c93cd42998992c56af408d467425697e1499028d049c76bb399e",
         "titulo": "Senior Jira Administrator",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2278,6 +2485,7 @@
     },
     {
         "id_vaga": 5566674,
+        "hash_vaga": "e47c7211816278da47d47ae83562a27487771bee20ef03d58ee3f7f4ef1ccae6",
         "titulo": "Senior Juju Software Engineer (Go)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2289,6 +2497,7 @@
     },
     {
         "id_vaga": 5223805,
+        "hash_vaga": "5c12eebc3cc4d04663d9ee3ad803604959301052c1bf0d3a6788da6fd0257b64",
         "titulo": "Senior Marketing Automation Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2300,6 +2509,7 @@
     },
     {
         "id_vaga": 8090587,
+        "hash_vaga": "888a1649b320362bfe708ad115a2392e9c70d44dfd98e3de1704269966b449b7",
         "titulo": "Senior Organisational Development Practitioner",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2311,6 +2521,7 @@
     },
     {
         "id_vaga": 7086483,
+        "hash_vaga": "694063c2cd651b72f305606c66c22b943c01c278bf15c3bceec1ac0242326013",
         "titulo": "Senior Partner Sales Manager - Global System Integrator (GSI)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2322,6 +2533,7 @@
     },
     {
         "id_vaga": 7601064,
+        "hash_vaga": "f7ac74e1edb2fe15f18dda0797e8e571ff24db8c8bc88cbb78bcf16c0e76eff3",
         "titulo": "Senior Product Marketing Manager ",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2333,6 +2545,7 @@
     },
     {
         "id_vaga": 4122239,
+        "hash_vaga": "5ad5ae34ed282072e4cd0e5b9943f278910612d41fd3e741b73dcc5fea4a7db7",
         "titulo": "Senior Sales Operations Analyst",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2344,6 +2557,7 @@
     },
     {
         "id_vaga": 5391149,
+        "hash_vaga": "e1ef58e0924358ffd49f8e3b582bb39560c814d4defc4ece7e64afcec8d57793",
         "titulo": "Senior Security Operations Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2355,6 +2569,7 @@
     },
     {
         "id_vaga": 3029798,
+        "hash_vaga": "2d7b6a3f47d205ec3fd1808bfed545f32c9e420f8ea01d5ef0773ab257073b81",
         "titulo": "Senior Site Reliability Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2366,6 +2581,7 @@
     },
     {
         "id_vaga": 5517891,
+        "hash_vaga": "1ec7d59272c57f804e7abee829fd89ae70e6e8ad24b67d1a36670fa11d58cc2c",
         "titulo": "Senior Site Reliability / Gitops Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2377,6 +2593,7 @@
     },
     {
         "id_vaga": 3142044,
+        "hash_vaga": "ab9abd895c41b2868c4d62b1f9b110a20c1f88920af9a9a36547a9362bea6813",
         "titulo": "Senior Software Engineer (Backend)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2388,6 +2605,7 @@
     },
     {
         "id_vaga": 3003389,
+        "hash_vaga": "e792c24f50416e5f57a1eaa7080240a1d381b3958a93ea4e3d8bda6cc9d98b84",
         "titulo": "Senior Software Engineer - MAAS",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2399,6 +2617,7 @@
     },
     {
         "id_vaga": 7774649,
+        "hash_vaga": "18ca0f8d385bc6186bd79820c5b5b3500d5f44a6e5f2c7784db3350442507f38",
         "titulo": "Senior Software Engineer - Python/Golang - Kubernetes",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2410,6 +2629,7 @@
     },
     {
         "id_vaga": 5937947,
+        "hash_vaga": "ae63debc589a1138d37c0e8a743389578a481210e3e1f0ee902a84ec0cc42b0d",
         "titulo": "Senior Software Engineer - Python/MongoDB",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2421,6 +2641,7 @@
     },
     {
         "id_vaga": 5142887,
+        "hash_vaga": "27df307b6ff70062850fc70104885c0714da1d85f026407256f59db42c361cf8",
         "titulo": "Senior/Staff/Principal Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2432,6 +2653,7 @@
     },
     {
         "id_vaga": 6731174,
+        "hash_vaga": "6ace5214536914ec3b54dac2469cec323434bf83957cf0eef34d79e6ed5ecf66",
         "titulo": "Senior Ubuntu Embedded IoT System Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2443,6 +2665,7 @@
     },
     {
         "id_vaga": 4706463,
+        "hash_vaga": "252c27830bbe7abb94ad78585d1f2cfa6ca82f0d32ea16737bf28cdb9428c195",
         "titulo": "Senior Ubuntu Embedded IoT System Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2454,6 +2677,7 @@
     },
     {
         "id_vaga": 4417916,
+        "hash_vaga": "3d72ab0f7103b447608102fc7c5a5b75c84750b1dc97c7e08a9af4463c64f425",
         "titulo": "Senior Web Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2465,6 +2689,7 @@
     },
     {
         "id_vaga": 5359697,
+        "hash_vaga": "85380f7e2417742b6e467609c852be9394baf1f9256a76e1c473be284c069721",
         "titulo": "Silicon Alliances Ecosystem Development Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2476,6 +2701,7 @@
     },
     {
         "id_vaga": 5570923,
+        "hash_vaga": "00bbbdf0f85da40b3d70db33c59a5bf9624d09f22a2bd6f3c4c477a94bcb7639",
         "titulo": "Silicon Alliances Ecosystem Development Manager - APAC",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2487,6 +2713,7 @@
     },
     {
         "id_vaga": 7561124,
+        "hash_vaga": "9de23d7924cc8d6a70b87bf39675e8bbe976a4d4ad30e3745363da5ad62cbe34",
         "titulo": "Silicon Alliances Ecosystem Development Manager - Shanghai or Beijing",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2498,6 +2725,7 @@
     },
     {
         "id_vaga": 4468036,
+        "hash_vaga": "c118e47fa430524b58ac3d8d1323c29e8cbc798b947a42b326e6d708f7d14ab8",
         "titulo": "Site Reliability Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2509,6 +2737,7 @@
     },
     {
         "id_vaga": 5535122,
+        "hash_vaga": "f83c4026c668673cd60b10eacea25ab7009867c63eb3803405f7e414ba5c36c2",
         "titulo": "Site Reliability Engineering Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2520,6 +2749,7 @@
     },
     {
         "id_vaga": 1747487,
+        "hash_vaga": "adabbd9581f8dd2bd51134f26b03f591a8e3ba1fd431a1a40de9842b98acee98",
         "titulo": "Site Reliability / Gitops Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2531,6 +2761,7 @@
     },
     {
         "id_vaga": 6397940,
+        "hash_vaga": "ed9705520879e1d348139f5076d8c3695209b527417d16e8be7589c91334def0",
         "titulo": "Software Alliance Ecosystem Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2542,6 +2773,7 @@
     },
     {
         "id_vaga": 7607786,
+        "hash_vaga": "5e7a90a8bd9198a9ec622b5b51edaf81e580e245570f9a432f135a9b4dfc345b",
         "titulo": "Software Alliances Director, Americas",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2553,6 +2785,7 @@
     },
     {
         "id_vaga": 6300377,
+        "hash_vaga": "7db5daeec451b7f7bedfe48ea60042f35cd97c05f112704695ae4a98b279b0c4",
         "titulo": "Software Alliances Director, EMEA",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2564,6 +2797,7 @@
     },
     {
         "id_vaga": 5881447,
+        "hash_vaga": "9a446a9004e8c80f2af57b6a37500e579c4960fb974397a5b20dc19367fe487d",
         "titulo": "Software Architect - Containers / Virtualisation",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2575,6 +2809,7 @@
     },
     {
         "id_vaga": 4647417,
+        "hash_vaga": "2a62a9de393d5d9bcb650aecfb2d4ba917eba4db1fdd977be28c7490a345c2b2",
         "titulo": "Software Developer (Backend SaaS)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2586,6 +2821,7 @@
     },
     {
         "id_vaga": 2166631,
+        "hash_vaga": "f191e04e8fdc81b9f474127e95316d5ff654d9595d0e0e75257c865d38c4c080",
         "titulo": "Software Developer in Observability",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2597,6 +2833,7 @@
     },
     {
         "id_vaga": 3159992,
+        "hash_vaga": "ee4f18d6fb2e14d0b398077b0f34950c30d68827b98103e1fd2f50b96c595f28",
         "titulo": "Software Engineer - App Stores",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2608,6 +2845,7 @@
     },
     {
         "id_vaga": 7785136,
+        "hash_vaga": "c4c27a13db0529d3aaaab31b0b0913ceb1fb2324547fa867170d113825529ac9",
         "titulo": "Software Engineer, Automotive and Industrial Architecture",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2619,6 +2857,7 @@
     },
     {
         "id_vaga": 1861978,
+        "hash_vaga": "6665512a4fbe3d9a9715914e2f981834df58ba51f57f7a7542c33b9125e8495f",
         "titulo": "Software Engineer, Ceph & Distributed Storage",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2630,6 +2869,7 @@
     },
     {
         "id_vaga": 4398031,
+        "hash_vaga": "a82aabe1aedac416c24456848a90a22f815fe868c2f17b29b3789332a44a3c1a",
         "titulo": "Software Engineer - Cloud Images",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2641,6 +2881,7 @@
     },
     {
         "id_vaga": 3062022,
+        "hash_vaga": "279fe3d10295d17fa8132ce528f034fe6cab121aded3d7ab78f355efe5f41f0e",
         "titulo": "Software Engineer, Cloud - Sustaining Engineering",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2652,6 +2893,7 @@
     },
     {
         "id_vaga": 4348657,
+        "hash_vaga": "42434665bcbae33f2a01b8a4dda8ecde88c70cf12e9515b3b0d58de15bb20cd9",
         "titulo": "Software Engineer - Cross-platform C++ - Multipass",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2663,6 +2905,7 @@
     },
     {
         "id_vaga": 3014391,
+        "hash_vaga": "e2c31f1db0e7fded18b46c01730d9a022af1497b90c5f18ee04a2e575740b7be",
         "titulo": "Software Engineer - Data Infrastructure ",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2674,6 +2917,7 @@
     },
     {
         "id_vaga": 5218601,
+        "hash_vaga": "45b0fef40dd3be1bf74d2c1c997edbf3c54f0179fee3609b810da351d7983612",
         "titulo": "Software Engineer - Data Infrastructure - Kafka",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2685,6 +2929,7 @@
     },
     {
         "id_vaga": 5002072,
+        "hash_vaga": "a658634ad59bdb015aa8999c63823d9233dd4fff69d5f4ae97ce610ccf16f824",
         "titulo": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2696,6 +2941,7 @@
     },
     {
         "id_vaga": 2614095,
+        "hash_vaga": "bf4d6b05b29d0ac699a58080c7531f3c8ed11b34fc0b1980ea13f1defcd3cc49",
         "titulo": "Software Engineer - Edge AI",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2707,6 +2953,7 @@
     },
     {
         "id_vaga": 5211861,
+        "hash_vaga": "466aad6f6baa667105020d4af21cd80f8e2b4149422d14e9d0ab0feff209e40e",
         "titulo": "Software Engineering Director",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2718,6 +2965,7 @@
     },
     {
         "id_vaga": 4283003,
+        "hash_vaga": "4d3e4a574838d8b8af752430efdf363e7185edeb362a6b992a1eae7006cf792f",
         "titulo": "Software Engineering Manager (Backend SaaS)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2729,6 +2977,7 @@
     },
     {
         "id_vaga": 4086684,
+        "hash_vaga": "24c670f5d09f47b3056037274e3a115e06c8ad38ccb522b9f74e5287e64af4b9",
         "titulo": "Software Engineering Manager - Container and Virtualisation Infrastructure",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2740,6 +2989,7 @@
     },
     {
         "id_vaga": 4410480,
+        "hash_vaga": "0dda20d6eed65e1b5fca1970fe5e6945962143105594df8cdbb95461050cc8cc",
         "titulo": "Software Engineering Manager - Sustaining Engineering",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2751,6 +3001,7 @@
     },
     {
         "id_vaga": 6635671,
+        "hash_vaga": "d28682cd9115b4c7d6fbe04f7db7bef3708675a88b0bf5da771a171296434ee1",
         "titulo": "Software Engineer - L3 Support",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2762,6 +3013,7 @@
     },
     {
         "id_vaga": 2579550,
+        "hash_vaga": "b77889bc135a0c2f0a5e6415f18bb29abac184c7154ae0e8f23d62ab664554a8",
         "titulo": "Software Engineer - OpenStack",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2773,6 +3025,7 @@
     },
     {
         "id_vaga": 3752633,
+        "hash_vaga": "5ff4955398213f65e7626d5afc38ce892f52d5e74ef9a7524ed2248c61e8815e",
         "titulo": "Software Engineer - Python and K8s",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2784,6 +3037,7 @@
     },
     {
         "id_vaga": 3257589,
+        "hash_vaga": "7e008f4062f5fa10a03169f9d54316366c734ca89d4ad6a5d07884372bd0b2dd",
         "titulo": "Software Engineer - Python - Cloud - graduate level",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2795,6 +3049,7 @@
     },
     {
         "id_vaga": 6222476,
+        "hash_vaga": "9506366034868168282d0bd484a200b803bab8de4152144a8509aa91b99e2153",
         "titulo": "Software Engineer - Python - Container Images",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2806,6 +3061,7 @@
     },
     {
         "id_vaga": 2928962,
+        "hash_vaga": "3aeb3b4d89a82e872e2ecf02284ef19985de1f1dc38bebe87f4d148072cf6f9f",
         "titulo": "Software Engineer - Python/Golang - Kubernetes",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2817,6 +3073,7 @@
     },
     {
         "id_vaga": 2413329,
+        "hash_vaga": "d0d0190fe6f2b718c205696a54f8fec061fd6f03cee647fe611911d20956247e",
         "titulo": "Software Engineer (Python/Linux/Packaging)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2828,6 +3085,7 @@
     },
     {
         "id_vaga": 8130859,
+        "hash_vaga": "ac2c2394db675f680c738fdde407fdda8ccff3630c01d26ffbaed35b27a8bf45",
         "titulo": "Software Engineer - Secure Container Images",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2839,6 +3097,7 @@
     },
     {
         "id_vaga": 3290946,
+        "hash_vaga": "61c16a5bdd3b37a8310d5721ee16470f02e9bfa3dabfb1697b4ccdfa80080f05",
         "titulo": "Software Engineer - Solutions Engineering",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2850,6 +3109,7 @@
     },
     {
         "id_vaga": 3326693,
+        "hash_vaga": "be8ea354847bea3425f111a54f9e88286bdd864d8814a03992d4e2fb265eeef7",
         "titulo": "Software Engineer, Sustaining Engineering",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2861,6 +3121,7 @@
     },
     {
         "id_vaga": 5560784,
+        "hash_vaga": "c401e55d2b256d68bd6af5150536e253805c7ad827b3d5bb6d4c385eeed446b4",
         "titulo": "Software Engineer, Ubuntu Commercial Computers",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2872,6 +3133,7 @@
     },
     {
         "id_vaga": 4272811,
+        "hash_vaga": "2f3862e1b68208b1178e172b99b69aa45803ff3f7f269e01270435ca2b554d06",
         "titulo": "Software Engineer - Ubuntu Server Certification",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2883,6 +3145,7 @@
     },
     {
         "id_vaga": 6635681,
+        "hash_vaga": "04a5c885f4b29435c2e8ab9e886968598e46151f834b130e9d3314ea8a30f2c7",
         "titulo": "Software Maintenance Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2894,6 +3157,7 @@
     },
     {
         "id_vaga": 7975990,
+        "hash_vaga": "0775f4c29d81eb6c02bada55060f073f268420161744ed5631677758093787b3",
         "titulo": "Software Quality Assurance Engineer - Linux, PC, IoT",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2905,6 +3169,7 @@
     },
     {
         "id_vaga": 8248986,
+        "hash_vaga": "6681d65b03517617e5b6569dd69d9af636a944ca6ff7a29eed4e93bfc15d9e42",
         "titulo": "Software Quality Assurance Engineer - Linux, PC, IoT",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2916,6 +3181,7 @@
     },
     {
         "id_vaga": 6635593,
+        "hash_vaga": "5094286e1798972c3562af76caa847532e680a96df1a1052877cd16a41f8c91a",
         "titulo": "Software Support Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2927,6 +3193,7 @@
     },
     {
         "id_vaga": 5516858,
+        "hash_vaga": "2504bd84acfe1ca0c8f5aa82dce1ed60a54475e43f45bb1b0e89790ea9f45e0f",
         "titulo": "Solution Architecture Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2938,6 +3205,7 @@
     },
     {
         "id_vaga": 6292448,
+        "hash_vaga": "a6faf11870b60d29777c5030dd86c289b20a92f2bed5b8e10057aca895e910ca",
         "titulo": "Solutions Architect for Automotive",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2949,6 +3217,7 @@
     },
     {
         "id_vaga": 7574469,
+        "hash_vaga": "f15ab58af34531c3bd850416bfde84efb700ccb5c385ab83451f86c80f42ee1b",
         "titulo": "Staff Design Engineer - Cloud Networking UX",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2960,6 +3229,7 @@
     },
     {
         "id_vaga": 5103218,
+        "hash_vaga": "191cafe31ba2dc9b2344f327dcfeef8d4289a381f25f4f253d1bd220eaf6effe",
         "titulo": "Staff Engineer, Development Lifecycle",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2971,6 +3241,7 @@
     },
     {
         "id_vaga": 6485081,
+        "hash_vaga": "a63a9a5253da89175ec1cbe0cbeeb9d93f486c5c9ed963b3cb97a0a45646cb36",
         "titulo": "Staff Security Operations Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2982,6 +3253,7 @@
     },
     {
         "id_vaga": 3880952,
+        "hash_vaga": "62937dac79e0a51bb34140f3dfee5cf2a79e6de350f1e440b978d42578a6e88e",
         "titulo": "Staff Software Engineer for Identity Management (Go/Golang)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -2993,6 +3265,7 @@
     },
     {
         "id_vaga": 6854119,
+        "hash_vaga": "525657856b96a580cba5578aacb2872935fc23fe93e2c86c1f0c73b1a193e00b",
         "titulo": "Support Engineering Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3004,6 +3277,7 @@
     },
     {
         "id_vaga": 3737190,
+        "hash_vaga": "049a7b0377cc9c631dfbeaee0666e2db50c2de4304bcf8b72935931a7ae10034",
         "titulo": "Sustaining Operations Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3015,6 +3289,7 @@
     },
     {
         "id_vaga": 7612825,
+        "hash_vaga": "8697b76216a918e940de7237d7dcea16704364b36f6b02a0d58398030aa8dcd2",
         "titulo": "System Software Engineer - GCC/LLVM compiler, tooling, and ecosystem",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3026,6 +3301,7 @@
     },
     {
         "id_vaga": 7364802,
+        "hash_vaga": "3453b4b697c96f2b88f8ed3d3d59cfc2afe4fb424c33eb1391d0ddc0bfe3a83d",
         "titulo": "Taipei Office Administrator",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3037,6 +3313,7 @@
     },
     {
         "id_vaga": 8105144,
+        "hash_vaga": "532c5e98da4e8ca8d3c96bfc15c801f86ee014860d2d0bffc8619979f2386c1f",
         "titulo": "Talent Acquisition Strategist",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3048,6 +3325,7 @@
     },
     {
         "id_vaga": 3137607,
+        "hash_vaga": "dad3e2698b24932e54b013d09f8bdf701f8483a8d8d1a37b726e25fc32e05461",
         "titulo": "Talent Scientist",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3059,6 +3337,7 @@
     },
     {
         "id_vaga": 7214510,
+        "hash_vaga": "fe63f58df14a64edcc914c97a3114ad78f7aafa57e613932922c4208b2a9616d",
         "titulo": "Talent Scientist - Graduate Lead",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3070,6 +3349,7 @@
     },
     {
         "id_vaga": 7568354,
+        "hash_vaga": "a713a512b447ac9fe8ed3f5b5a9624200c148f200a84a141aab3d3c2b2cb1ff6",
         "titulo": "Tax Senior Associate",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3081,6 +3361,7 @@
     },
     {
         "id_vaga": 3798310,
+        "hash_vaga": "326a21ea5f72667558c1e481cf67771bf7d6d2f868e26b39110871a1587eb39d",
         "titulo": "Technical Author (multiple roles and seniority levels)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3092,6 +3373,7 @@
     },
     {
         "id_vaga": 4541445,
+        "hash_vaga": "f966e7c327049f70e6776d6abfcc5b8ad38aa1e1b6375bd047bbf370d0652724",
         "titulo": "Technical Manager - Automotive and Industrial",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3103,6 +3385,7 @@
     },
     {
         "id_vaga": 6980703,
+        "hash_vaga": "d09da0df138ca5a688e4c47b593a96f0511c318366dabbda6f02afb23ae20127",
         "titulo": "Technical Product Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3114,6 +3397,7 @@
     },
     {
         "id_vaga": 6793868,
+        "hash_vaga": "218bc51b87f387e38537cda6252f984bfe488609d0f02718cad64569598cb045",
         "titulo": "Technical Product Marketing Manager - Cybersecurity",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3125,6 +3409,7 @@
     },
     {
         "id_vaga": 7906560,
+        "hash_vaga": "52744ea1966c96486f461abfed24c31df797fe099b3c47e0d1d47c3f6cc32e41",
         "titulo": "Technical & Reporting Accountant",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3136,6 +3421,7 @@
     },
     {
         "id_vaga": 3748266,
+        "hash_vaga": "912a10b4751992d3529d85c43ba60d8172736c1b69f54d7d7b8cd74b1baf8518",
         "titulo": "Telco Cloud Field Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3147,6 +3433,7 @@
     },
     {
         "id_vaga": 7778744,
+        "hash_vaga": "2028ebe8b2251c5bccee45189c7d49079daba3cea7f15724edfa835efcb2c1e0",
         "titulo": "Telco Field Engineering Director",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3158,6 +3445,7 @@
     },
     {
         "id_vaga": 7440248,
+        "hash_vaga": "ca9b8247715a69314170e7244abdf02ea7cea5a5686f1554f73ed77c10a03c32",
         "titulo": "Telecom Account Executive ",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3169,6 +3457,7 @@
     },
     {
         "id_vaga": 5144666,
+        "hash_vaga": "b33b164c5353c7ac525203299a1f89d97cad408ce911d800ab82c8ef9da0c4ad",
         "titulo": "Threat Intelligence Lead",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3180,6 +3469,7 @@
     },
     {
         "id_vaga": 7364810,
+        "hash_vaga": "391faec5fcde29d1588de3381be9bdb0dedbb54dcfc754250f5120c0cd9c3abb",
         "titulo": "Tokyo Office Administrator",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3191,6 +3481,7 @@
     },
     {
         "id_vaga": 5075146,
+        "hash_vaga": "ec64ab2eaa5ef2c15fae0595cc9287453a821c049ae12b545be9c300ed9545ca",
         "titulo": "Travel Operations Specialist",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3202,6 +3493,7 @@
     },
     {
         "id_vaga": 3182672,
+        "hash_vaga": "6af7e9ef8d093a379f0dab66f968f315c6fa09f1a9e6c105040ec09dabefa034",
         "titulo": "Ubuntu Core Software Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3213,6 +3505,7 @@
     },
     {
         "id_vaga": 5560823,
+        "hash_vaga": "ee5ba8ca330080eddd735a2462d3ee1b5a57d8c8a348fc62c5a1b0790d07e990",
         "titulo": "Ubuntu Enablement Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3224,6 +3517,7 @@
     },
     {
         "id_vaga": 7102393,
+        "hash_vaga": "3820bfd2d5c1ca6c435ec2e7ec912287845932bb3b986a0c36be2ecd090e1222",
         "titulo": "Ubuntu Enablement Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3235,6 +3529,7 @@
     },
     {
         "id_vaga": 4605464,
+        "hash_vaga": "2f657abb2e13d086d7654f2608665d86e198cb68893f2d563ebbf83c8a72815a",
         "titulo": "Ubuntu Enablement - Software Engineering Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3246,6 +3541,7 @@
     },
     {
         "id_vaga": 6707885,
+        "hash_vaga": "c9931968f2ed1611340047bb1750093c23885f32d625a4e4e2a9388f908f680a",
         "titulo": "Ubuntu Engineering Lead",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3257,6 +3553,7 @@
     },
     {
         "id_vaga": 7521220,
+        "hash_vaga": "7bdb8ed731e273d9fa73be317a9cc933a94dbf92dd294e7b8229968a91095a07",
         "titulo": "Ubuntu Engineering Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3268,6 +3565,7 @@
     },
     {
         "id_vaga": 6076942,
+        "hash_vaga": "f33fbdadf9e41d91dad31ccbe062348103815a2320467a835e38531ac30fe9fd",
         "titulo": "Ubuntu Linux Kernel Engineer - BIOS/Firmware",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3279,6 +3577,7 @@
     },
     {
         "id_vaga": 6076909,
+        "hash_vaga": "2312b84d1b809f307d4d1ecfe037b535a3dca5b17d0c9e797135b6d415dae5c0",
         "titulo": "Ubuntu Linux Kernel Engineer - Silicon Enablement",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3290,6 +3589,7 @@
     },
     {
         "id_vaga": 7965671,
+        "hash_vaga": "202b1a98630cf88b3db2457bbb3bf89a2388efd4cd06dd8d161d5772796aa387",
         "titulo": "Ubuntu Linux Kernel Test Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3301,6 +3601,7 @@
     },
     {
         "id_vaga": 7732724,
+        "hash_vaga": "447750d80e9049f4a6636a5c926ea12ce0fd661a8e3986d95a3a0697987371a8",
         "titulo": "Ubuntu Package Management - Engineering Manager",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3312,6 +3613,7 @@
     },
     {
         "id_vaga": 5643282,
+        "hash_vaga": "b73dd54e3b84feee5872bbe3e6a8e7bba415ac581be2f250ca5838fd7098b6c3",
         "titulo": "Ubuntu Sales Engineer (Entry-Level)",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3323,6 +3625,7 @@
     },
     {
         "id_vaga": 2925180,
+        "hash_vaga": "0bf8fb11eaeb584abd48f0608b17b1630ebdf8bec5bcd96196a1314696f1202a",
         "titulo": "Ubuntu Security Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3334,6 +3637,7 @@
     },
     {
         "id_vaga": 6707824,
+        "hash_vaga": "6a4743fbb81735f21a9cc66e04a1121899a5cd604f6b9bd1a9b00f8acb549ff6",
         "titulo": "Ubuntu Software Engineer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3345,6 +3649,7 @@
     },
     {
         "id_vaga": 7528952,
+        "hash_vaga": "3938ba755f2695dfbdc808ff1ef7782114fb809496894f8eef9b2c8d688e1c0d",
         "titulo": "Usability Engineer - User Science",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3356,6 +3661,7 @@
     },
     {
         "id_vaga": 7043028,
+        "hash_vaga": "1eae1ef7236f9140a7d744b3297d8d67d2af905284430174c9993a61fa8f885c",
         "titulo": "UX Designer - Design systems",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3367,6 +3673,7 @@
     },
     {
         "id_vaga": 7043026,
+        "hash_vaga": "f747e52a7b2477051fcd56b17461e87f5b5ba173e9cc3a59326112c930b86ee3",
         "titulo": "UX Designer - Developer experience",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3378,6 +3685,7 @@
     },
     {
         "id_vaga": 6072086,
+        "hash_vaga": "3a54ccb2efbcdc8dcdc07ce424a54f1056fb89cead000287c6d57350398ed476",
         "titulo": "UX Designer - Infrastructure",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3389,6 +3697,7 @@
     },
     {
         "id_vaga": 5326986,
+        "hash_vaga": "4b4831cee1a631bd5a8a734b65e468f3ca9fcd154428c3e3e8c74dbbb9d12a49",
         "titulo": "Visual Designer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3400,6 +3709,7 @@
     },
     {
         "id_vaga": 2804965,
+        "hash_vaga": "2d93c006b6c887d4f93228b8018d0262ca28dcca8cba25b05b4853bba9715734",
         "titulo": "Web Developer",
         "empresa": "canonical",
         "fonte": "greenhouse",
@@ -3411,6 +3721,7 @@
     },
     {
         "id_vaga": 5150422,
+        "hash_vaga": "6139cdab4cf8e70e262055327fc5b15e8240e98efd93e7e2d19122d8f24ba9ae",
         "titulo": "Web Frontend Engineer - JS, CSS, React, Flutter",
         "empresa": "canonical",
         "fonte": "greenhouse",

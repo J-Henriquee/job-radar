@@ -1,6 +1,7 @@
 [
     {
         "id_vaga": 8860302002,
+        "hash_vaga": "d8e2b7d0a71c6383310dfc4d9c8f548dd2dba99b4c4da212af4ece6596b5e527",
         "titulo": "Account Executive - France",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -12,6 +13,7 @@
     },
     {
         "id_vaga": 8638232002,
+        "hash_vaga": "435a756fddac5b8ea40dde1d936270bddaa644edce54115e6fb33a7430589afc",
         "titulo": "AI Transformation Owner, CRO",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -23,6 +25,7 @@
     },
     {
         "id_vaga": 8716179002,
+        "hash_vaga": "bef374cf5de56180b8289bb1f5231b2a883a138143344fed43b2e3e171150f6e",
         "titulo": "AI Transformation Owner, Product & Design",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -34,6 +37,7 @@
     },
     {
         "id_vaga": 8785825002,
+        "hash_vaga": "4500f4444db23a09b7a13366286a4644ea002dbb5cb655b162ed643ae098a941",
         "titulo": "Associate Renewals Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -45,6 +49,7 @@
     },
     {
         "id_vaga": 8857185002,
+        "hash_vaga": "e1e8f7b735875a09de1abbec5a10bcd0ea9bdac26152e834d2ce587f90cfa9ae",
         "titulo": "Associate Renewals Manager   ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -56,6 +61,7 @@
     },
     {
         "id_vaga": 8857611002,
+        "hash_vaga": "28582ad2b0a32cd54d0db1f7840d8fbce1f8478cf17c932fa1166fdd97e6d76b",
         "titulo": "Associate Renewals Manager, India",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -67,6 +73,7 @@
     },
     {
         "id_vaga": 8859694002,
+        "hash_vaga": "f5ab1accb82e2d13156337a153e923ab9d88252c7c677aa52e68cb9c65a20a4b",
         "titulo": "Associate Revenue Operations Manager, India",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -78,6 +85,7 @@
     },
     {
         "id_vaga": 8843512002,
+        "hash_vaga": "b3662474ae7ba29bf487cd52d434fb9410442cfe1b00303c801c9004730ee464",
         "titulo": "Backend Engineer, Create: Repository Management",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -89,6 +97,7 @@
     },
     {
         "id_vaga": 8687926002,
+        "hash_vaga": "7a2359fa9b4b84d76a019883978c11aca8b56cc49a3869d41f350e4eb90cca4f",
         "titulo": "Backend Engineer, Create: Source Code Experience (Ruby)   ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -100,6 +109,7 @@
     },
     {
         "id_vaga": 8704363002,
+        "hash_vaga": "7e44c64c23d8cde8cef50befaa7a8c455716cccbc5804d5de9d99637034b9fc3",
         "titulo": "Backend Engineer (Python),AI Engineering: Agent Foundations",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -111,6 +121,7 @@
     },
     {
         "id_vaga": 8620720002,
+        "hash_vaga": "5eb5ada4958e0a51c941bafbb5af795678ae52ab26af640ac08239dfe17ccc17",
         "titulo": "Backend Engineer (Ruby), AI Engineering: Agent Foundations",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -122,6 +133,7 @@
     },
     {
         "id_vaga": 8864819002,
+        "hash_vaga": "beaad07f93f755c92602e28b1fa444fa8efdf92db1ffd3a86d0ca4b315165a67",
         "titulo": "Benefits Analyst",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -133,6 +145,7 @@
     },
     {
         "id_vaga": 8872433002,
+        "hash_vaga": "ce4c902f3a8d38d99269713f4c30e0a7bd7183c9446c8ad550545658784b3839",
         "titulo": "Business Development Representative ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -144,6 +157,7 @@
     },
     {
         "id_vaga": 8532274002,
+        "hash_vaga": "8b5b9890c0200c9f3de88502b9bc0aeb1bde404e605902fb4bffd52275bbd9c7",
         "titulo": "Business Development Representative ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -155,6 +169,7 @@
     },
     {
         "id_vaga": 8532272002,
+        "hash_vaga": "68a18c869e200b1852385960cbe855ab0edba468867c6e9da328ab891a985f9a",
         "titulo": "Business Development Representative ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -166,6 +181,7 @@
     },
     {
         "id_vaga": 8782471002,
+        "hash_vaga": "874ca8cbefabfdda743974726277a39e7d7b70dbd4b813e8385b7b203cdc4eba",
         "titulo": "Candidate Experience Specialist, Contractor ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -177,6 +193,7 @@
     },
     {
         "id_vaga": 8801523002,
+        "hash_vaga": "77b41fb39f3ce80833078efe66bf79de07e23698f9d1a61859612f8e85cc8ade",
         "titulo": "Candidate Experience Specialist, Contractor ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -188,6 +205,7 @@
     },
     {
         "id_vaga": 8700245002,
+        "hash_vaga": "5c2c075945a61a66cff5604d7501a0c31416b982b1b1b7636d42e7dc68d7de8d",
         "titulo": "Chief of Staff, CRO ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -199,6 +217,7 @@
     },
     {
         "id_vaga": 8790102002,
+        "hash_vaga": "79eb5c688495390cefe2ff0fb915d81d64d322c4adfa4c30b83438c9713c35b1",
         "titulo": "Commercial Account Executive - Mid-Market, East",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -210,6 +229,7 @@
     },
     {
         "id_vaga": 8592555002,
+        "hash_vaga": "79156b36187c70c861536568a3c6ead63bfd77d0216f1feaac63d672052d9435",
         "titulo": "Commercial Account Executive, Named - West",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -221,6 +241,7 @@
     },
     {
         "id_vaga": 8797735002,
+        "hash_vaga": "209596e5f46c843b9559d38d5f140c9df0c4de6786a86b1ec2aff9d4c94cb4df",
         "titulo": "Contract Talent Acquisition Sourcer, Sales (AMER)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -232,6 +253,7 @@
     },
     {
         "id_vaga": 8742716002,
+        "hash_vaga": "4540714abf80d026608c741905c6cb17fbe5d9ce40252aa2964c96c8de689845",
         "titulo": "Customer Success Architect",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -243,6 +265,7 @@
     },
     {
         "id_vaga": 8646852002,
+        "hash_vaga": "21a2d10f8edb86565c4e732eab6bf5b86cfcb7a4c6cf957eba245b7d108d0220",
         "titulo": "Customer Success Architect, CEUR",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -254,6 +277,7 @@
     },
     {
         "id_vaga": 8637426002,
+        "hash_vaga": "1a119701befe5416f742b97292e6e955af037d64b7f309991f3af3b91df082b0",
         "titulo": "Customer Success Engineer, LATAM (Spanish, Portugese) ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -265,6 +289,7 @@
     },
     {
         "id_vaga": 8533016002,
+        "hash_vaga": "d0125ec6fa8423b192a7cc1a985c3de877a58743394464655bc8c1df5ed04b16",
         "titulo": "Customer Success Manager - East ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -276,6 +301,7 @@
     },
     {
         "id_vaga": 8860273002,
+        "hash_vaga": "3f31d2f9ad782d819de23e16d2cac2a84f7f484fd7394155e0cc2559775b9320",
         "titulo": "Demo Architect, EMEA",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -287,6 +313,7 @@
     },
     {
         "id_vaga": 8626772002,
+        "hash_vaga": "620774f1e0b5ed02c4f4e27c81c9c61f29f3b0017fc26d02c45ef09f1043df75",
         "titulo": "Director, Engineering, Platform Operations & Productivity",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -298,6 +325,7 @@
     },
     {
         "id_vaga": 8872500002,
+        "hash_vaga": "7903246b06dd37c556a8269a32f3b1cf53d6bc6753a3887c2c1146e67d0d37d2",
         "titulo": "Director, Global People Operations & Compliance",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -309,6 +337,7 @@
     },
     {
         "id_vaga": 8842584002,
+        "hash_vaga": "6efba28cc543a7942563d2ff35d4b63eab8f539ed53b2ccee1f404f18a680ec2",
         "titulo": "Director, Legal - Employment",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -320,6 +349,7 @@
     },
     {
         "id_vaga": 8853843002,
+        "hash_vaga": "e1a1fd887d9ab239cfdfe6aef72e509798d16e89a44dea0be90410fe5c7d3d48",
         "titulo": "Director of Engineering, Database Excellence",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -331,6 +361,7 @@
     },
     {
         "id_vaga": 8806017002,
+        "hash_vaga": "b2afb6a820ca1cbf40a20c0de66323a55973f1e8b9d8c9a6378863a632592fee",
         "titulo": "Director of Product Management, Agentic Software Delivery",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -342,6 +373,7 @@
     },
     {
         "id_vaga": 8726744002,
+        "hash_vaga": "921fff3646cc9132101e250924a11ba241be06b1184253b45407b67ab5d62811",
         "titulo": "Director of Recruiting, Engineering & IT, Bangalore India",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -353,6 +385,7 @@
     },
     {
         "id_vaga": 8792475002,
+        "hash_vaga": "43f0c05b63745c0705d0941e90d7a600125d64c6e819a4f14d3190d5f8494087",
         "titulo": "Director, Social Media",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -364,6 +397,7 @@
     },
     {
         "id_vaga": 8615811002,
+        "hash_vaga": "086385b1451ddc430011be724dd76fec66220a014e81f9188998432e6cfc0b9d",
         "titulo": "Director, Strategic Partnerships",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -375,6 +409,7 @@
     },
     {
         "id_vaga": 8629019002,
+        "hash_vaga": "d833cf57a0583b700dcb2a19704f3a366e6e416b7bbb50b8f23f40e095a6d9c7",
         "titulo": "Director, Support (Bengaluru)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -386,6 +421,7 @@
     },
     {
         "id_vaga": 8831350002,
+        "hash_vaga": "da15826f17cc525d0814363dd34a8694578bc1f5c72ef17964136cc91579f6ab",
         "titulo": "Distinguished Engineer, Core DevOps",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -397,6 +433,7 @@
     },
     {
         "id_vaga": 8684201002,
+        "hash_vaga": "1596a27f92f64e796a3e6b0d82ac9381e71502b09a30da343b5c4c6a627641a0",
         "titulo": "Ecosystem Sales Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -408,6 +445,7 @@
     },
     {
         "id_vaga": 8809512002,
+        "hash_vaga": "7c956562e8905eee2e10f999325d18dfa3fcee0a6fc89f4a3ec42ec95c2705b9",
         "titulo": "Engagement Manager - French Speaking",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -419,6 +457,7 @@
     },
     {
         "id_vaga": 8799044002,
+        "hash_vaga": "dfc407733f0db6a2e905dbe4ef33136c18d085ffae655ef2fb44c41a0a91d52f",
         "titulo": "Engineering Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -430,6 +469,7 @@
     },
     {
         "id_vaga": 8586667002,
+        "hash_vaga": "0ee35f38f7eefc06b1a6e4fd2f675c7f94bbdfa335db7a554b85568be8e0ce64",
         "titulo": "Engineering Manager, Build ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -441,6 +481,7 @@
     },
     {
         "id_vaga": 8789547002,
+        "hash_vaga": "7abb93e7e8bd7da29c086a31f88ee9fed40bdb24aa07e2e4ff1885c3508f4e8d",
         "titulo": "Engineering Manager, Core DevOps",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -452,6 +493,7 @@
     },
     {
         "id_vaga": 8845322002,
+        "hash_vaga": "8aec9d5469a48e57169890d740e4a14d0cf3ebf072df3d3eb65c340c08ff0663",
         "titulo": "Engineering Manager, Dedicated Infrastructure",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -463,6 +505,7 @@
     },
     {
         "id_vaga": 8636648002,
+        "hash_vaga": "dc23cc5960670f6b3720d59e58aa8fef5fa39c98f7c9da9d1ac41e5f9f5fd452",
         "titulo": " Engineering Manager, Dedicated Integrations",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -474,6 +517,7 @@
     },
     {
         "id_vaga": 8725225002,
+        "hash_vaga": "362d0bf4d73c998d5d2b4623349c71cbe6e9a371ef2673a21ae10164a60b4a3c",
         "titulo": "Engineering Manager, Dedicated Integrations Team",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -485,6 +529,7 @@
     },
     {
         "id_vaga": 8626740002,
+        "hash_vaga": "757cced174550f3bd506aec0443ba9f87bdd5d1a0da9fc84a2349a8172e83a4c",
         "titulo": "Engineering Manager - Git & Gitaly Operations",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -496,6 +541,7 @@
     },
     {
         "id_vaga": 8632388002,
+        "hash_vaga": "50ec223347b16f4e46a834c4b83a4143b3631382aa6c7656665792e841885173",
         "titulo": "Engineering Manager - Nonlinear Productivity (Friction Elimination & Solutions)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -507,6 +553,7 @@
     },
     {
         "id_vaga": 8478405002,
+        "hash_vaga": "e60e87c0d3dd360817f7a52ef5075ab4e319816f08005a120fecab7a4c0808e4",
         "titulo": "Engineering Manager, SSCS: Supply Chain",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -518,6 +565,7 @@
     },
     {
         "id_vaga": 8586632002,
+        "hash_vaga": "a0b10761a5de50dee81bf86febfcdd12338fb1dc6625e4679dc8dd7e56666bea",
         "titulo": "Engineering Manager, Switchboard",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -529,6 +577,7 @@
     },
     {
         "id_vaga": 8782040002,
+        "hash_vaga": "73d817c44de322813163489be969d73362b67138ea73aa6382d599903d5f5963",
         "titulo": "Engineering Manager, Trusted Agentic Development",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -540,6 +589,7 @@
     },
     {
         "id_vaga": 8640151002,
+        "hash_vaga": "0dc808b04f42e0ef4b38affdd8ad3f2b40de4a38796a77c9de73bf2210ee3cd9",
         "titulo": "Enterprise Account Executive - Singapore ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -551,6 +601,7 @@
     },
     {
         "id_vaga": 8522265002,
+        "hash_vaga": "1bb39fc0bdc43e4e645a7e1264b47f359f5296dfb23da7ecd8fc2e0a7b6d9d2e",
         "titulo": "Forward Deployed Engineer - EMEA",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -562,6 +613,7 @@
     },
     {
         "id_vaga": 8698330002,
+        "hash_vaga": "4778a7663581b2071af33882cd32f06c7619d398c52f1880ea42a85750dbccda",
         "titulo": "Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -573,6 +625,7 @@
     },
     {
         "id_vaga": 8861745002,
+        "hash_vaga": "b239087bdcad873e27f96cf3f949e84e1398015cb0baa07975daa740cc5543f0",
         "titulo": "Global Sales Director of SMB, New Business ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -584,6 +637,7 @@
     },
     {
         "id_vaga": 8773006002,
+        "hash_vaga": "d3f51380491536bb53010b09fa7f37a61415a2c9c5dfd1f4a0038c1503ee9ce1",
         "titulo": "Intermediate Backend Engineer, AMER",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -595,6 +649,7 @@
     },
     {
         "id_vaga": 8775507002,
+        "hash_vaga": "9789cee3d2f79ed5e7d1179eff564405cef3ec884bcdf4a9a68d66039224641b",
         "titulo": "Intermediate Backend Engineer, India",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -606,6 +661,7 @@
     },
     {
         "id_vaga": 8821526002,
+        "hash_vaga": "1424c07ca3bb9f55c3b52b7e95ebabb0a838021a493d58d2dc85e2dc6f20854f",
         "titulo": "Intermediate Security Analyst, Vulnerability Operations  (North America)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -617,6 +673,7 @@
     },
     {
         "id_vaga": 8782306002,
+        "hash_vaga": "2f41aefbe56c43cf8441f9ce5445317f6c02cdd6186b4741c9992c728ddc3d72",
         "titulo": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -628,6 +685,7 @@
     },
     {
         "id_vaga": 8749950002,
+        "hash_vaga": "8285a905487504ab114b51f032afee0d4865e146486998332d6d473aa609573e",
         "titulo": "Intermediate-Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -639,6 +697,7 @@
     },
     {
         "id_vaga": 8682860002,
+        "hash_vaga": "17a10b61a83deb6edfe5189a53fb70e6a80b681acf5e4561865570271fa7d045",
         "titulo": "Intermediate-Senior Backend Engineer (Ruby), Plan: Spec-Driven Development",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -650,6 +709,7 @@
     },
     {
         "id_vaga": 8688078002,
+        "hash_vaga": "37b9cc57bd1af657eb2fbe29b8d8085812739367b21b2b995a655ce166dbb25d",
         "titulo": "Intermediate Software Engineer, Security Factory: Vulnerability Management ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -661,6 +721,7 @@
     },
     {
         "id_vaga": 8687026002,
+        "hash_vaga": "316c660ba96da534b5c242c1ec2eca5dfa1924cecfdb5c480689c0b16023c4ab",
         "titulo": "Intermediate Support Engineer",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -672,6 +733,7 @@
     },
     {
         "id_vaga": 8684061002,
+        "hash_vaga": "fbedce4e399738c2ac02b1e5432df6d4f19b62447f361d0da42f48432684c298",
         "titulo": "Intermediate Support Engineer (SHIFT) ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -683,6 +745,7 @@
     },
     {
         "id_vaga": 8784185002,
+        "hash_vaga": "73c989e8da17183973db2b4da59e65254f62eb34ec17da3f6c6d22c2c4401e88",
         "titulo": "Intermediate Technical Program Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -694,6 +757,7 @@
     },
     {
         "id_vaga": 8617777002,
+        "hash_vaga": "2d3700d384ce3db5fda857946450e44ba3eae417bcee8363462fa647b1db163b",
         "titulo": "Lead Internal Events & Production Strategist",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -705,6 +769,7 @@
     },
     {
         "id_vaga": 8842630002,
+        "hash_vaga": "86774a917acdf5a2401053277bd9fccf7d26ac0b58e90ded0dca22e815b16dff",
         "titulo": "Lead Legal Counsel, Corporate",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -716,6 +781,7 @@
     },
     {
         "id_vaga": 8756163002,
+        "hash_vaga": "39cb5250eeb2d7516b843fb50b94ead1ff9fb5139488f0ea10d9072817f8b369",
         "titulo": "Lead Pricing Strategist",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -727,6 +793,7 @@
     },
     {
         "id_vaga": 8633807002,
+        "hash_vaga": "4055fbf8b60a633a419df8f22c2d39ea13ef418d39c9c51511b6a5feb44a36c0",
         "titulo": "Lead SEC Analyst",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -738,6 +805,7 @@
     },
     {
         "id_vaga": 8860093002,
+        "hash_vaga": "4d161ea4db18c56fff3338b30bba0fec2cb11d5df0472d12415f9caa508b427e",
         "titulo": "Major Account Executive ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -749,6 +817,7 @@
     },
     {
         "id_vaga": 8860287002,
+        "hash_vaga": "0ae49de3c5fd4227164240384dedcb82f28219282958c19de8c348b4f2b16de5",
         "titulo": "Major Account Executive, France",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -760,6 +829,7 @@
     },
     {
         "id_vaga": 8860275002,
+        "hash_vaga": "1ebc3e18fb23db574bf61c30a92ff41932a55427e59719c69378586159a1ee7a",
         "titulo": "Major Account Executive Netherlands",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -771,6 +841,7 @@
     },
     {
         "id_vaga": 8860271002,
+        "hash_vaga": "0e99f4b3dc44503c275568fa7cd132115e71cbdb9b8958b46ae877b103431eaa",
         "titulo": "Major Account Executive, UK Public Sector",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -782,6 +853,7 @@
     },
     {
         "id_vaga": 8860281002,
+        "hash_vaga": "4e79b34eb198fddef996d92a298a520292577017e6431572546ca1ee5d3ff910",
         "titulo": "Major Account Manager, Sweden ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -793,6 +865,7 @@
     },
     {
         "id_vaga": 8861795002,
+        "hash_vaga": "315e4219141a3b94a576c20e0be1a8f41f1d0689a78886671ed947cf210e259f",
         "titulo": "Manager, Assigned Support Engineering (EMEA)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -804,6 +877,7 @@
     },
     {
         "id_vaga": 8613199002,
+        "hash_vaga": "585d24bb6aacdf79bd719a80504562014c477abaca5536117e11e0aef4413deb",
         "titulo": "Manager, Customer Success Managers, EMEA",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -815,6 +889,7 @@
     },
     {
         "id_vaga": 8396674002,
+        "hash_vaga": "928f50d227a3621474dd6faf6c46b641cd1dc8c5a5dddf15dc15255954c9849a",
         "titulo": "Manager, Solutions Architects - San Francisco ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -826,6 +901,7 @@
     },
     {
         "id_vaga": 8877510002,
+        "hash_vaga": "66bd238f043bb544f086efaff01538eb0b4aa9cfa5908315e61ae57d41f03716",
         "titulo": "Manager, Support Engineering (AMER)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -837,6 +913,7 @@
     },
     {
         "id_vaga": 8710061002,
+        "hash_vaga": "8a3b8abd4c29b56a8a3e7e6fc006b6311ce3aceed2d2da31cb0736630b42b5e2",
         "titulo": "Migration Engineer - GitLab Dedicated",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -848,6 +925,7 @@
     },
     {
         "id_vaga": 8861748002,
+        "hash_vaga": "da4e61db0de7bcbfba5787521f9f399622c6d50d4d7c32014dff511a1c598a73",
         "titulo": "People Systems Engineer",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -859,6 +937,7 @@
     },
     {
         "id_vaga": 8861782002,
+        "hash_vaga": "abb0ea89e9e24b5f2c86acc1c42f123e4cf42202ac4005240733572fb3264d25",
         "titulo": "People Technology Analyst - Workday",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -870,6 +949,7 @@
     },
     {
         "id_vaga": 8864903002,
+        "hash_vaga": "7b8c8686cd5b3f9d209528a713b8bbaff642c30c9b771b177742a7f23c030800",
         "titulo": "Pipeline Programs Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -881,6 +961,7 @@
     },
     {
         "id_vaga": 8786095002,
+        "hash_vaga": "09e485787581ac9a8e0b9582136d5c5878a8620576b22664867be56e85a62937",
         "titulo": "Principal Engineer, Duo Agent Platform",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -892,6 +973,7 @@
     },
     {
         "id_vaga": 8658878002,
+        "hash_vaga": "8f67f5bbb08316f2994710db0ee478f049c7518b89c3991bd3ff57b22a71c620",
         "titulo": "Principal Product Manager, AI Software Factory",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -903,6 +985,7 @@
     },
     {
         "id_vaga": 8859224002,
+        "hash_vaga": "865348b763b49bc5feb6e90369424d502dc75dbda9f6ca8f7b09fae2b6aed614",
         "titulo": "Principal Product Marketing Manager, Competitive",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -914,6 +997,7 @@
     },
     {
         "id_vaga": 8731718002,
+        "hash_vaga": "f171716d6b503d11a38a99ad64d8687d6bf9985a1f4a8dc05c91399e8a9490ed",
         "titulo": "Principal Security Researcher",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -925,6 +1009,7 @@
     },
     {
         "id_vaga": 8623592002,
+        "hash_vaga": "dadddbb710eb0c6046006de926376c16a0dad0db5aa22bc1a152eee92bf01b3c",
         "titulo": "Principal Site Reliability Engineer, Platform Engineering: Dedicated",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -936,6 +1021,7 @@
     },
     {
         "id_vaga": 8693068002,
+        "hash_vaga": "482773b8b226f1ef10cb2d4b8d0d8b0d6505e2da8f1ebc003153a2c925a90b38",
         "titulo": "Principal Technical Program Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -947,6 +1033,7 @@
     },
     {
         "id_vaga": 8784056002,
+        "hash_vaga": "ab4f49db74496f905904412a24812472954e80dc3d250f9de3e968d870da35b5",
         "titulo": "Principal Technical Program Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -958,6 +1045,7 @@
     },
     {
         "id_vaga": 8789857002,
+        "hash_vaga": "985615cabb7659c3edae9bfc1f0206effc0fbafe3627fd64c451f55231e764e1",
         "titulo": "Professional Services - Technical Architect",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -969,6 +1057,7 @@
     },
     {
         "id_vaga": 8857335002,
+        "hash_vaga": "c3417db74701065d2375510b297e2e3bb20427fb2e234a3393d84ee77b4c849d",
         "titulo": "Professional Services Technical Architect - West ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -980,6 +1069,7 @@
     },
     {
         "id_vaga": 8814596002,
+        "hash_vaga": "f994c0b8a719882eee903a3464691c06706f676779dab9c7559ffca7a3274561",
         "titulo": "Public Sector Enablement Lead",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -991,6 +1081,7 @@
     },
     {
         "id_vaga": 8660935002,
+        "hash_vaga": "af201028048cb440e8408ed16a85636221f10d2f3ebadc98e35c26d861f3da4b",
         "titulo": "Public Sector Strategic Account Executive - Canada",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1002,6 +1093,7 @@
     },
     {
         "id_vaga": 8737840002,
+        "hash_vaga": "5100e35164f5de21e230042aa01a18cfa5b6e07e86b8ff0bfd4537f52915a223",
         "titulo": "Public Sector Strategic Account Executive, DoW",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1013,6 +1105,7 @@
     },
     {
         "id_vaga": 8737852002,
+        "hash_vaga": "e2d5477bbb159ad34c05e2bd4d7895346808f8eea5cade43b094f766c3eac282",
         "titulo": "Public Sector Strategic Account Executive, Federal Civilian",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1024,6 +1117,7 @@
     },
     {
         "id_vaga": 8649994002,
+        "hash_vaga": "d484230a85346f90e979e52c12646912384c816a218768d7bdb246403faac222",
         "titulo": "Public Sector Strategic Account Executive, SLED - Mountain Plains",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1035,6 +1129,7 @@
     },
     {
         "id_vaga": 8869149002,
+        "hash_vaga": "b42c5a5e2e3cb3735f38483d73f101d6ca0c1f05689965057b43d75a015ff25b",
         "titulo": "Recruiter,  GTM",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1046,6 +1141,7 @@
     },
     {
         "id_vaga": 8869167002,
+        "hash_vaga": "32f18a3da0a3e00c27c29b28c7351685758f3f748d10f454f2cbac2cafbdb815",
         "titulo": "Recruiter, R&D",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1057,6 +1153,7 @@
     },
     {
         "id_vaga": 8853813002,
+        "hash_vaga": "322432330a11aea6875d438ebb9b7038a54afc7f3200158ec27645db606394d0",
         "titulo": "Regional Sales Director, Financial Services ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1068,6 +1165,7 @@
     },
     {
         "id_vaga": 8858174002,
+        "hash_vaga": "b78f8f0a72795808cc2179a4b29d3f3426cfd0ea1c699cab98dc355cbb880fa3",
         "titulo": "Regional Sales Director, National Security Group",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1079,6 +1177,7 @@
     },
     {
         "id_vaga": 8530337002,
+        "hash_vaga": "28d07e166bc3f74c79b9c793b7fed25ae65ab5659ca6bb2363f6c5b496b8a86c",
         "titulo": "Sales Development Representative ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1090,6 +1189,7 @@
     },
     {
         "id_vaga": 8860193002,
+        "hash_vaga": "f2cd5617324f215cf8ca4ebbaffea7ab537a71d03509c526bbc1e30ee6eb3ea8",
         "titulo": "Senior Account Executive",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1101,6 +1201,7 @@
     },
     {
         "id_vaga": 8860183002,
+        "hash_vaga": "2c08578c4d09fba3414c7702e0bd702cc9e04e3f8bc36630254532c8d418dea5",
         "titulo": "Senior Account Executive ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1112,6 +1213,7 @@
     },
     {
         "id_vaga": 8565469002,
+        "hash_vaga": "ad94c6603f61e2b22898869e5f3d582b29d7e8aa063c28fb46d1fc4bc3d83b72",
         "titulo": "Senior AI Engineer",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1123,6 +1225,7 @@
     },
     {
         "id_vaga": 8709925002,
+        "hash_vaga": "5e26c69e5598c636cf5c6534e796a31aec4feb7148fd72f4a316c041784fbd2b",
         "titulo": "Senior Assigned Support Engineer (AMER)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1134,6 +1237,7 @@
     },
     {
         "id_vaga": 8701290002,
+        "hash_vaga": "96b02478ec79dd1394c8f1eb6b01d65a8176e401e9e2530516d8893a9cb02aeb",
         "titulo": "Senior Assigned Support Engineer (EMEA)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1145,6 +1249,7 @@
     },
     {
         "id_vaga": 8621733002,
+        "hash_vaga": "43cb7510849cc5e68faac90dd30173c5e5a8d9dd150b8227ba8382d8553b0de5",
         "titulo": "Senior Backend Engineer, AI Engineering: Chat   ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1156,6 +1261,7 @@
     },
     {
         "id_vaga": 8646556002,
+        "hash_vaga": "422450750dadf82093fe0a1bb6d3b744a514596707b113ba50107585827a267e",
         "titulo": "Senior Backend Engineer, Architecture Engineering: Nonlinear Productivity",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1167,6 +1273,7 @@
     },
     {
         "id_vaga": 8689243002,
+        "hash_vaga": "8334efce2f66b7f540036e9fb901b33c233c036b58173c79ca75527e0316673d",
         "titulo": "Senior Backend Engineer, Core DevOps",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1178,6 +1285,7 @@
     },
     {
         "id_vaga": 8687958002,
+        "hash_vaga": "8178da0b98c157452698a9d160d98899e25af40b7ffe9cd272cd197d714c0b61",
         "titulo": "Senior Backend Engineer, Core DevOps: Container Registry",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1189,6 +1297,7 @@
     },
     {
         "id_vaga": 8778943002,
+        "hash_vaga": "86a0132f6fb61931cfbfa000ff4b5403acb5fa8d97c952eb8b5d653b491b3438",
         "titulo": "Senior Backend Engineer, Database Excellence (Ruby)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1200,6 +1309,7 @@
     },
     {
         "id_vaga": 8636713002,
+        "hash_vaga": "e9bf2e0dd5c541096d9416796b697f2aa80e293305cdb1729ecc918c7cbde612",
         "titulo": "Senior Backend Engineer, Deployment Environments",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1211,6 +1321,7 @@
     },
     {
         "id_vaga": 8749951002,
+        "hash_vaga": "e661395304757e9a224af8a331ba23ba9e888bf1cf15342a292e37f3efcf3ca4",
         "titulo": "Senior Backend Engineer (Go), Tenant Scale: Gitaly ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1222,6 +1333,7 @@
     },
     {
         "id_vaga": 8729451002,
+        "hash_vaga": "97e3bc2c84bec7edbe1157a3c8522032aa0b79693b09aeadd31f2782544b61a3",
         "titulo": "Senior Backend Engineer (Go), Tenant Scale: Gitaly ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1233,6 +1345,7 @@
     },
     {
         "id_vaga": 8716143002,
+        "hash_vaga": "f8571cb4fd07a018b312085d63a9584066762ffeae9880ad0583dce473f88bc0",
         "titulo": "Senior Backend Engineer, India",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1244,6 +1357,7 @@
     },
     {
         "id_vaga": 8750842002,
+        "hash_vaga": "3783696abe1dd0248a7a374c1ca99253f6c25a9c02459a5920a8c8edc11ea847",
         "titulo": "Senior Backend Engineer, Platform Enablement",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1255,6 +1369,7 @@
     },
     {
         "id_vaga": 8644572002,
+        "hash_vaga": "4bfdc514c8c3cb0f9e400ec3c81d89e726e24bb7c7deba26679cb5a3c14e121d",
         "titulo": "Senior Backend Engineer, Platform Readiness",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1266,6 +1381,7 @@
     },
     {
         "id_vaga": 8867725002,
+        "hash_vaga": "f0cc124d744191803d6c346d0fed146fa5d02543eb5e8ff3b0df08cc1bced275",
         "titulo": "Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1277,6 +1393,7 @@
     },
     {
         "id_vaga": 8760233002,
+        "hash_vaga": "30a389c84c22eadbff46428b706a6ed6467673f9f398d43cca81e325aa3ec111",
         "titulo": "Senior Backend Engineer, Trusted Agentic Development",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1288,6 +1405,7 @@
     },
     {
         "id_vaga": 8811842002,
+        "hash_vaga": "8484f98c5039327a24042a71c902cd9f6e79d31c7276f84f979eb830ce2e0dac",
         "titulo": "Senior Contracts Manager, Commercial (EMEA)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1299,6 +1417,7 @@
     },
     {
         "id_vaga": 8648304002,
+        "hash_vaga": "fac907f7066f3579d675d052d3d856c4f2c1bfb6f048fe62b9502d8f1bdd2e31",
         "titulo": "Senior Customer Success Architect - Singapore",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1310,6 +1429,7 @@
     },
     {
         "id_vaga": 8808549002,
+        "hash_vaga": "701f03e1f69ae7a235f801061e8e14e146cb4bbfbc0379d6a33ad3ef8ce0b86a",
         "titulo": "Senior Customer Success Engineer, Japan",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1321,6 +1441,7 @@
     },
     {
         "id_vaga": 8604996002,
+        "hash_vaga": "4f84c212510e56d50b1132bf5d89dcbf148d28ca7821502ac9524385c86fa475",
         "titulo": "Senior Customer Success Operations Manager   ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1332,6 +1453,7 @@
     },
     {
         "id_vaga": 8871406002,
+        "hash_vaga": "1efd0fb5900f2a5cfdfbb37527724102e844903721a2c926e12dfa37831f6014",
         "titulo": "Senior CX Platform Engineer",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1343,6 +1465,7 @@
     },
     {
         "id_vaga": 8838202002,
+        "hash_vaga": "a8d5d1bb300471d760a15ef2d7f8d14ad848195056a9d11c3d7ae47a6edf7a53",
         "titulo": "Senior Developer Advocate",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1354,6 +1477,7 @@
     },
     {
         "id_vaga": 8862046002,
+        "hash_vaga": "7d72d136320b1ea575b7e47ecfc8d79669e228c1d8e9a2af1129eee7a69fd99e",
         "titulo": "Senior Director, Global SME Solutions Architecture",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1365,6 +1489,7 @@
     },
     {
         "id_vaga": 8802261002,
+        "hash_vaga": "0577d09b9d8c4523509089eafd64f1d060526c798c1226c12a44890aacc6fb67",
         "titulo": "Senior Distribution Engineer, Gitlab: Build",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1376,6 +1501,7 @@
     },
     {
         "id_vaga": 8640173002,
+        "hash_vaga": "747a12981738f5a91a93e1ee0e44fa43522fb6487f1e867710e720cd8690fccf",
         "titulo": "Senior Ecosystem Sales Manager, Japan",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1387,6 +1513,7 @@
     },
     {
         "id_vaga": 8725981002,
+        "hash_vaga": "34b3e5565b09156d5b2ffe38a757c493da081e59adf4d17d5235ebf0cf86c54f",
         "titulo": "Senior Engagement Manager - Germany",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1398,6 +1525,7 @@
     },
     {
         "id_vaga": 8755524002,
+        "hash_vaga": "528e5cb15e94ecebb4a69c35285005a56a2b691ef8666d6a5c3a501e2e167f46",
         "titulo": "Senior Engineering Manager - Continuous Deployment ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1409,6 +1537,7 @@
     },
     {
         "id_vaga": 8731564002,
+        "hash_vaga": "3606ef98133dfd3a12b7be52e8e017467451ebccfa6533beb16a8187d85b5b5d",
         "titulo": "Senior FP&A Analyst, Cloud Hosting",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1420,6 +1549,7 @@
     },
     {
         "id_vaga": 8826920002,
+        "hash_vaga": "5ee2ccba9dcd589f6907bcff9007f4b45d83734b17b678d1176d6db4dc7d378a",
         "titulo": "Senior Frontend Engineer",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1431,6 +1561,7 @@
     },
     {
         "id_vaga": 8636539002,
+        "hash_vaga": "510d209ed369f2647e5e679130b53da54ebd1a85a29532a309823ab81940512c",
         "titulo": "Senior Frontend Engineer (Vue), Create:  Repository Management ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1442,6 +1573,7 @@
     },
     {
         "id_vaga": 8697493002,
+        "hash_vaga": "15793a52ef6f8c3e869524e4cca2f7d3b4c0af781e820839499a962dc668a62a",
         "titulo": "Senior Fullstack Engineer, Marketing",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1453,6 +1585,7 @@
     },
     {
         "id_vaga": 8632005002,
+        "hash_vaga": "fc3a4292807c24e74d0a92f3b9f1614848fd1569f868d0d8aaa5d96e180526f3",
         "titulo": "Senior Hyperscaler Operations Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1464,6 +1597,7 @@
     },
     {
         "id_vaga": 8879219002,
+        "hash_vaga": "35be55e2d2fec40990d8244255e622f3481495ec2d01d1abcaae52becefd825d",
         "titulo": "Senior Manager, Deal Desk, EMEA ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1475,6 +1609,7 @@
     },
     {
         "id_vaga": 8842171002,
+        "hash_vaga": "3230296b13ce43c1ea0d98a21eef1892364ca86250ef7b60829a3c87ba7acd8c",
         "titulo": "Senior Manager of Success Architects",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1486,6 +1621,7 @@
     },
     {
         "id_vaga": 8845972002,
+        "hash_vaga": "0530f870b45119ccb194aa302e2e705d9761f604cd99961410c86c0009cc00e1",
         "titulo": "Senior Manager, Technical Program Management",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1497,6 +1633,7 @@
     },
     {
         "id_vaga": 8771527002,
+        "hash_vaga": "464a8359476303a4d7f8aa0afa11a8a337c21312992032535c6feb4d940a628e",
         "titulo": "Senior Platform Engineer, GitLab Orbit",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1508,6 +1645,7 @@
     },
     {
         "id_vaga": 8597805002,
+        "hash_vaga": "a5b04c951ac46d54cbcd6b3438ba518fe0772284bd0b916eb2412ca21ea4d06a",
         "titulo": "Senior Product Manager, Agentic Source Code",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1519,6 +1657,7 @@
     },
     {
         "id_vaga": 8845483002,
+        "hash_vaga": "11b8f25189731267a62cb69bf5ce45f3b1e7e9715fcf67417a527c6f8f26300c",
         "titulo": "Senior Product Manager, Billing Engine & Platforms Monetization",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1530,6 +1669,7 @@
     },
     {
         "id_vaga": 8855883002,
+        "hash_vaga": "df325b3c74b01704dd60380ad81581167613f00acd41fec4ff618a8c7ecc8bcb",
         "titulo": "Senior Product Manager, CRM & GTM Systems",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1541,6 +1681,7 @@
     },
     {
         "id_vaga": 8745623002,
+        "hash_vaga": "b1e8e111c55f4c62ca99dbb09a2386c5ff935c7eee8cc97e63b38f31e5e93483",
         "titulo": "Senior Professional Services Engineer",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1552,6 +1693,7 @@
     },
     {
         "id_vaga": 8859657002,
+        "hash_vaga": "92feaeccb06ce94656bf38a682dda688ec69f2103859ed835205614ab07f0ee0",
         "titulo": "Senior Professional Services Engineer, Japan",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1563,6 +1705,7 @@
     },
     {
         "id_vaga": 8746461002,
+        "hash_vaga": "688e206bada1e0e9b8c3f3d7da0ed8d2376aabc5acbe7935f0cd6cad286b0d9e",
         "titulo": "Senior Professional Services Engineer- PubSec - DC Metro",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1574,6 +1717,7 @@
     },
     {
         "id_vaga": 8838331002,
+        "hash_vaga": "c0ec388dc9a941313d4b68fb2b6d4d09d5d1cb28db2103cde9208d4e5fec680d",
         "titulo": "Senior Professional Services Engineer - PubSec - US Only",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1585,6 +1729,7 @@
     },
     {
         "id_vaga": 8795736002,
+        "hash_vaga": "c3149a1976c282a4dadc3bc8664cbc45348750814b3a2bbe0f1e9eaa84c46a71",
         "titulo": "Senior Professional Services Technical Architect - Security ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1596,6 +1741,7 @@
     },
     {
         "id_vaga": 8687246002,
+        "hash_vaga": "4651dbe902d1bae588f2c67aec363879c29f4fc1220261b032faf3dbdaa2723b",
         "titulo": "Senior Program Manager, Enterprise Technology and AI",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1607,6 +1753,7 @@
     },
     {
         "id_vaga": 8730125002,
+        "hash_vaga": "5e5cecf2f0c327e9a5798992841bc0e929b4aeb334406fa8cf830376dca95d0e",
         "titulo": "Senior Release Engineer",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1618,6 +1765,7 @@
     },
     {
         "id_vaga": 8645879002,
+        "hash_vaga": "9343f68b7c8eb66159478e43f9da49a23c68978d64746504b2a83954bc2db7cf",
         "titulo": "Senior Renewal Operations Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1629,6 +1777,7 @@
     },
     {
         "id_vaga": 8882059002,
+        "hash_vaga": "63428b0f30c148e67ff1fcdeb9b4531bacc47d0316b2cef17074dd9c62f1487e",
         "titulo": "Senior Revenue Operations Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1640,6 +1789,7 @@
     },
     {
         "id_vaga": 8815229002,
+        "hash_vaga": "053ee742981d39fa56ea4a16ba0d31f8fc31396dc34499b7e46229b927e8c59e",
         "titulo": "Senior Security Engineer, Incident Response Team (Australia)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1651,6 +1801,7 @@
     },
     {
         "id_vaga": 8628447002,
+        "hash_vaga": "7a05607412094b448790d28dabae9146addf197c34a41592147148fe5376b626",
         "titulo": "Senior Security Engineer, Security Incident Response Team (SIRT) - EMEA",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1662,6 +1813,7 @@
     },
     {
         "id_vaga": 8846304002,
+        "hash_vaga": "3fc9beaf0c08b4573117b1af139ba7a2567538264c4cbf49ed79f3886c061766",
         "titulo": "Senior Security Risk Engineer",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1673,6 +1825,7 @@
     },
     {
         "id_vaga": 8615319002,
+        "hash_vaga": "6c149384113693932e5efcb57559f34aa4dc809cbf066549b8b43c831e75740c",
         "titulo": "Senior Site Reliability Engineer - Monitoring and Anomaly Detection (Monetization)  ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1684,6 +1837,7 @@
     },
     {
         "id_vaga": 8614945002,
+        "hash_vaga": "70b5641d550f34cecc985b3494879444c46c329190a7c34e7803122646701a67",
         "titulo": "Senior Software Engineer (RoR/Go), SSCS: Authentication",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1695,6 +1849,7 @@
     },
     {
         "id_vaga": 8738225002,
+        "hash_vaga": "aaa28daffcfec9be9e261d1498bcd9ae16e58da063335af5a50dcbd752d3b9d8",
         "titulo": "Senior Software Engineer (Ruby), Security Platform: Authorization",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1706,6 +1861,7 @@
     },
     {
         "id_vaga": 8738179002,
+        "hash_vaga": "819650b0e2e14ac391a5e3afaa714fb3827594da059134a14c5934be21145e31",
         "titulo": "Senior Software Engineer, Security Factory: Code Security",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1717,6 +1873,7 @@
     },
     {
         "id_vaga": 8856826002,
+        "hash_vaga": "a3c01dd4974a924eacda0d1f0fec8324b7ee9b2ff01607e610571e3509bbf1e8",
         "titulo": "Senior Solutions Architect",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1728,6 +1885,7 @@
     },
     {
         "id_vaga": 8783485002,
+        "hash_vaga": "354f3cc1d272fe66bb4d319fc1f50471fa1574a384a276287ce4364a750e5f79",
         "titulo": "Senior Solutions Architect",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1739,6 +1897,7 @@
     },
     {
         "id_vaga": 8731996002,
+        "hash_vaga": "7c73d249ba3d8b7de15256b9e80e972f801cf01f96f301ba2f42961c14fde7ef",
         "titulo": "Senior Solutions Architect",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1750,6 +1909,7 @@
     },
     {
         "id_vaga": 8770661002,
+        "hash_vaga": "c238a652432f4a6ab56098bd3abff9a406380bee8bc2484d8b97f7b630a6416f",
         "titulo": "Senior Solutions Architect Operations Manager ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1761,6 +1921,7 @@
     },
     {
         "id_vaga": 8627768002,
+        "hash_vaga": "49fb73a8f67e891fecf2361ee3124b92a7cd2cee534e3774272c7aad709365d0",
         "titulo": "Senior Solutions Architect (Singapore) ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1772,6 +1933,7 @@
     },
     {
         "id_vaga": 8826637002,
+        "hash_vaga": "87dd8d674b482de3e8e35c8bfc7be29c9f023ddf0d44ce22a7dd607d4a51e2d9",
         "titulo": "Senior Solutions Architect- Sydney ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1783,6 +1945,7 @@
     },
     {
         "id_vaga": 8742248002,
+        "hash_vaga": "5cc45f464fd942b8a1ffd0365b49a2215b4b6890a8a2438d352d52a5d5c39ff6",
         "titulo": "Senior Strategic Account Executive - California ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1794,6 +1957,7 @@
     },
     {
         "id_vaga": 8692880002,
+        "hash_vaga": "88d01330a1f00d8387973f547f31da7a6a3229290d7dcdfce05e0aa42fc45b1f",
         "titulo": "Senior Support Engineer",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1805,6 +1969,7 @@
     },
     {
         "id_vaga": 8692874002,
+        "hash_vaga": "b7ba2c243ef3557210dd1a6cfdf8cb726fa2879ef471e277aeb057975df3e773",
         "titulo": "Senior Support Engineer",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1816,6 +1981,7 @@
     },
     {
         "id_vaga": 8753656002,
+        "hash_vaga": "5e98b8d858ccf98ba0bf653e5f682ff9057600e748377dbcd2f9ffefb742a5f8",
         "titulo": "Senior Talent Brand Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1827,6 +1993,7 @@
     },
     {
         "id_vaga": 8623389002,
+        "hash_vaga": "2c32050ffa2341fa6ad639a8c68ae2d976eff684a64d05714e2a383b64de55be",
         "titulo": "Site Reliability Engineer, Infrastructure Platforms — AMER (Intermediate to Senior Staff)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1838,6 +2005,7 @@
     },
     {
         "id_vaga": 8773546002,
+        "hash_vaga": "c614540ec3fea4ca1597f63c63f44a1a80db840ef86b673bbdfa1067ff362d7b",
         "titulo": "Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1849,6 +2017,7 @@
     },
     {
         "id_vaga": 8874151002,
+        "hash_vaga": "40658af3d347bdabc474cb3c9464164e3f394182251b3eb03f4012c24c05241b",
         "titulo": "SMB Account Executive (Growth)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1860,6 +2029,7 @@
     },
     {
         "id_vaga": 8871878002,
+        "hash_vaga": "4008f17fdf31e2fd1b1aba86d10c16fd780d0e442ff2b9bcd3a8a1449cffa3ee",
         "titulo": "SMB Account Executive, Growth",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1871,6 +2041,7 @@
     },
     {
         "id_vaga": 8874166002,
+        "hash_vaga": "8d182514f4c6f886dc254937f5ed421dcac7565851859a0e70fdd5dea4eaeb51",
         "titulo": "SMB Account Executive (New Business)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1882,6 +2053,7 @@
     },
     {
         "id_vaga": 8871274002,
+        "hash_vaga": "a30652f01f3ef1bec0cb8b28834b66ae31e1385d75e65f56dbf2f68af1490ed7",
         "titulo": "SMB New Business Account Executive   ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1893,6 +2065,7 @@
     },
     {
         "id_vaga": 8846318002,
+        "hash_vaga": "f95a925a4a3c83a37a6415d335ae9f008d670b84e938b77fb4702760a805a463",
         "titulo": "Social Impact Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1904,6 +2077,7 @@
     },
     {
         "id_vaga": 8790538002,
+        "hash_vaga": "e35ce1db97e38d8de4b318035cc096d4bee1193da61bb62814e42bee9f076b6d",
         "titulo": "Solutions Architect, Manager - Public Sector",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1915,6 +2089,7 @@
     },
     {
         "id_vaga": 8860267002,
+        "hash_vaga": "ba236df0c4cf6a16923ac20552cb2df926977548cac72de7a4da4719cc05738c",
         "titulo": "Solutions Architect, New Business, EMEA",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1926,6 +2101,7 @@
     },
     {
         "id_vaga": 8790680002,
+        "hash_vaga": "f50e64801ce9a23e350658624a8108bd4aea54b8d121c0afa557f877f047cd79",
         "titulo": "Solutions Architect, Public Sector - East",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1937,6 +2113,7 @@
     },
     {
         "id_vaga": 8790317002,
+        "hash_vaga": "0fc2301db567661dd75afbc4fd6ee354870efbda0a1452d22c9f310112270738",
         "titulo": "Solutions Architect, Public Sector - West ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1948,6 +2125,7 @@
     },
     {
         "id_vaga": 8646544002,
+        "hash_vaga": "cb56b20015784d033f7a2462faa14312442c6260f62639d8463f28060debf9e9",
         "titulo": "Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1959,6 +2137,7 @@
     },
     {
         "id_vaga": 8689236002,
+        "hash_vaga": "6ade53c449f0d0c27d73b83f082cacd856743889198897149bd5eb6f7adc47c1",
         "titulo": "Staff Backend Engineer, Core DevOps",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1970,6 +2149,7 @@
     },
     {
         "id_vaga": 8770702002,
+        "hash_vaga": "fa3dc25ab846dd15140bd760dce934c3b5276cfa634dd5990f2da4c23b932aa3",
         "titulo": "Staff Backend Engineer, Database Automation (Go)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1981,6 +2161,7 @@
     },
     {
         "id_vaga": 8716271002,
+        "hash_vaga": "64b432280cc5c3fc7c1fa6fbee69223b70db427d0c47dd0adc33d00d709005f1",
         "titulo": "Staff Backend Engineer - Database Change Management",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -1992,6 +2173,7 @@
     },
     {
         "id_vaga": 8490477002,
+        "hash_vaga": "15f4b5e2829e2fdf3dee05ed1009101ca72c81bae3150771faa886b771504741",
         "titulo": "Staff Backend Engineer, Developer Experience",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2003,6 +2185,7 @@
     },
     {
         "id_vaga": 8775136002,
+        "hash_vaga": "db0a89b83618c4df5b52e407d6c0a3631b839283308553f54e817f46a710df80",
         "titulo": "Staff Backend Engineer, India",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2014,6 +2197,7 @@
     },
     {
         "id_vaga": 8646573002,
+        "hash_vaga": "62a28a153294c436325542ca3d9dbcb6e3bd7478a29e2069a1ea6a107bbb9bdb",
         "titulo": "Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2025,6 +2209,7 @@
     },
     {
         "id_vaga": 8763503002,
+        "hash_vaga": "5438d5bc4bfe1235017ef4d1cd2a0c100354f331e86e87914b59e8344ee8c758",
         "titulo": "Staff Commercial Pricing Strategist",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2036,6 +2221,7 @@
     },
     {
         "id_vaga": 8734888002,
+        "hash_vaga": "7e49910fd5b87adeb8f51f62cff9ecaa342266baf2a3ab09c5d082a674e93992",
         "titulo": "Staff Corporate Security Engineer ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2047,6 +2233,7 @@
     },
     {
         "id_vaga": 8638295002,
+        "hash_vaga": "fb788390c964f175dba29f2b94f4d35788bdaa84cfae634a3ebad4dda2bb7025",
         "titulo": "Staff Engineer, People Technology",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2058,6 +2245,7 @@
     },
     {
         "id_vaga": 8828009002,
+        "hash_vaga": "656cddbebb59fd64212025932e79e7183f78cb6f6b44b94bdb54d00b79180e18",
         "titulo": "Staff Enterprise Architect",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2069,6 +2257,7 @@
     },
     {
         "id_vaga": 8512432002,
+        "hash_vaga": "5be8ee175f46a24f67abf3710d4cf6ff38599a11b02fd4f77bd71bf5634e0602",
         "titulo": "Staff Forward Deployed Engineer",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2080,6 +2269,7 @@
     },
     {
         "id_vaga": 8826965002,
+        "hash_vaga": "d6f24d6709864963f1b9a5b66e7ec5ac3ac7f68310149014877e1cbd5acc901a",
         "titulo": "Staff Frontend Engineer",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2091,6 +2281,7 @@
     },
     {
         "id_vaga": 8845277002,
+        "hash_vaga": "a4467443b9403b76b1db4c4d3630e9462c6b6d0d657f296df6adb21a968af1dc",
         "titulo": "Staff Fullstack Engineer, Data Products (Golang / Node)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2102,6 +2293,7 @@
     },
     {
         "id_vaga": 8739391002,
+        "hash_vaga": "291bbdc8dbe036b7def63b494546273f5f45adccf0742a860fa8c6cca100914d",
         "titulo": "Staff Fullstack Engineer (Ruby/Vue.js) Monetization Engineering: Purchase",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2113,6 +2305,7 @@
     },
     {
         "id_vaga": 8875518002,
+        "hash_vaga": "abb402257f4922a249b59ee9037b6587b64022808855066b44cbe01aa2331e48",
         "titulo": "Staff Product Manager, AI Software Factory PLG",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2124,6 +2317,7 @@
     },
     {
         "id_vaga": 8612937002,
+        "hash_vaga": "1a23c79bc186df3d438d1fb416e614538aea2a03d45a1f14a6b7428c400a536b",
         "titulo": "Staff Product Manager,  RevOps & Finance Systems",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2135,6 +2329,7 @@
     },
     {
         "id_vaga": 8815140002,
+        "hash_vaga": "de8a46b20a8dacec37b4a20e399cb23beafe2935ea679f47455a180d36d60312",
         "titulo": "Staff Product Security Architect ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2146,6 +2341,7 @@
     },
     {
         "id_vaga": 8691770002,
+        "hash_vaga": "ee692dec7d80f89b26d6b077781c6c11b365c8b308af74474d1763c20e6dad77",
         "titulo": "Staff Professional Services Operations Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2157,6 +2353,7 @@
     },
     {
         "id_vaga": 8822279002,
+        "hash_vaga": "d15bb7974e3240fc47076aa0e8d2c97e64e05ed766b9f7c1426e13af0358ea30",
         "titulo": "Staff Program Manager, CCO Programs",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2168,6 +2365,7 @@
     },
     {
         "id_vaga": 8868652002,
+        "hash_vaga": "4090d7050508878ef7ac1ee753f4567c238d23bda52cdf735f8cb9ac5807d2cc",
         "titulo": "Staff Renewals Operations Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2179,6 +2377,7 @@
     },
     {
         "id_vaga": 8846277002,
+        "hash_vaga": "a6972ee8b1305211e12dc94954c42c0fc2fc7523ab71369f785a62f63e35eb0f",
         "titulo": "Staff Security Governance Engineer, Policies & Standards",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2190,6 +2389,7 @@
     },
     {
         "id_vaga": 8782153002,
+        "hash_vaga": "cdea46a83988766c69309e4bab57c299c6a43113de68ef570d9383767dd1cb9a",
         "titulo": "Staff Security Researcher ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2201,6 +2401,7 @@
     },
     {
         "id_vaga": 8615268002,
+        "hash_vaga": "98b0785a6eedec38b453d452450be16ee21b0a9165b77049dfd6e23aac4657fc",
         "titulo": "Staff Site Reliability Engineer - Monitoring and Anomaly Detection (Monetization)   ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2212,6 +2413,7 @@
     },
     {
         "id_vaga": 8781299002,
+        "hash_vaga": "34db6f32c739bff205f54613d17e71af8d5d4728ee8baf29a2967fb9bbd6adb9",
         "titulo": "Staff Software Engineer - NLP",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2223,6 +2425,7 @@
     },
     {
         "id_vaga": 8693563002,
+        "hash_vaga": "6a28319e8d1ca801eab050638503a4bcdbfcfb1ef537292cea9cb84d67c19654",
         "titulo": "Staff Software Engineer, Security Factory: Static Analysis",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2234,6 +2437,7 @@
     },
     {
         "id_vaga": 8860106002,
+        "hash_vaga": "c22bc3c3b563530265033bcdeade4c013d8108c36a48192f751ca2aaad7ae1fc",
         "titulo": "Strategic Account Executive",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2245,6 +2449,7 @@
     },
     {
         "id_vaga": 8860127002,
+        "hash_vaga": "c22bc3c3b563530265033bcdeade4c013d8108c36a48192f751ca2aaad7ae1fc",
         "titulo": "Strategic Account Executive",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2256,6 +2461,7 @@
     },
     {
         "id_vaga": 8604630002,
+        "hash_vaga": "b380b3a1dca4e249a84ca0b134dec2e90c97357af6c1e8ad70bf99bb34f021bc",
         "titulo": "Strategic Account Executive, AI - San Francisco ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2267,6 +2473,7 @@
     },
     {
         "id_vaga": 8868220002,
+        "hash_vaga": "391322e0a753bb5d2758ef2775880f3c9b305cb061a2a12ba66a6efd481b7a9b",
         "titulo": "Strategic Account Executive, France",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2278,6 +2485,7 @@
     },
     {
         "id_vaga": 8637995002,
+        "hash_vaga": "bae783a326aed5f0019b3f2cad7d76faa2fd776cff336fb60147eefce2fab93f",
         "titulo": "Strategic Account Executive - MENA",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2289,6 +2497,7 @@
     },
     {
         "id_vaga": 8786425002,
+        "hash_vaga": "c7c6c6bef786eb1a40905b4008b0b3186cbecae9d58a4f2edd9bcf471927c4f0",
         "titulo": "Strategic Account Executive, Northeast",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2300,6 +2509,7 @@
     },
     {
         "id_vaga": 8675560002,
+        "hash_vaga": "8543de640995ee2e4ebf8d9ee948942e8f7cdde200bbb5f43a9237e2f22bbbf0",
         "titulo": "Strategic Account Executive, Poland",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2311,6 +2521,7 @@
     },
     {
         "id_vaga": 8789017002,
+        "hash_vaga": "ac3a468813556b986aeec742e6359fa812b8d66fa865d332d885de9106b24ddf",
         "titulo": "Strategic Account Executive, Poland",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2322,6 +2533,7 @@
     },
     {
         "id_vaga": 8860142002,
+        "hash_vaga": "3f422323d196ac55a7a542ca56c6499ccc0223f00565c0dbc5af6f667a30405d",
         "titulo": "Strategic Account Executive - Public Sector",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2333,6 +2545,7 @@
     },
     {
         "id_vaga": 8860134002,
+        "hash_vaga": "3f8b694d640d51db7e15b9e3fed8c3cde0c72c4cd18a236c7bb0b9fa271d31c6",
         "titulo": "Strategic Account Executive - Public Sector ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2344,6 +2557,7 @@
     },
     {
         "id_vaga": 8691382002,
+        "hash_vaga": "b55da13c7de3764af41aae4bdf52b736355982ae4cf88f81d2df818d0db7c6d7",
         "titulo": "Strategic Account Executive - San Francisco",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2355,6 +2569,7 @@
     },
     {
         "id_vaga": 8706202002,
+        "hash_vaga": "bec43b04107b8cdd6f76cd8c3755a84839c0ea496744bebc105342ffbfe55713",
         "titulo": "Strategic Account Executive - Seattle ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2366,6 +2581,7 @@
     },
     {
         "id_vaga": 8609979002,
+        "hash_vaga": "0b9c4f35b510cff741c1acac70e112d0986594808569ad5ab72307ec59a3a73c",
         "titulo": "Strategic Account Executive - Turkey ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2377,6 +2593,7 @@
     },
     {
         "id_vaga": 8654230002,
+        "hash_vaga": "cc75241f1f719eda6a5e7240253a3d2e809cefa9318a580ed4f9300d3f324c06",
         "titulo": "Support Engineer (AMER)",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2388,6 +2605,7 @@
     },
     {
         "id_vaga": 8859063002,
+        "hash_vaga": "d1d83a5eee3599d8a7827bcef4a76176f3ab556d3cede6472fe344b1ab564ad7",
         "titulo": "Support Engineer, U.S. Government Support ",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2399,6 +2617,7 @@
     },
     {
         "id_vaga": 8753664002,
+        "hash_vaga": "f2b0dfbe6fe4a622da65af61ffe502c26e93542dd23cc9232e482c0efb49d9b3",
         "titulo": "Talent Brand Manager",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2410,6 +2629,7 @@
     },
     {
         "id_vaga": 8638246002,
+        "hash_vaga": "9dae42745771ac7cbc84477e8c7effa40825ac343d7a57598e8ebc34d2f54dbb",
         "titulo": "Tech Operations Specialist",
         "empresa": "gitlab",
         "fonte": "greenhouse",
@@ -2421,6 +2641,7 @@
     },
     {
         "id_vaga": 8591223002,
+        "hash_vaga": "e5ba4a20ce13559fe4b34bb72825b8e6fe06dbe9cc93cf3827ecac3e4d1c5dfd",
         "titulo": "Territory Sales Manager ",
         "empresa": "gitlab",
         "fonte": "greenhouse",

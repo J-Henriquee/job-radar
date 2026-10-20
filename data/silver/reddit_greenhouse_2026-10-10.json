@@ -1,6 +1,7 @@
 [
     {
         "id_vaga": 8089959,
+        "hash_vaga": "7e8875db28c3255f1caf376e9c3eea54c2a6a3cab30d078a8a2e3bcf04044de6",
         "titulo": "3rd Party Partnerships Manager - Signals",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -12,6 +13,7 @@
     },
     {
         "id_vaga": 8153017,
+        "hash_vaga": "987e750f2ad0931ddb25bc8a894bbc6ff0799d4ddac1e6c420862a2e45dc1b23",
         "titulo": "Account Executive, Mid-Market (DACH)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -23,6 +25,7 @@
     },
     {
         "id_vaga": 7792848,
+        "hash_vaga": "270f1714549c76578a2667fbdb63a34cd5f53093a4dcbe1055bf813a2b80573f",
         "titulo": "Ads Conversion Modeling, Machine Learning Engineering Manager",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -34,6 +37,7 @@
     },
     {
         "id_vaga": 8263406,
+        "hash_vaga": "3a882582e101a219b2d92c844d6df038bb1599f4adb88e16a45b29d6b167ec4a",
         "titulo": "Android Software Engineer, Consumer Engineering",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -45,6 +49,7 @@
     },
     {
         "id_vaga": 8189317,
+        "hash_vaga": "22425a86bc6e17126a3fae6dec72f0f9852c0ebdeac0cd3e239cee7b4f57a10f",
         "titulo": "Backend Engineer, IAM",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -56,6 +61,7 @@
     },
     {
         "id_vaga": 8249259,
+        "hash_vaga": "7c2ba336dd2b5bac13a9d27d5082021b2edcff13e3b4faf04f33ef1f5d24c494",
         "titulo": "Chief of Staff, Global Sales",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -67,6 +73,7 @@
     },
     {
         "id_vaga": 8187521,
+        "hash_vaga": "73021a5343d56a0762e9079e34789a33a5a9992e0c9751e026520a66018c8b3a",
         "titulo": "Chief of Staff, Global Sales",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -78,6 +85,7 @@
     },
     {
         "id_vaga": 8049518,
+        "hash_vaga": "0151aec929ece11a4905cffeaa1240f26aadab97537ae79ddd536568fdaf29f9",
         "titulo": "Client Account Manager, Large Customer Sales (Tech)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -89,6 +97,7 @@
     },
     {
         "id_vaga": 8202510,
+        "hash_vaga": "6b704678aea88515f30ee76fc7c97806f140a3610c51b74ff6ff869439b3e4cb",
         "titulo": "Client Partner, Mid-Market Sales (Goods)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -100,6 +109,7 @@
     },
     {
         "id_vaga": 8143677,
+        "hash_vaga": "eaa4d977aacda5a765836f2362d494600b61c4fbea0ee146b06f75333c2e6aca",
         "titulo": "Community Manager, French Speaking (Contract)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -111,6 +121,7 @@
     },
     {
         "id_vaga": 8121099,
+        "hash_vaga": "27a66cc0a41f875f03e49ab2bd067e6db48cb73fc50b1daf26d546a0c562bfdc",
         "titulo": "Country Lead, Business Marketing, UK",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -122,6 +133,7 @@
     },
     {
         "id_vaga": 8142128,
+        "hash_vaga": "c53f3b816d021b5d5c8e84e1ad5333ae9ed74e6430beb24d62129d5c6275b688",
         "titulo": "Director, Intellectual Property",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -133,6 +145,7 @@
     },
     {
         "id_vaga": 7957771,
+        "hash_vaga": "47455f7337591154758046059ce10d03f4c00e30263e0d40081feed9cca798f1",
         "titulo": "EMEA Insights Lead, Consumer and Commercial Strategy ",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -144,6 +157,7 @@
     },
     {
         "id_vaga": 8256326,
+        "hash_vaga": "80b94e9550e84f9b818c3dfc1405c3c975d4df8f62a2dd07470a62f33604e203",
         "titulo": "Engineering Manager, Knowledge Graph Platform ",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -155,6 +169,7 @@
     },
     {
         "id_vaga": 8095476,
+        "hash_vaga": "705f959e969a9e2e4c73cf3531c0339fd40e7675dc324ef59d333ed0fb0f5e57",
         "titulo": "Engineering Manager, Notifications Platform",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -166,6 +181,7 @@
     },
     {
         "id_vaga": 8194576,
+        "hash_vaga": "ae3b72fe8b4a209d995503b7bdc7fd3fad96fda4804cf36c24132ddcf29e599c",
         "titulo": "Frontend Engineer, Ads",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -177,6 +193,7 @@
     },
     {
         "id_vaga": 8240716,
+        "hash_vaga": "56415be50423b44ee64490baf936e1ea3b16c89cef73f8f08fd8d8e29c60c3c5",
         "titulo": "Frontend Engineer, Ads Campaign Manager",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -188,6 +205,7 @@
     },
     {
         "id_vaga": 8147559,
+        "hash_vaga": "67e34c2bfc37de8eabe357dde9ec6b8a0ee62b1273a49fed8cf3bf4d48c3ccd6",
         "titulo": "Front End Software Engineer, Consumer Engineering",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -199,6 +217,7 @@
     },
     {
         "id_vaga": 8198102,
+        "hash_vaga": "1a2e35a2b7da4c6f09b275a8903942d6b456c4a0910ae9c320f76d2db45212ef",
         "titulo": "Front End Software Engineer, Media Player",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -210,6 +229,7 @@
     },
     {
         "id_vaga": 8189899,
+        "hash_vaga": "2e3a0be68ffa03d11d4e0dff860d12ecdc306526d2e2340f605d102946645dc2",
         "titulo": "Global Indirect Tax Manager",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -221,6 +241,7 @@
     },
     {
         "id_vaga": 8189894,
+        "hash_vaga": "2e3a0be68ffa03d11d4e0dff860d12ecdc306526d2e2340f605d102946645dc2",
         "titulo": "Global Indirect Tax Manager",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -232,6 +253,7 @@
     },
     {
         "id_vaga": 8186566,
+        "hash_vaga": "51e83a388cdd20529f75bf61c3b57506f875696922c41d4edbbfa6dbd6b85334",
         "titulo": "Global Indirect Tax Manager ",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -243,6 +265,7 @@
     },
     {
         "id_vaga": 8130311,
+        "hash_vaga": "869897cf1e112afb1130e1066952b639bb656fd97e6972490fa5f1eaa17a6128",
         "titulo": "Global Payroll Administrator",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -254,6 +277,7 @@
     },
     {
         "id_vaga": 8075185,
+        "hash_vaga": "1eb07c6647a0be3cccde0dadb8d22591681e6e4ffd1169e045391d43bd9e93f9",
         "titulo": "Group Product Manager, Finance Technology",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -265,6 +289,7 @@
     },
     {
         "id_vaga": 8234154,
+        "hash_vaga": "a8da2a92bef01c60135561fa5d3ffa6b70fd3489535d333972d2870e255c80fb",
         "titulo": "International Payroll Analyst",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -276,6 +301,7 @@
     },
     {
         "id_vaga": 8192369,
+        "hash_vaga": "9e881c1c554a4e0ad112fb9e302560a31907d4934ca17d5bc444934acd8220c7",
         "titulo": "International Payroll Analyst",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -287,6 +313,7 @@
     },
     {
         "id_vaga": 8250125,
+        "hash_vaga": "a8e1d1a9cb654f68f99a3039cb934f77420b830ed1e8f942b12e3f9e3042cdd1",
         "titulo": "iOS Software Engineer, Consumer Engineering",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -298,6 +325,7 @@
     },
     {
         "id_vaga": 8196302,
+        "hash_vaga": "0cd19f0b3b948200624528ad2190b8787ec37e670659f1396b21000482c9197b",
         "titulo": "Lead Client Partner, Global Strategic Accounts (Tech)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -309,6 +337,7 @@
     },
     {
         "id_vaga": 8249469,
+        "hash_vaga": "ac48b85f3265c510ebe07dd6d3a76fd1c2de25c804792ae2ba5651361e708eef",
         "titulo": "Lead Client Partner, Global Strategic Accounts (Tech)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -320,6 +349,7 @@
     },
     {
         "id_vaga": 8257083,
+        "hash_vaga": "d617dd1889d39048001ec29fcd450582684bbbb0c4c6691e49cf5c0425b5adbe",
         "titulo": "Lead Client Partner, Large Customer Sales (Restaurants & Drinks)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -331,6 +361,7 @@
     },
     {
         "id_vaga": 8108528,
+        "hash_vaga": "f6da805d10fe25eb76e3e6c6baae83137c74fbd38546df474ca62fe6f4a034c0",
         "titulo": "Lead Physical Security Engineer",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -342,6 +373,7 @@
     },
     {
         "id_vaga": 8095009,
+        "hash_vaga": "ab47da793455ca6db4084384a991245d2c01d5a03080cf2223835f907314613f",
         "titulo": "Machine Learning Manager, Feed Ecosystems",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -353,6 +385,7 @@
     },
     {
         "id_vaga": 8094985,
+        "hash_vaga": "a988547b679a612b147c1e7af5f2b7fea031622eabee9aa349b33d998f81b738",
         "titulo": "Machine Learning Manager, Feed Relevance (Retrieval)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -364,6 +397,7 @@
     },
     {
         "id_vaga": 8023926,
+        "hash_vaga": "50ec66bffcdde7a069cedd3cbe20068fe718beb763f0e39a884e0da9a2fc9613",
         "titulo": "Manager, Large Customer Sales - UK",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -375,6 +409,7 @@
     },
     {
         "id_vaga": 7330347,
+        "hash_vaga": "91094a76c6d747b2fe434c51b588c7325fe66550341e7f5a6aa2ff931133306b",
         "titulo": "Principal Data Scientist, Ads",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -386,6 +421,7 @@
     },
     {
         "id_vaga": 8122887,
+        "hash_vaga": "506e3ce646a8fa500a19a41c9737b8f883f4f3080fc555ba50705508dbd27ba3",
         "titulo": "Principal UX Engineer, Ads",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -397,6 +433,7 @@
     },
     {
         "id_vaga": 8263407,
+        "hash_vaga": "901b1ed85f5a4f83826bdf823507c6a10b47c4040e066d180c2ee16aeb31c53b",
         "titulo": "Senior Android Software Engineer, Consumer Engineering",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -408,6 +445,7 @@
     },
     {
         "id_vaga": 8128860,
+        "hash_vaga": "8ac7cf09e3273d724a4640a5816c1e9015b1c3b98f922d1b429546b19f5545ff",
         "titulo": "Senior Backend Engineer, Compliance Engineering",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -419,6 +457,7 @@
     },
     {
         "id_vaga": 8044767,
+        "hash_vaga": "8f06427447016cf99e1c0ec579831bb64817bfd5059182d5c17b751e7ee05fb7",
         "titulo": "Senior Backend Engineer, IAM",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -430,6 +469,7 @@
     },
     {
         "id_vaga": 8093006,
+        "hash_vaga": "f044e55d3a677c7184d94f759f824654a3141ec97ed15f28d88217721d3ef95b",
         "titulo": "Senior Backend Engineer, Safety",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -441,6 +481,7 @@
     },
     {
         "id_vaga": 8023563,
+        "hash_vaga": "44e2ada4bb51bce24e7180b574595a682475570801b5389db028dd3a84f9eadb",
         "titulo": "Senior Business Analyst, Revenue Analytics",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -452,6 +493,7 @@
     },
     {
         "id_vaga": 8022260,
+        "hash_vaga": "936b792ea755a4becb7f43abaec283f8a4b6fa8a742ddedab347854a2d19d707",
         "titulo": "Senior Business Engineer - Ads",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -463,6 +505,7 @@
     },
     {
         "id_vaga": 7954598,
+        "hash_vaga": "216e8e522570ca8de3ab1662b37838048be0d8ff15ddc02ea940c105cd6a91ee",
         "titulo": "Senior Business Engineer - Ads",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -474,6 +517,7 @@
     },
     {
         "id_vaga": 8074846,
+        "hash_vaga": "8e7fce554b5a9bfdf660d6b1a766bd13bcc5bc7e6e06578a209b3acfe114c23e",
         "titulo": "Senior, Business Risk & AI Automation",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -485,6 +529,7 @@
     },
     {
         "id_vaga": 8074860,
+        "hash_vaga": "8e7fce554b5a9bfdf660d6b1a766bd13bcc5bc7e6e06578a209b3acfe114c23e",
         "titulo": "Senior, Business Risk & AI Automation",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -496,6 +541,7 @@
     },
     {
         "id_vaga": 8171546,
+        "hash_vaga": "98de4cb731bbb8f1e677d86f94d724d3247d74ff1f2e9eec79e6e364c7b878ce",
         "titulo": "Senior Client Account Manager, App Dev Enterprise",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -507,6 +553,7 @@
     },
     {
         "id_vaga": 8017242,
+        "hash_vaga": "9c461d2f2b336126f7092b034df7f86a8398e3910ec4e5769736625dfeea50cc",
         "titulo": "Senior Client Account Manager, Global Strategic Accounts (Tech/AI)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -518,6 +565,7 @@
     },
     {
         "id_vaga": 8017263,
+        "hash_vaga": "6c0783fbb2e981719210bb452faa4b516c386d2a452867b075cd37d7341a440c",
         "titulo": "Senior Client Account Manager, Global Strategic Accounts (UK)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -529,6 +577,7 @@
     },
     {
         "id_vaga": 8140121,
+        "hash_vaga": "a8e18e718e0eaab46a7adea0b0df89944ae17bf9ed69e083887e7b36b23ba35f",
         "titulo": "Senior Client Partner, Large Customer Sales (Big Box Retail)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -540,6 +589,7 @@
     },
     {
         "id_vaga": 8244090,
+        "hash_vaga": "e7c4f47eea2965587446fd2cbfdb1ba8f7ac8fc427f87bbd46443c418ed4a7cc",
         "titulo": "Senior Client Partner, Large Customer Sales (Tech)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -551,6 +601,7 @@
     },
     {
         "id_vaga": 8168390,
+        "hash_vaga": "54caa3fdb87aac81b7fedf5ddf02e168c4025c0c3aafa72a6da70922745f4e89",
         "titulo": "Senior Community Lifecycle Manager",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -562,6 +613,7 @@
     },
     {
         "id_vaga": 8104403,
+        "hash_vaga": "e4745a4a62c543950d46cdd42d98205d6a6af0bdc1f6bc105e6aa863e1bdb3bc",
         "titulo": "Senior Data Scientist, Ads",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -573,6 +625,7 @@
     },
     {
         "id_vaga": 8157580,
+        "hash_vaga": "feb4e622dc93954194b87e4c490e144f408c843292963157eb447ff72250c7aa",
         "titulo": "Senior Data Scientist, Ads Integrity",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -584,6 +637,7 @@
     },
     {
         "id_vaga": 8126946,
+        "hash_vaga": "f2fd7da38ec07b9106da0ceb609a555076ac053dc7886a071ef6f926ce153c10",
         "titulo": "Senior Data Scientist - Consumer",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -595,6 +649,7 @@
     },
     {
         "id_vaga": 8226397,
+        "hash_vaga": "e8e0ec0cc14198c38fcd4dc1e879fc154c8a3ff0812bdadcde593beddf29b557",
         "titulo": "Senior Director, Data Science",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -606,6 +661,7 @@
     },
     {
         "id_vaga": 8011163,
+        "hash_vaga": "9dd9b0ec16f7ad128b6ae13a8664485cc98438f7ebd72fed1f5a5a2f5d1a5447",
         "titulo": "Senior Director, Product & Technology Finance",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -617,6 +673,7 @@
     },
     {
         "id_vaga": 8175520,
+        "hash_vaga": "518d25da3d2d14ccdf2ac089d6a3b197086039ca11ef9f33f1feddfb1258d242",
         "titulo": "Senior Frontend Engineer, Ads Creative",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -628,6 +685,7 @@
     },
     {
         "id_vaga": 8147617,
+        "hash_vaga": "43f66ab6e42849eec77f7ad27bcb74157f5a02916e1882b404412b2f5fe97fd0",
         "titulo": "Senior Frontend Software Engineer, Consumer Engineering",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -639,6 +697,7 @@
     },
     {
         "id_vaga": 8143702,
+        "hash_vaga": "8f31d89dfe5777b038f83bc2439c1b013363fe9f825bc64441e6e5dc95e7dc33",
         "titulo": "Senior Growth Manager (Contract)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -650,6 +709,7 @@
     },
     {
         "id_vaga": 8030230,
+        "hash_vaga": "912b88f99dbe8dc4752caa0b758cc5ee40aa389bb621a8277f8fd9c999ffe7c7",
         "titulo": "Senior Growth Manager,  UK",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -661,6 +721,7 @@
     },
     {
         "id_vaga": 8077785,
+        "hash_vaga": "b2b9852e23ad1cdfe1931e2f6a91dd5e102e127212dead9bd012a4f099b7d6d5",
         "titulo": "Senior GTM Insights Automation Manager",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -672,6 +733,7 @@
     },
     {
         "id_vaga": 8211850,
+        "hash_vaga": "77828f5f7ea0f4af8611b0400d35d339d7f2223d0ed8e200248ac21595c63eb7",
         "titulo": "Senior iOS Engineer, Media Experience",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -683,6 +745,7 @@
     },
     {
         "id_vaga": 8263374,
+        "hash_vaga": "efa59e4077f01dc1e67235b566462148dea1e9c8f529031a1d6feaa5e82d06f7",
         "titulo": "Senior iOS Software Engineer, Consumer Engineering",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -694,6 +757,7 @@
     },
     {
         "id_vaga": 8130697,
+        "hash_vaga": "7160dd48833156f77105e21cb737366a104efeac1bb4857bec6c7462b9e10c28",
         "titulo": "Senior Litigation Paralegal",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -705,6 +769,7 @@
     },
     {
         "id_vaga": 6960833,
+        "hash_vaga": "17c0a544716c0bb27e205545f564f11815902e95bb906c5703158896bd2cbde8",
         "titulo": "Senior Machine Learning Engineer",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -716,6 +781,7 @@
     },
     {
         "id_vaga": 6960831,
+        "hash_vaga": "15dd2fc388f259e9c81e55d7f83bf60c4b2540eb042b171f9387fdfa5ca1aac5",
         "titulo": "Senior Machine Learning Engineer",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -727,6 +793,7 @@
     },
     {
         "id_vaga": 8125507,
+        "hash_vaga": "dce3a6d7097104ffd0c2b70d71eb1ec6c3a1afaafc04bf51dc7c1dc3a854df10",
         "titulo": "Senior Machine Learning Manager, Video Ranking ",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -738,6 +805,7 @@
     },
     {
         "id_vaga": 7731772,
+        "hash_vaga": "6046afb000fe047e706086056c2334c528d5f472c24a5d8c7ff1c7f896cdb92e",
         "titulo": "Senior Machine Learning Systems Engineer",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -749,6 +817,7 @@
     },
     {
         "id_vaga": 8180811,
+        "hash_vaga": "97ecf4f5f3b83fdd262ce0c7676bae2f7d9d48103466e07996d969d776c4c8e1",
         "titulo": "Senior Manager, Community Growth & Intelligence",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -760,6 +829,7 @@
     },
     {
         "id_vaga": 8125836,
+        "hash_vaga": "01ff7dba342b308de967cac1ba100a25bb65e1dc1d99863f456d501f040211fb",
         "titulo": "Senior Principal Program Manager, GTM Excellence",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -771,6 +841,7 @@
     },
     {
         "id_vaga": 8120503,
+        "hash_vaga": "4e1b9315ca76a3f8d6ae55bb0abe0b1bdbae28b9ebf4709003dc16b0db3ba9f1",
         "titulo": "Senior Product Manager, Ads -  Shopping Catalogs",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -782,6 +853,7 @@
     },
     {
         "id_vaga": 8212175,
+        "hash_vaga": "53605ddae9af06e365617397ce8f009ea74a33d7ae58c3d3dac3d2f04d535408",
         "titulo": "Senior Product Manager, Go-To-Market Systems ",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -793,6 +865,7 @@
     },
     {
         "id_vaga": 8237639,
+        "hash_vaga": "f9976dd9eeab25d018894ae46787d8bb99bb80a013c2197314436f911473ddfc",
         "titulo": "Senior Product Manager, Notifications",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -804,6 +877,7 @@
     },
     {
         "id_vaga": 8010425,
+        "hash_vaga": "c0e191d4194c7b2c338f84fc63627c87cad31c857f861c238b5f7e02ea07d72c",
         "titulo": "Senior Program Manager, Business Process Transformation",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -815,6 +889,7 @@
     },
     {
         "id_vaga": 8090680,
+        "hash_vaga": "db683b118f04ae00ccb49f4a39452b3f2e59f80a52c7685404652ad228b377ea",
         "titulo": "Senior Site Reliability Engineer, Ads",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -826,6 +901,7 @@
     },
     {
         "id_vaga": 6909093,
+        "hash_vaga": "14b01eb4c4ed630f4d4e2fd15f0926e22e0d51a85eba74b0c9499bee2da13218",
         "titulo": "Senior Software Engineer, Ads",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -837,6 +913,7 @@
     },
     {
         "id_vaga": 6909091,
+        "hash_vaga": "6901e850293b259198db9e5a9eee75d9fe7d9b4f63fd5948d8e8ff4d05ed1a54",
         "titulo": "Senior Software Engineer, Ads",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -848,6 +925,7 @@
     },
     {
         "id_vaga": 7980795,
+        "hash_vaga": "6e7c76c1ef2e4af9c0b974c5f339bf34ff2b5a2f28295b913d362ab549d0f7c0",
         "titulo": "Senior Software Engineer, Agentic Ads Experience",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -859,6 +937,7 @@
     },
     {
         "id_vaga": 8187247,
+        "hash_vaga": "74f288c9c5b9d27dbbac50ce632e7b9f7fca0a007f8c3019f42875216a9274ff",
         "titulo": "Senior Software Engineer, Consumer Engineering",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -870,6 +949,7 @@
     },
     {
         "id_vaga": 8022448,
+        "hash_vaga": "73edc71dcd480eecc5e2636e498a4e6a1c44793d5b169f8ff56531b730758ac0",
         "titulo": "Senior Software Engineer, Core Platform",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -881,6 +961,7 @@
     },
     {
         "id_vaga": 8022449,
+        "hash_vaga": "73edc71dcd480eecc5e2636e498a4e6a1c44793d5b169f8ff56531b730758ac0",
         "titulo": "Senior Software Engineer, Core Platform",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -892,6 +973,7 @@
     },
     {
         "id_vaga": 8022447,
+        "hash_vaga": "73edc71dcd480eecc5e2636e498a4e6a1c44793d5b169f8ff56531b730758ac0",
         "titulo": "Senior Software Engineer, Core Platform",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -903,6 +985,7 @@
     },
     {
         "id_vaga": 8022446,
+        "hash_vaga": "73edc71dcd480eecc5e2636e498a4e6a1c44793d5b169f8ff56531b730758ac0",
         "titulo": "Senior Software Engineer, Core Platform",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -914,6 +997,7 @@
     },
     {
         "id_vaga": 8022441,
+        "hash_vaga": "73edc71dcd480eecc5e2636e498a4e6a1c44793d5b169f8ff56531b730758ac0",
         "titulo": "Senior Software Engineer, Core Platform",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -925,6 +1009,7 @@
     },
     {
         "id_vaga": 7950520,
+        "hash_vaga": "5ebcfb7623f45ddbda4ce1bcc50b9ab698903bbaeef2262fdc4d52ed8fceeccc",
         "titulo": "Senior Software Engineer - DevX",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -936,6 +1021,7 @@
     },
     {
         "id_vaga": 7976852,
+        "hash_vaga": "f60a034d52265ca1b3b437f11b3d6cb452bcb67eb9545c1ed86f786f8db561c7",
         "titulo": "Senior Software Engineer - Full Stack Internal Tooling (Build and Deployment Platform)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -947,6 +1033,7 @@
     },
     {
         "id_vaga": 8100220,
+        "hash_vaga": "5524ffb5425480f93cb1b5c43496ba66fa28d4fbf1876b9b6d6e9646b570c441",
         "titulo": "Senior Software Engineer, Media Creation",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -958,6 +1045,7 @@
     },
     {
         "id_vaga": 8106246,
+        "hash_vaga": "56fc7adf08bb3e8b68bbcf4a0baa9fc4b24bc685094c67654d72421571c25661",
         "titulo": "Senior Software Engineer - Messaging",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -969,6 +1057,7 @@
     },
     {
         "id_vaga": 7511679,
+        "hash_vaga": "5ee503026be13bbbabace267fbb8b51631b8103110b59d1bfc3c7e711e7874dc",
         "titulo": "Senior Software Engineer, Storage",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -980,6 +1069,7 @@
     },
     {
         "id_vaga": 7974507,
+        "hash_vaga": "8635955ea16fc9fcfd175c53b1c6a97f6a4d827f7c3222ae3529cbbb7510443a",
         "titulo": "Senior Staff Data Scientist - Consumer Experimentation",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -991,6 +1081,7 @@
     },
     {
         "id_vaga": 7974504,
+        "hash_vaga": "466c9c302b7f6772dadc352895f888d979b5c84e69a66f072be2d9166f689f68",
         "titulo": "Senior Staff Data Scientist - Consumer Experimentation",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1002,6 +1093,7 @@
     },
     {
         "id_vaga": 8201359,
+        "hash_vaga": "c50f3f98ebdfca690ef976012589ea90271bba94e3e8e4eb6b2932679be45b28",
         "titulo": "Senior Staff Machine Learning Engineer, Agentic AI Platform (Ads Ranking) ",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1013,6 +1105,7 @@
     },
     {
         "id_vaga": 8122606,
+        "hash_vaga": "d7eac51e39c345b0c0360d93b81997e03481f8da1e3cec9bcd784b5f9f08481a",
         "titulo": "Senior Staff Machine Learning Engineer, Feed Relevance",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1024,6 +1117,7 @@
     },
     {
         "id_vaga": 7772274,
+        "hash_vaga": "27b4d4cbae1ded8fa9432ff593b40097965fd6093a518706bedf80c18e9650cf",
         "titulo": "Senior Staff Machine Learning Engineer, GenAI Platform",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1035,6 +1129,7 @@
     },
     {
         "id_vaga": 8243010,
+        "hash_vaga": "7050ea0a1914ce25f72bd08b1c27d9b77e8871bbecb6a58bac3f22a6a844f48f",
         "titulo": "Senior Staff Machine Learning Engineer, ML Understanding",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1046,6 +1141,7 @@
     },
     {
         "id_vaga": 8157275,
+        "hash_vaga": "81a03216cd532165d4dba1923b08214b44a79b3fe10861af8b28988f2c9a283c",
         "titulo": "Senior Staff Machine Learning Systems Engineer, Ads ML Platform",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1057,6 +1153,7 @@
     },
     {
         "id_vaga": 8060775,
+        "hash_vaga": "6cfb44c9d4c8497562681a273ecd430d0f590d45e7106063e5c87ad55f4da168",
         "titulo": "Senior Staff Software Engineer, Client Architecture",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1068,6 +1165,7 @@
     },
     {
         "id_vaga": 8147802,
+        "hash_vaga": "332f5e969afae7d66098b77d2cfb7db72626f427127ac5ead078142073c32eb0",
         "titulo": "Senior Support Engineer, Snoo Operations & Support",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1079,6 +1177,7 @@
     },
     {
         "id_vaga": 8221539,
+        "hash_vaga": "2810001140436f64154b54bc53bfdcb988d4291f2662a0380b8312ce442d3cc2",
         "titulo": "Senior Technical Solutions Manager",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1090,6 +1189,7 @@
     },
     {
         "id_vaga": 6512458,
+        "hash_vaga": "2cfa8504db308ed41d90a42c256ccecfcda3f90f2faa1f1f25d83a284804e2c6",
         "titulo": "Software Engineer, Ads",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1101,6 +1201,7 @@
     },
     {
         "id_vaga": 6469397,
+        "hash_vaga": "235380444a363e3226406bcbeb673f71a0491c10f5e80fc31fec69c0cd2440db",
         "titulo": "Software Engineer, Ads",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1112,6 +1213,7 @@
     },
     {
         "id_vaga": 8172457,
+        "hash_vaga": "dd54b3d3ad0252279c61bbde13e38cb1584bd0c7383b970cf51c2a7987fcee9c",
         "titulo": "Software Engineer, Consumer Engineering",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1123,6 +1225,7 @@
     },
     {
         "id_vaga": 8139781,
+        "hash_vaga": "7d6e6d01caa37c5d946c76408278bde618ee5be9260571c07879301fa1c2eb0f",
         "titulo": "Software Engineer, Content Platform",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1134,6 +1237,7 @@
     },
     {
         "id_vaga": 8214910,
+        "hash_vaga": "04d744815ed34e0d7144d4c3672b216a5224b18af4b6637753abb81d581e4d8a",
         "titulo": "Software Engineer, Ingestion Platform",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1145,6 +1249,7 @@
     },
     {
         "id_vaga": 8127002,
+        "hash_vaga": "a64949c4d3362386daa9624cbd97317419dce20d0aa66010a64b29efb85fce4b",
         "titulo": "Staff Android Engineer, Brand Ad Formats",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1156,6 +1261,7 @@
     },
     {
         "id_vaga": 7721787,
+        "hash_vaga": "9465c8be455785da84c78ee627ed9250a97d39ae2183954305ded72fd7a61590",
         "titulo": "Staff Data Scientist, Ads",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1167,6 +1273,7 @@
     },
     {
         "id_vaga": 7721851,
+        "hash_vaga": "b7c9106597fce4d64938de16695b0496aa0092b7fa90b4f77963bd5c83402984",
         "titulo": "Staff Data Scientist, Ads",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1178,6 +1285,7 @@
     },
     {
         "id_vaga": 8072076,
+        "hash_vaga": "ef63dd41d265b6ea360d46dc0379f96817bb8166c3c4401db4fc97a8c5334af5",
         "titulo": "Staff Data Scientist - Ads Measurement, Signals, Privacy",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1189,6 +1297,7 @@
     },
     {
         "id_vaga": 8103609,
+        "hash_vaga": "95b7f27921e3fcd26e8897177a45c4b5a249ea8467838f35f5ad910a02b64718",
         "titulo": "Staff Data Scientist - Ads Measurement, Signals, Privacy",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1200,6 +1309,7 @@
     },
     {
         "id_vaga": 7931000,
+        "hash_vaga": "f7841e4fc8b2cef47fa6d280a19a3a7e1f15414eaa40ed7607a2985809115be8",
         "titulo": "Staff Data Scientist, Marketing",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1211,6 +1321,7 @@
     },
     {
         "id_vaga": 7445240,
+        "hash_vaga": "05b317addd38dbba0262274bda62875f6c54d0b647e9f5eead54272c2a317758",
         "titulo": "Staff Data Scientist, Marketing",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1222,6 +1333,7 @@
     },
     {
         "id_vaga": 7895156,
+        "hash_vaga": "ef8b6da9c35de8ba835ef63e04ecf6d893dcf62d2ea22a184f253f9906292e80",
         "titulo": "Staff iOS Engineer, Media Foundation",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1233,6 +1345,7 @@
     },
     {
         "id_vaga": 8250389,
+        "hash_vaga": "8448879cc5f3c873457815487c422ef5e555aaafcdd03de56f828288d8666ce6",
         "titulo": "Staff Machine Learning Engineer, Ads Creative Effectiveness",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1244,6 +1357,7 @@
     },
     {
         "id_vaga": 8018517,
+        "hash_vaga": "b4475cd3f7d6670b6fae4bb9780fbd0acae2b72678e12285d16a07bddc17bdf1",
         "titulo": "Staff Machine Learning Engineer, Ads Foundational Representations",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1255,6 +1369,7 @@
     },
     {
         "id_vaga": 8018513,
+        "hash_vaga": "615cdf7a6fd1c112f4b50850acaab66f87e36586a3fb0518c0b277ba36cf06e0",
         "titulo": "Staff Machine Learning Engineer, Ads Foundational Representations",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1266,6 +1381,7 @@
     },
     {
         "id_vaga": 8247280,
+        "hash_vaga": "df4f50cd8a862ac3b44cd5bced1f58ac458ed5f91f5921c45354073e2d66f3fd",
         "titulo": "Staff Machine Learning Engineer, Ads ML Efficiency",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1277,6 +1393,7 @@
     },
     {
         "id_vaga": 8203478,
+        "hash_vaga": "b5df75589d3ec0ac8cecddd7e31c4f132b88086755a834c75af1cc8593864714",
         "titulo": "Staff Machine Learning Engineer, AI Security",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1288,6 +1405,7 @@
     },
     {
         "id_vaga": 8187652,
+        "hash_vaga": "8eb955b9ecf2a883826750e513874955687772db52742ec4d36e3ffc9ffa1d94",
         "titulo": "Staff Machine Learning Engineer, App Ads Modeling",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1299,6 +1417,7 @@
     },
     {
         "id_vaga": 7747244,
+        "hash_vaga": "561dc98875aa46d51953ac2604810feb4d73bbb895c5f581a38cdbb6eb47937b",
         "titulo": "Staff Machine Learning Engineer, Consumer ",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1310,6 +1429,7 @@
     },
     {
         "id_vaga": 8178085,
+        "hash_vaga": "306f1ae2b1796b5410c9666a3bdd60a14393a0e52b756af9753b2539239219d9",
         "titulo": "Staff Machine Learning Engineer, Retrieval",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1321,6 +1441,7 @@
     },
     {
         "id_vaga": 7731788,
+        "hash_vaga": "edc82ca6ff92bdd8490a68d501db7d7e71d58fced0f1193609bf4f3eaec93b71",
         "titulo": "Staff Machine Learning Systems Engineer",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1332,6 +1453,7 @@
     },
     {
         "id_vaga": 7701558,
+        "hash_vaga": "9ecbddce1460c3c92482488e211d74006966997e546c51699d52f0822e317cca",
         "titulo": "Staff Product Designer, Growth",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1343,6 +1465,7 @@
     },
     {
         "id_vaga": 8120566,
+        "hash_vaga": "ce0e40065f69c4878f7c5944e71b64bcc740f94332fda706f4c9fd20505416d8",
         "titulo": "Staff Product Designer, Presence",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1354,6 +1477,7 @@
     },
     {
         "id_vaga": 8167412,
+        "hash_vaga": "89b5e2528a1a3e738a61ce760461e48a242112610e978172f4bed7589988c781",
         "titulo": "Staff Product Manager, Ads Formats",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1365,6 +1489,7 @@
     },
     {
         "id_vaga": 8070669,
+        "hash_vaga": "7e5ebcfa12c2483e8b42aae42f09d824c90a806f3a8ad59a00a21ec8895fa420",
         "titulo": "Staff Product Manager, Ads Safety (Ads Review)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1376,6 +1501,7 @@
     },
     {
         "id_vaga": 7996994,
+        "hash_vaga": "ed6cb3264d3103c8697219ad33752b0d082f3e9924407a6895c223fc21a3ff91",
         "titulo": "Staff Product Manager, Community Builders",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1387,6 +1513,7 @@
     },
     {
         "id_vaga": 8088710,
+        "hash_vaga": "d6d8fb08d51271f0ff2d8ff380a5b523f41583b14e8b238693765fa8f1d56da8",
         "titulo": "Staff Product Manager, Moderation",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1398,6 +1525,7 @@
     },
     {
         "id_vaga": 7868511,
+        "hash_vaga": "1c9ca404b5be75c034b072be8aa99387ea2995a017e99501a889b29a23990e71",
         "titulo": "Staff Product Security Engineer",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1409,6 +1537,7 @@
     },
     {
         "id_vaga": 7909463,
+        "hash_vaga": "4b44cfb26978514eddc1bd9e538fce1a4d0419535183df11f671850fff8d6204",
         "titulo": "Staff Site Reliability Engineer, Ads",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1420,6 +1549,7 @@
     },
     {
         "id_vaga": 8205702,
+        "hash_vaga": "158a29655ce1b5adb0ed5b102a31d85d30eb1ee27901e8aacd16589c3991b81b",
         "titulo": "Staff Software Engineer, Consumer Engineering",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1431,6 +1561,7 @@
     },
     {
         "id_vaga": 8180636,
+        "hash_vaga": "795939ca86871452cd62bc5855e89ffc069c2328b74253a23cb75a87c8b8252d",
         "titulo": "Staff Software Engineer, Developer Ecosystem",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1442,6 +1573,7 @@
     },
     {
         "id_vaga": 8049901,
+        "hash_vaga": "c2e52433cc4984bb10e0b5ac56544ec2d1839685a2315958b25b9a01e12a957f",
         "titulo": "Staff Software Engineer, DevPlatform",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1453,6 +1585,7 @@
     },
     {
         "id_vaga": 8031491,
+        "hash_vaga": "22f324ac4a9ed7273d47faac2766ecb5f94487975f5c9846b95ae21f9480947e",
         "titulo": "Staff Software Engineer, Identity & Access Management",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1464,6 +1597,7 @@
     },
     {
         "id_vaga": 8205402,
+        "hash_vaga": "e47b41758eedbf4760dd87c5a743f31354d8c4ccf74b97c5f290249e82130a50",
         "titulo": "Staff Software Engineer - Ingestion Platform ",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1475,6 +1609,7 @@
     },
     {
         "id_vaga": 8048988,
+        "hash_vaga": "ebed3a89f61170da4466c4649ab17b4dba24dca5d82c9b9ae254a95730bb6f97",
         "titulo": "Staff Software Engineer, Media Experience",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1486,6 +1621,7 @@
     },
     {
         "id_vaga": 8029641,
+        "hash_vaga": "293cd8a976d7c2327f8e88a47b3d18c784c0990cbc2da56bb20b0bbfbc278030",
         "titulo": "Staff Software Engineer, Media Foundations",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1497,6 +1633,7 @@
     },
     {
         "id_vaga": 8131228,
+        "hash_vaga": "360ce8cf73884eb4f36ba214991e98cbda0a94e47853526f70ce494d44b42a3c",
         "titulo": "Staff Software Engineer , Observability",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1508,6 +1645,7 @@
     },
     {
         "id_vaga": 7961154,
+        "hash_vaga": "53ea3659010c38dbf3c8152d7653c7c8cc89b0b933fccb2addf115ad4c46d82c",
         "titulo": "Staff Software Engineer, Onboarding",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1519,6 +1657,7 @@
     },
     {
         "id_vaga": 8175131,
+        "hash_vaga": "2a610a491b4ec501d3b262426ba79370dcbb52ac2fdff12e1ba97ffb3e153099",
         "titulo": "Staff Software Engineer - Site Defense",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1530,6 +1669,7 @@
     },
     {
         "id_vaga": 7954001,
+        "hash_vaga": "fe4c681d4addc396bf99e1bd77dc30d1464ac2a4e4b46397d17e9522125a2abc",
         "titulo": "Staff Technical Product Manager, Ads ML Platform ",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1541,6 +1681,7 @@
     },
     {
         "id_vaga": 8049762,
+        "hash_vaga": "eeb859da709c4265f54d60b891d6a9b3b68323ec3e9bf2f66d5f3852f77f3090",
         "titulo": "Staff Technical Program Manager",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1552,6 +1693,7 @@
     },
     {
         "id_vaga": 7995207,
+        "hash_vaga": "d0f60f66465f787fee01c67b6a43c9e67afc95f29a9b1dffd17efaa65c9b3354",
         "titulo": "Staff Technical Program Manager, Infrastructure ",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1563,6 +1705,7 @@
     },
     {
         "id_vaga": 8189395,
+        "hash_vaga": "20c5e66a59e035c06a86fb6d2d9c756114aa9919b0a79889ab8f7ef545e97677",
         "titulo": "Staff Threat Analyst, Ads Fraud",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1574,6 +1717,7 @@
     },
     {
         "id_vaga": 8159077,
+        "hash_vaga": "39397400e9808f9383417506f10745d2c3e9dd4885d95a4062a2fa5947266ed9",
         "titulo": "Trust and Safety Policy, Ads Policy,  Lead",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1585,6 +1729,7 @@
     },
     {
         "id_vaga": 8190630,
+        "hash_vaga": "265d8cc642722d2c4bc0a3c3758516e464a39686a43bf78ac2d44a6a868e7b7a",
         "titulo": "Trust and Safety Policy, Ads Policy,  Lead (Europe)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1596,6 +1741,7 @@
     },
     {
         "id_vaga": 8188275,
+        "hash_vaga": "df3c11c2bdc7ade78d81467573c0b99be662ade9f80059f9120cd67232fba2c9",
         "titulo": "Trust and Safety Policy, Ads Policy,  Lead (Europe)",
         "empresa": "reddit",
         "fonte": "greenhouse",
@@ -1607,6 +1753,7 @@
     },
     {
         "id_vaga": 8190627,
+        "hash_vaga": "a0dc67bf70bd463e6329cd24928df926d20275276ed9eeda1f1260026217a88a",
         "titulo": "Trust and Safety Policy, Ads Policy,  Lead (Europe)",
         "empresa": "reddit",
         "fonte": "greenhouse",
